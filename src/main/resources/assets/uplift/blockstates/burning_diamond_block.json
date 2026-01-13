@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "uplift:block/burning_diamond_block" }
+    }
+}

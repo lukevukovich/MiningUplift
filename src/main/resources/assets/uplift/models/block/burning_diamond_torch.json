@@ -1,0 +1,6 @@
+{
+    "parent": "block/template_torch",
+    "textures": {
+        "torch": "uplift:blocks/burning_diamond_torch"
+    }
+}

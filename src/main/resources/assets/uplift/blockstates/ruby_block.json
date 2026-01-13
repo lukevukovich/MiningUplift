@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "uplift:block/ruby_block" }
+    }
+}

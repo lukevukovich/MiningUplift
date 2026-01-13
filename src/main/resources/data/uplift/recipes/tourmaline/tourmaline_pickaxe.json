@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        " A ",
+        " A "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:tourmaline"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:tourmaline_pickaxe",
+        "count": 1
+    }
+}

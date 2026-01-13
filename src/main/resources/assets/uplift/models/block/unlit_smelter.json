@@ -1,0 +1,9 @@
+
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "uplift:blocks/smelter_top",
+        "front": "uplift:blocks/smelter_front_unlit",
+        "side": "uplift:blocks/smelter_side"
+    }
+}

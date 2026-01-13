@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:ender_gem"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:ender_boots",
+        "count": 1
+    }
+}

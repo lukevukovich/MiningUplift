@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "facing=north":  { "model": "uplift:block/smelter" },
+        "facing=east":   { "model": "uplift:block/smelter", "y": 90 },
+        "facing=south":   { "model": "uplift:block/smelter", "y": 180 },
+        "facing=west":   { "model": "uplift:block/smelter", "y": 270 },
+        
+        "facing=north":  { "model": "uplift:block/smelter" },
+        "facing=east":   { "model": "uplift:block/smelter", "y": 90 },
+        "facing=south":   { "model": "uplift:block/smelter", "y": 180 },
+        "facing=west":   { "model": "uplift:block/smelter", "y": 270 }
+    }
+}

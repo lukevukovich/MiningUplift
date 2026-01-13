@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:platinum_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:platinum_boots",
+        "count": 1
+    }
+}

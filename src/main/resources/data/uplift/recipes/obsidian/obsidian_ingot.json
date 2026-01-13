@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        " I ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:obsidian_block"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:obsidian_ingot",
+        "count": 9
+    }
+}

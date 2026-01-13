@@ -1,0 +1,10 @@
+{
+	"type": "uplift:uplift",
+	"output": {
+		"item": "uplift:uranium_ingot"
+	},
+	
+	"input": {
+		"item": "uplift:uranium_ore"
+	}
+}

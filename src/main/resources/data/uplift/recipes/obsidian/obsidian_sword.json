@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I ",
+        " I ",
+        " A "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:obsidian_ingot"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:obsidian_sword",
+        "count": 1
+    }
+}

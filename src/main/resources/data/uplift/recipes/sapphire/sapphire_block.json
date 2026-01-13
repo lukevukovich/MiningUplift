@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:sapphire"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:sapphire_block",
+        "count": 1
+    }
+}

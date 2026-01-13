@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        " A ",
+        " A "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:platinum_ingot"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:platinum_pickaxe",
+        "count": 1
+    }
+}

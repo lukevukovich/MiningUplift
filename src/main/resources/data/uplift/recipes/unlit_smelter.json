@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "I I",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:obsidian"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:unlit_smelter",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        " I ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:ruby_block"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:ruby",
+        "count": 9
+    }
+}

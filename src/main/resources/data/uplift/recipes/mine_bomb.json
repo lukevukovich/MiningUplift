@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " A ",
+        "AXA",
+        " A "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "uplift:gem_dust"
+        },
+        
+        "X":
+        {
+            "item": "minecraft:gunpowder"        
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:mine_bomb",
+        "count": 1
+    }
+}

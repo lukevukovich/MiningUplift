@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I ",
+        " A ",
+        " A "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:sapphire"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:sapphire_shovel",
+        "count": 1
+    }
+}

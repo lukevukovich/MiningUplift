@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "AIA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:golden_apple"
+        },
+        
+        "A":
+        {
+            "item": "uplift:rose_gold_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:rose_golden_apple",
+        "count": 1
+    }
+}

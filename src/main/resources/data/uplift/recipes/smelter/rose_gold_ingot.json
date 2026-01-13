@@ -1,0 +1,10 @@
+{
+	"type": "uplift:uplift",
+	"output": {
+		"item": "uplift:rose_gold_ingot"
+	},
+	
+	"input": {
+		"item": "uplift:rose_gold_ore"
+	}
+}

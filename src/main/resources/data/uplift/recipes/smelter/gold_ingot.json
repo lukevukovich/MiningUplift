@@ -1,0 +1,10 @@
+{
+	"type": "uplift:uplift",
+	"output": {
+		"item": "minecraft:gold_ingot"
+	},
+	
+	"input": {
+		"item": "minecraft:gold_ore"
+	}
+}

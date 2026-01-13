@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        " I ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:uranium_block"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:uranium_ingot",
+        "count": 9
+    }
+}

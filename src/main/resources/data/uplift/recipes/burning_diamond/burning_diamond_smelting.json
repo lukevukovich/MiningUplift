@@ -1,0 +1,10 @@
+
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "uplift:burning_diamond_ore"
+  },
+  "result": "uplift:burning_diamond",
+  "experience": 1.0,
+  "cookingtime": 200
+}

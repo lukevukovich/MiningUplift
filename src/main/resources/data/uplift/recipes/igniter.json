@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients": [
+
+        {
+            "item": "uplift:burning_diamond"
+        },
+		{
+            "item": "minecraft:flint_and_steel"
+		}
+    ],
+    
+    "result":
+    {
+        "item":  "uplift:igniter",
+        "count": 1
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I ",
+        " A ",
+        " X "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:coal"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "X":
+        {
+            "item": "minecraft:obsidian"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:obsidian_torch",
+        "count": 8
+    }
+}

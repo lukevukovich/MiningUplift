@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:burning_diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:burning_diamond_boots",
+        "count": 1
+    }
+}

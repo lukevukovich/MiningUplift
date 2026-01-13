@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I ",
+        " A ",
+        " X "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:coal"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "X":
+        {
+            "item": "uplift:ender_gem"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:ender_torch",
+        "count": 8
+    }
+}

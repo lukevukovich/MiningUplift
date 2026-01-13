@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:sapphire"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:sapphire_leggings",
+        "count": 1
+    }
+}

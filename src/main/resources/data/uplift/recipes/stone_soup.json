@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients": [
+
+        {
+            "item": "uplift:stone_meal"
+        },
+		{
+            "item": "minecraft:bowl"
+		}
+    ],
+    
+    "result":
+    {
+        "item":  "uplift:stone_soup",
+        "count": 1
+    }
+}

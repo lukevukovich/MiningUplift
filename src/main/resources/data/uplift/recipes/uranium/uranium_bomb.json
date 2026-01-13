@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " A ",
+        "AXA",
+        " A "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "uplift:uranium_ingot"
+        },
+        
+        "X":
+        {
+            "item": "minecraft:gunpowder"        
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:uranium_bomb",
+        "count": 1
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "uplift:block/igniter_fire_floor",
+    "textures": {
+        "particle": "uplift:blocks/igniter_fire_1",
+        "fire": "uplift:blocks/igniter_fire_1"
+    }
+}

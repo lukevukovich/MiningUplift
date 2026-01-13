@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east": { "model": "uplift:block/obsidian_wall_torch" },
+        "facing=south": { "model": "uplift:block/obsidian_wall_torch", "y": 90 },
+        "facing=west": { "model": "uplift:block/obsidian_wall_torch", "y": 180 },
+        "facing=north": { "model": "uplift:block/obsidian_wall_torch", "y": 270 }
+    }
+}

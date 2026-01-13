@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "IAI",
+        "IAI",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:stone"
+        },
+        
+        "A":
+        {
+            "item": "uplift:platinum_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:gem_crusher",
+        "count": 1
+    }
+}

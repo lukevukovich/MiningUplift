@@ -1,0 +1,10 @@
+
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "uplift:ruby_ore"
+  },
+  "result": "uplift:ruby",
+  "experience": 1.0,
+  "cookingtime": 100
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "IAI",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:gemstone"
+        },
+        
+        "A":
+        {
+            "item": "uplift:obsidian_block"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:cave_teleporter",
+        "count": 1
+    }
+}

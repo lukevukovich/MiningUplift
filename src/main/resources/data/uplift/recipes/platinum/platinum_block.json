@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:platinum_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:platinum_block",
+        "count": 1
+    }
+}

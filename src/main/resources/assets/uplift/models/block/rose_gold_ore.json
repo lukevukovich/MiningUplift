@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "uplift:blocks/rose_gold_ore"
+    }
+}

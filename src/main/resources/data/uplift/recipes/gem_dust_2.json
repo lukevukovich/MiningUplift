@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        " I ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:gemstone"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:gem_dust",
+        "count": 3
+    }
+}

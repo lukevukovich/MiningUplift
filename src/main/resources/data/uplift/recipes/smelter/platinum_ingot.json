@@ -1,0 +1,10 @@
+{
+	"type": "uplift:uplift",
+	"output": {
+		"item": "uplift:platinum_ingot"
+	},
+	
+	"input": {
+		"item": "uplift:platinum_ore"
+	}
+}

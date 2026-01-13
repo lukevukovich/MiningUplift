@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:ruby"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:ruby_boots",
+        "count": 1
+    }
+}

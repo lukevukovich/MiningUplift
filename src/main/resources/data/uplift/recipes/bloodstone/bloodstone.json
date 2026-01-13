@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        " I ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:bloodstone_block"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:bloodstone",
+        "count": 9
+    }
+}

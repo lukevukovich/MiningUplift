@@ -1,0 +1,10 @@
+
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "uplift:tasmanite_ore"
+  },
+  "result": "uplift:tasmanite",
+  "experience": 1.0,
+  "cookingtime": 100
+}

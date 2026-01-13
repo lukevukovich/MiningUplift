@@ -1,0 +1,10 @@
+
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "uplift:platinum_tag"
+  },
+  "result": "uplift:platinum_nugget",
+  "experience": 12.0,
+  "cookingtime": 600
+}

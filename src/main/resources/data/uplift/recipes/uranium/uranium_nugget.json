@@ -1,0 +1,10 @@
+
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "uplift:uranium_tag"
+  },
+  "result": "uplift:uranium_nugget",
+  "experience": 8.0,
+  "cookingtime": 400
+}
