@@ -35,10 +35,11 @@ public class UpliftRecipeSerializer extends ForgeRegistryEntry<IRecipeSerializer
 	@Override
 	public void write(PacketBuffer buffer, UpliftRecipe recipe) {
 
+		// Write order must match read(): first output ItemStack, then input Ingredient
+		buffer.writeItemStack(recipe.getRecipeOutput(), false);
+
 		Ingredient input = recipe.getIngredients().get(0);
 		input.write(buffer);
-		
-		buffer.writeItemStack(recipe.getRecipeOutput(), false);
 	}
 
 
