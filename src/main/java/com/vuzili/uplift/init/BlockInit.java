@@ -5,7 +5,7 @@ import com.vuzili.uplift.Uplift.UpliftItemGroup;
 import com.vuzili.uplift.objects.blocks.BlockXp;
 import com.vuzili.uplift.objects.blocks.BurningDiamondBlockFuel;
 import com.vuzili.uplift.objects.blocks.BurningDiamondFlammable;
-import com.vuzili.uplift.objects.blocks.CaveTeleporter;
+import com.vuzili.uplift.objects.blocks.CavePortal;
 import com.vuzili.uplift.objects.blocks.GemCrusher;
 import com.vuzili.uplift.objects.blocks.IgniterFire;
 import com.vuzili.uplift.objects.blocks.SmelterFurnaceBlock;
@@ -111,7 +111,7 @@ public class BlockInit
 	public static final Block igniter_fire = null;
 	
 	//Portal
-	public static final Block cave_teleporter = null;
+	public static final Block cave_portal = null;
 
 
 	@SubscribeEvent
@@ -193,8 +193,12 @@ public class BlockInit
 		//Fire
 		event.getRegistry().register(new IgniterFire(Block.Properties.create(Material.FIRE, MaterialColor.TNT).doesNotBlockMovement().tickRandomly().hardnessAndResistance(0.0f).lightValue(15).noDrops().sound(SoundTypeInit.NONE)).setRegistryName("igniter_fire"));
 		
-		//Teleporter
-		event.getRegistry().register(new CaveTeleporter(Block.Properties.from(Blocks.GLOWSTONE).hardnessAndResistance(0.4F, 1200.0F)).setRegistryName("cave_teleporter"));
+		//Teleporter (Portal-like)
+		event.getRegistry().register(new CavePortal(Block.Properties.create(Material.PORTAL)
+			.doesNotBlockMovement()
+			.hardnessAndResistance(-1.0F)
+			.noDrops())
+			.setRegistryName("cave_portal"));
 
 	}
 	
@@ -270,7 +274,7 @@ public class BlockInit
 		event.getRegistry().register(new BlockItem(igniter_fire, new Item.Properties()).setRegistryName("igniter_fire"));
 		
 		//Portal
-		event.getRegistry().register(new BlockItem(cave_teleporter, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("cave_teleporter"));
+		event.getRegistry().register(new BlockItem(cave_portal, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("cave_portal"));
 		
 	}
 

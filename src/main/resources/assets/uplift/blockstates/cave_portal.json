@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "uplift:block/cave_portal" },
+    "axis=z": { "model": "uplift:block/cave_portal", "y": 90 }
+  }
+}

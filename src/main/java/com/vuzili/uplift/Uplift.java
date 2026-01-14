@@ -14,6 +14,7 @@ import com.vuzili.uplift.init.RecipeSerializerInit;
 import com.vuzili.uplift.objects.items.ModSpawnEggItem;
 import com.vuzili.uplift.world.gen.ModOreGen;
 import com.vuzili.uplift.network.NetworkHandler;
+import com.vuzili.uplift.client.gui.TeleportOverlayRenderer;
 
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.client.renderer.RenderTypeLookup;
@@ -101,8 +102,11 @@ public class Uplift
 		RenderTypeLookup.setRenderLayer(BlockInit.opal_wall_torch.getBlock(), RenderType.getCutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.ender_wall_torch.getBlock(), RenderType.getCutout());
 		
-		RenderTypeLookup.setRenderLayer(BlockInit.cave_teleporter.getBlock(), RenderType.getCutout());
+        // Portal should render with translucent layer for animated texture
+        RenderTypeLookup.setRenderLayer(BlockInit.cave_portal.getBlock(), RenderType.getTranslucent());
 
+        // Register teleport overlay renderer for portal screen effect
+        MinecraftForge.EVENT_BUS.register(new TeleportOverlayRenderer());
     }
 
     @SubscribeEvent
