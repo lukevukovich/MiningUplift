@@ -4,7 +4,7 @@
     "pattern":
     [
         "III",
-        "IAI",
+        "I I",
         "III"
     ],
     
@@ -13,11 +13,6 @@
         "I":
         {
             "item": "uplift:gemstone"
-        },
-        
-        "A":
-        {
-            "item": "uplift:obsidian_block"
         }
     },
     

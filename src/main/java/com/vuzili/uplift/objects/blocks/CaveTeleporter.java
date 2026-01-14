@@ -27,7 +27,6 @@ import net.minecraft.util.math.shapes.ISelectionContext;
 import net.minecraft.util.math.shapes.VoxelShape;
 import net.minecraft.world.GameType;
 import net.minecraft.world.IBlockReader;
-import net.minecraft.world.IWorldReader;
 import net.minecraft.world.World;
 import net.minecraft.world.dimension.DimensionType;
 import net.minecraft.world.server.ServerWorld;
@@ -71,27 +70,7 @@ public class CaveTeleporter extends Block {
             worldIn.addParticle(TELEPORTER_PARTICLES, d0, d1, d2, 0.0D, 0.0D, 0.0D);
         }        
     }
-    
-    @SuppressWarnings("deprecation")
-	@Override
-    public boolean isValidPosition(BlockState state, IWorldReader worldIn, BlockPos pos) {
-        // Retrieve the block state of the position directly above this block
-        BlockState aboveState = worldIn.getBlockState(pos.up());
-        BlockState aboveState2 = worldIn.getBlockState(pos.up(2));
-        
-        // If the block above is air (meaning no block is present), then return true (the position is valid)
-        // This effectively means that while other blocks can't be placed directly on top,
-        // your block can exist as long as there's nothing above it.
-        if (aboveState.isAir(worldIn, pos.up()) && aboveState2.isAir(worldIn, pos.up())) {
-            return super.isValidPosition(state, worldIn, pos);
-        }
-        
-        // Otherwise, return false, preventing any block from being placed on top
-        // or this block from being placed if something is already above it.
-        return false;
-    }
 
-    
     @Override
     public void onEntityWalk(World worldIn, BlockPos pos, Entity entityIn) {
         if (!worldIn.isRemote && entityIn instanceof ServerPlayerEntity) {

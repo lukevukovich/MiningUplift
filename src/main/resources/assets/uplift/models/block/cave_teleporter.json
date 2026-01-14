@@ -1,7 +1,8 @@
 {
+  "ambientocclusion": false,
   "textures": {
-    "particle": "uplift:blocks/gemstone",
-    "0": "uplift:blocks/gemstone",
+    "particle": "uplift:blocks/cave_teleporter",
+    "0": "uplift:blocks/cave_teleporter",
     "1": "minecraft:block/black_concrete_powder",
     "3": "uplift:blocks/portal"
   },
@@ -15,7 +16,7 @@
         "east": { "texture": "#0", "uv": [0.0, 0.0, 16.0, 3.0] },
         "south": { "texture": "#0", "uv": [0.0, 0.0, 14.0, 2.0] },
         "west": { "texture": "#0", "uv": [0.0, 0.0, 16.0, 3.0] },
-        "up": { "texture": "#1", "uv": [0.0, 0.0, 16.0, 16.0] },
+        "up": { "texture": "#0", "uv": [0.0, 0.0, 16.0, 16.0] },
         "down": { "texture": "#0", "uv": [0.0, 0.0, 16.0, 16.0] }
       }
     },
@@ -43,6 +44,162 @@
         "west": { "texture": "#3", "uv": [0.0, 0.0, 8.0, 0.2] },
         "up": { "texture": "#3", "uv": [0.0, 0.0, 8.0, 8.0] },
         "down": { "texture": "#3", "uv": [0.0, 0.0, 8.0, 8.0] }
+      }
+    },
+    {
+      "name": "Corner NW - North Arm",
+      "from": [1.0, 3.2, 0.0],
+      "to": [2.0, 5.0, 0.95],
+      "faces": {
+        "north": { "texture": "#1" },
+        "east": { "texture": "#1" },
+        "south": { "texture": "#1" },
+        "west": { "texture": "#1" },
+        "up": { "texture": "#1" },
+        "down": { "texture": "#1" }
+      }
+    },
+    {
+      "name": "Corner NW - West Arm",
+      "from": [0.0, 3.2, 1.0],
+      "to": [0.95, 5.0, 2.0],
+      "faces": {
+        "north": { "texture": "#1" },
+        "east": { "texture": "#1" },
+        "south": { "texture": "#1" },
+        "west": { "texture": "#1" },
+        "up": { "texture": "#1" },
+        "down": { "texture": "#1" }
+      }
+    },
+    {
+      "name": "Corner NW - Corner",
+      "from": [0.0, 3.2, 0.0],
+      "to": [0.95, 5.0, 0.95],
+      "faces": {
+        "north": { "texture": "#1" },
+        "east": { "texture": "#1" },
+        "south": { "texture": "#1" },
+        "west": { "texture": "#1" },
+        "up": { "texture": "#1" },
+        "down": { "texture": "#1" }
+      }
+    },
+    {
+      "name": "Corner NE - North Arm",
+      "from": [14.0, 3.2, 0.0],
+      "to": [15.0, 5.0, 0.95],
+      "faces": {
+        "north": { "texture": "#1" },
+        "east": { "texture": "#1" },
+        "south": { "texture": "#1" },
+        "west": { "texture": "#1" },
+        "up": { "texture": "#1" },
+        "down": { "texture": "#1" }
+      }
+    },
+    {
+      "name": "Corner NE - East Arm",
+      "from": [15.05, 3.2, 1.0],
+      "to": [16.0, 5.0, 2.0],
+      "faces": {
+        "north": { "texture": "#1" },
+        "east": { "texture": "#1" },
+        "south": { "texture": "#1" },
+        "west": { "texture": "#1" },
+        "up": { "texture": "#1" },
+        "down": { "texture": "#1" }
+      }
+    },
+    {
+      "name": "Corner NE - Corner",
+      "from": [15.05, 3.2, 0.0],
+      "to": [16.0, 5.0, 0.95],
+      "faces": {
+        "north": { "texture": "#1" },
+        "east": { "texture": "#1" },
+        "south": { "texture": "#1" },
+        "west": { "texture": "#1" },
+        "up": { "texture": "#1" },
+        "down": { "texture": "#1" }
+      }
+    },
+    {
+      "name": "Corner SW - West Arm",
+      "from": [0.0, 3.2, 14.0],
+      "to": [0.95, 5.0, 15.0],
+      "faces": {
+        "north": { "texture": "#1" },
+        "east": { "texture": "#1" },
+        "south": { "texture": "#1" },
+        "west": { "texture": "#1" },
+        "up": { "texture": "#1" },
+        "down": { "texture": "#1" }
+      }
+    },
+    {
+      "name": "Corner SW - South Arm",
+      "from": [1.0, 3.2, 15.05],
+      "to": [2.0, 5.0, 16.0],
+      "faces": {
+        "north": { "texture": "#1" },
+        "east": { "texture": "#1" },
+        "south": { "texture": "#1" },
+        "west": { "texture": "#1" },
+        "up": { "texture": "#1" },
+        "down": { "texture": "#1" }
+      }
+    },
+    {
+      "name": "Corner SW - Corner",
+      "from": [0.0, 3.2, 15.05],
+      "to": [0.95, 5.0, 16.0],
+      "faces": {
+        "north": { "texture": "#1" },
+        "east": { "texture": "#1" },
+        "south": { "texture": "#1" },
+        "west": { "texture": "#1" },
+        "up": { "texture": "#1" },
+        "down": { "texture": "#1" }
+      }
+    },
+    {
+      "name": "Corner SE - East Arm",
+      "from": [15.05, 3.2, 14.0],
+      "to": [16.0, 5.0, 15.0],
+      "faces": {
+        "north": { "texture": "#1" },
+        "east": { "texture": "#1" },
+        "south": { "texture": "#1" },
+        "west": { "texture": "#1" },
+        "up": { "texture": "#1" },
+        "down": { "texture": "#1" }
+      }
+    },
+    {
+      "name": "Corner SE - South Arm",
+      "from": [14.0, 3.2, 15.05],
+      "to": [15.0, 5.0, 16.0],
+      "faces": {
+        "north": { "texture": "#1" },
+        "east": { "texture": "#1" },
+        "south": { "texture": "#1" },
+        "west": { "texture": "#1" },
+        "up": { "texture": "#1" },
+        "down": { "texture": "#1" }
+      }
+    },
+    {
+      "name": "Corner SE - Corner",
+      "from": [15.05, 3.2, 15.05],
+      "to": [16.0, 5.0, 16.0],
+      "faces": {
+        "north": { "texture": "#1" },
+        "east": { "texture": "#1" },
+        "south": { "texture": "#1" },
+        "west": { "texture": "#1" },
+        "up": { "texture": "#1" },
+        "down": { "texture": "#1" }
       }
     }
   ]
