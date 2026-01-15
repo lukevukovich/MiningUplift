@@ -29,8 +29,9 @@ jobs:
       - name: Extract version from build.gradle
         id: get_version
         run: |
-          VERSION=$(grep "^version = " build.gradle | sed "s/version = ['\"]//;s/['\"]//")
-          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
+          MC_VERSION=$(grep "def mc_version" build.gradle | sed "s/def mc_version = ['\"]//;s/['\"]//")
+          MOD_VERSION=$(grep "def mod_version" build.gradle | sed "s/def mod_version = ['\"]//;s/['\"]//")
+          echo "VERSION=${MC_VERSION}-${MOD_VERSION}" >> $GITHUB_OUTPUT
 
       - name: Upload JAR artifact
         uses: actions/upload-artifact@v4
