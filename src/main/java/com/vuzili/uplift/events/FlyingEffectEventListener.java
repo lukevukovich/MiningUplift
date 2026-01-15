@@ -24,6 +24,9 @@ public class FlyingEffectEventListener {
 
         // Here, you implement the logic to enable or disable flying based on the potion effect
         handleFlyingAbility(player);
+        
+        // Handle hunger drain while flying (similar to sprinting)
+        handleFlightHunger(player);
     }
     
     @SubscribeEvent
@@ -49,6 +52,25 @@ public class FlyingEffectEventListener {
             player.abilities.allowFlying = false;
             player.abilities.isFlying = false;
             player.sendPlayerAbilities();
+        }
+    }
+    
+    private static void handleFlightHunger(PlayerEntity player) {
+        // Only drain hunger if player is flying with the flight effect (not creative/spectator)
+        if (player.isPotionActive(EffectInit.FLIGHT) && player.abilities.isFlying && !player.isCreative() && !player.isSpectator()) {
+            // Drain hunger more than sprinting since flying is more exhausting
+            // Base exhaustion slightly higher than sprinting, scaled by difficulty
+            // Peaceful = no drain, Easy = light drain, Normal = moderate, Hard = heavy
+            float baseExhaustion = 0.018F; // Slightly more than sprinting (~0.018F equivalent)
+            
+            int difficulty = player.world.getDifficulty().getId(); // 0=peaceful, 1=easy, 2=normal, 3=hard
+            if (difficulty == 0) {
+                return; // No hunger drain on peaceful
+            }
+            
+            // Scale: Easy=0.5x, Normal=1.0x, Hard=1.5x
+            float difficultyMultiplier = difficulty * 0.5F;
+            player.addExhaustion(baseExhaustion * difficultyMultiplier);
         }
     }
 }

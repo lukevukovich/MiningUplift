@@ -12,6 +12,7 @@ import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
 import net.minecraft.entity.Entity;
+import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.player.ServerPlayerEntity;
 import net.minecraft.nbt.CompoundNBT;
 import net.minecraft.particles.ParticleTypes;
@@ -27,15 +28,16 @@ import net.minecraft.util.SoundEvents;
 import net.minecraft.util.concurrent.TickDelayedTask;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.ChunkPos;
+import net.minecraft.util.math.RayTraceResult;
 import net.minecraft.util.math.shapes.ISelectionContext;
 import net.minecraft.util.math.shapes.VoxelShape;
-import net.minecraft.world.GameType;
 import net.minecraft.world.IBlockReader;
 import net.minecraft.world.IWorld;
 import net.minecraft.world.World;
 import net.minecraft.world.dimension.DimensionType;
 import net.minecraft.world.server.ServerWorld;
 import net.minecraft.item.BlockItemUseContext;
+import net.minecraft.item.ItemStack;
 
 public class CavePortal extends Block {
     private static final Map<UUID, BlockPos> lastPositions = new HashMap<>();
@@ -79,6 +81,12 @@ public class CavePortal extends Block {
             return Block.makeCuboidShape(7.5D, 0.0D, 0.0D, 8.5D, 16.0D, 16.0D);
         }
     }
+
+    @Override
+    public ItemStack getPickBlock(BlockState state, RayTraceResult target, IBlockReader world, BlockPos pos, PlayerEntity player) {
+        // Return an empty stack to prevent picking the block
+        return ItemStack.EMPTY;
+    }
     
     @Override
     public void animateTick(BlockState stateIn, World worldIn, BlockPos pos, Random rand) {
@@ -96,20 +104,20 @@ public class CavePortal extends Block {
         boolean isLeader = !hasPortalBelow && !hasPortalHorizNeg;
         
         // Only the leader plays sound (rarely)
-        if (isLeader && rand.nextInt(100) == 0) {
+        if (isLeader && rand.nextInt(50) == 0) {
             worldIn.playSound(cx, cy, cz, SoundEvents.BLOCK_PORTAL_AMBIENT, SoundCategory.BLOCKS, 0.3F, 0.8F, false);
         }
         
         // Black smoke particle effects
-        // Large smoke rising up
+        // Large smoke rising up - spawn farther out horizontally to avoid getting stuck under blocks
         if (rand.nextInt(2) == 0) {
-            double offsetX = (rand.nextDouble() - 0.5) * 0.8;
-            double offsetZ = (rand.nextDouble() - 0.5) * 0.8;
+            double offsetX = (rand.nextDouble() - 0.5) * 2.0;
+            double offsetZ = (rand.nextDouble() - 0.5) * 2.0;
             worldIn.addParticle(ParticleTypes.LARGE_SMOKE, cx + offsetX, cy + rand.nextDouble(), cz + offsetZ, 0.0D, 0.03D, 0.0D);
         }
-        // Regular smoke
+        // Regular smoke - spawn farther out to prevent clipping
         if (rand.nextInt(2) == 0) {
-            worldIn.addParticle(ParticleTypes.SMOKE, cx + (rand.nextDouble() - 0.5) * 0.5, cy + rand.nextDouble() * 0.8, cz + (rand.nextDouble() - 0.5) * 0.5, 0.0D, 0.02D, 0.0D);
+            worldIn.addParticle(ParticleTypes.SMOKE, cx + (rand.nextDouble() - 0.5) * 1.6, cy + rand.nextDouble() * 0.8, cz + (rand.nextDouble() - 0.5) * 1.6, 0.0D, 0.02D, 0.0D);
         }
     }
 
@@ -158,6 +166,8 @@ public class CavePortal extends Block {
                             serverPlayer.teleport(targetServerWorld, teleportPos.getX() + 0.5, teleportPos.getY(), teleportPos.getZ() + 0.5, serverPlayer.rotationYaw, serverPlayer.rotationPitch);
                             // Destination effects after teleport
                             playTeleportEffects(targetServerWorld, finalSafePos);
+                            // Re-sync player abilities after dimension change to preserve flight effect
+                            serverPlayer.sendPlayerAbilities();
                         }));
 	                    
 	                }
@@ -199,6 +209,8 @@ public class CavePortal extends Block {
                             serverPlayer.teleport(targetServerWorld, teleportPos.getX() + 0.5, teleportPos.getY(), teleportPos.getZ() + 0.5, serverPlayer.rotationYaw, serverPlayer.rotationPitch);
                             // Destination effects
                             playTeleportEffects(targetServerWorld, finalLastPos);
+                            // Re-sync player abilities after dimension change to preserve flight effect
+                            serverPlayer.sendPlayerAbilities();
                         }));
 	                    
 	                    // Clean up after teleporting back
@@ -360,16 +372,6 @@ public class CavePortal extends Block {
         return null;
     }
 
-    private void placeTeleporterIfPossible(ServerWorld world, BlockPos pos) {
-        // Check if a portal already exists near the target position
-        if (hasExistingPortalNearby(world, pos, 4)) return;
-        // Prefer frame ignition; no carving if a frame is found
-        if (tryCreatePortal(world, pos)) return;
-        Direction.Axis axisChoice = isAreaClearForFrame(world, pos, Direction.Axis.X) ? Direction.Axis.X : Direction.Axis.Z;
-        clearCavityAround(world, pos);
-        buildFrameAndPortal(world, pos, axisChoice);
-    }
-
     private void placeTeleporterIfPossible(ServerWorld world, BlockPos pos, Direction.Axis preferredAxis) {
         // Check if a portal already exists near the target position - do NOT modify anything
         if (hasExistingPortalNearby(world, pos, 4)) return;
@@ -447,6 +449,7 @@ public class CavePortal extends Block {
      * Find a safe position for the player to teleport to, offset from the portal block
      * so they don't immediately re-enter the portal.
      */
+    @SuppressWarnings("deprecation")
     private BlockPos findSafeTeleportPosition(ServerWorld world, BlockPos portalPos) {
         // Find the portal's axis to determine which direction to offset
         BlockState portalState = world.getBlockState(portalPos);
@@ -531,6 +534,16 @@ public class CavePortal extends Block {
     private static final int MAX_HEIGHT = 21;
     
     public static boolean tryCreatePortal(IWorld iworld, BlockPos ignitionPos) {
+        // Only allow portal creation in Overworld and Cave dimension
+        if (iworld instanceof World) {
+            World world = (World) iworld;
+            DimensionType dimType = world.getDimension().getType();
+            boolean isOverworld = dimType == DimensionType.OVERWORLD;
+            boolean isCaveDimension = dimType == DimensionType.byName(Uplift.UPLIFT_DIM_TYPE);
+            if (!isOverworld && !isCaveDimension) {
+                return false;
+            }
+        }
         // Attempt both axis orientations around the ignition position
         return tryCreatePortalWithAxis(iworld, ignitionPos, Direction.Axis.X) || tryCreatePortalWithAxis(iworld, ignitionPos, Direction.Axis.Z);
     }
@@ -546,6 +559,7 @@ public class CavePortal extends Block {
         return s.isAir() || s.getMaterial().isReplaceable();
     }
 
+    @SuppressWarnings("deprecation")
     private static boolean isAirOrReplaceableOrPortal(IWorld world, BlockPos pos) {
         BlockState s = world.getBlockState(pos);
         return s.isAir() || s.getMaterial().isReplaceable() || s.getBlock() == BlockInit.cave_portal;

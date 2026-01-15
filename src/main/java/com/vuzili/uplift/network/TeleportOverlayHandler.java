@@ -1,7 +1,5 @@
 package com.vuzili.uplift.network;
 
-import net.minecraft.client.Minecraft;
-
 /**
  * Client-side handler for teleport overlay state.
  * Stores whether the overlay is visible and the message to display.

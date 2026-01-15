@@ -274,7 +274,7 @@ public class BlockInit
 		event.getRegistry().register(new BlockItem(igniter_fire, new Item.Properties()).setRegistryName("igniter_fire"));
 		
 		//Portal
-		event.getRegistry().register(new BlockItem(cave_portal, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("cave_portal"));
+		event.getRegistry().register(new BlockItem(cave_portal, new Item.Properties()).setRegistryName("cave_portal"));
 		
 	}
 

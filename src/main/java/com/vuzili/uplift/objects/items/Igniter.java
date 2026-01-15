@@ -68,13 +68,17 @@ public class Igniter extends FlintAndSteelIgniter
 		         return ActionResultType.SUCCESS;
 		      } else {
 				BlockPos blockpos1 = blockpos.offset(context.getFace());
+				// If clicking on or near an existing portal, do nothing (don't consume durability)
+				if (isPortalNearby(iworld, blockpos, blockpos1)) {
+					return ActionResultType.PASS;
+				}
 				// First, try to create the cave portal if a valid gemstone frame is present
 				if (tryCreatePortalNearby(iworld, blockpos, blockpos1)) {
 		            iworld.playSound(playerentity, blockpos1, SoundEvents.ITEM_FLINTANDSTEEL_USE, SoundCategory.BLOCKS, 1.0F, random.nextFloat() * 0.4F + 0.8F);
 		            ItemStack itemstack = context.getItem();
 		            if (playerentity instanceof ServerPlayerEntity) {
 		               CriteriaTriggers.PLACED_BLOCK.trigger((ServerPlayerEntity)playerentity, blockpos1, itemstack);
-		               itemstack.damageItem(1, playerentity, (p_219998_1_) -> {
+		               itemstack.damageItem(100, playerentity, (p_219998_1_) -> {
 		                  p_219998_1_.sendBreakAnimation(context.getHand());
 		               });
 		            }
@@ -99,6 +103,26 @@ public class Igniter extends FlintAndSteelIgniter
 		      
 		      return ActionResultType.FAIL;
 		   }
+
+			private boolean isPortalNearby(IWorld world, BlockPos base, BlockPos offsetPos) {
+				// Check if there's already a portal block nearby
+				BlockPos[] candidates = new BlockPos[] {
+					offsetPos,
+					base,
+					offsetPos.up(),
+					offsetPos.down(),
+					base.up(),
+					base.down(),
+					offsetPos.north(), offsetPos.south(), offsetPos.east(), offsetPos.west(),
+					base.north(), base.south(), base.east(), base.west()
+				};
+				for (BlockPos p : candidates) {
+					if (world.getBlockState(p).getBlock() == BlockInit.cave_portal) {
+						return true;
+					}
+				}
+				return false;
+			}
 
 			private boolean tryCreatePortalNearby(IWorld world, BlockPos base, BlockPos offsetPos) {
 				// Try several candidate positions around both the clicked block and the adjacent block
