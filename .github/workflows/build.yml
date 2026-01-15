@@ -26,9 +26,15 @@ jobs:
       - name: Build with Gradle
         run: ./gradlew build
 
+      - name: Extract version from build.gradle
+        id: get_version
+        run: |
+          VERSION=$(grep "^version = " build.gradle | sed "s/version = ['\"]//;s/['\"]//")
+          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
+
       - name: Upload JAR artifact
         uses: actions/upload-artifact@v4
         with:
-          name: Mining-Uplift-${{ github.sha }}
+          name: Mining-Uplift-${{ steps.get_version.outputs.VERSION }}
           path: build/libs/*.jar
           if-no-files-found: error
