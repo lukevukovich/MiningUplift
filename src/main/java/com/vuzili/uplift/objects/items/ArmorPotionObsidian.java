@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
@@ -25,12 +26,11 @@ public class ArmorPotionObsidian extends ArmorItem {
 				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.obsidian_leggings
 				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.obsidian_boots) 
 		{
-			player.addPotionEffect(new EffectInstance(Effects.NIGHT_VISION, 201));
+			if (!world.isRemote) {
+				player.addPotionEffect(new EffectInstance(Effects.NIGHT_VISION, 210, 0, false, false));
+			}
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.obsidian_boots, 106, 40, 202);
 		}
-		/*else
-		{
-			player.removePotionEffect(Effects.NIGHT_VISION);
-		}*/
 		super.onArmorTick(stack, world, player);
 	}
 

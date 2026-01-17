@@ -1,4 +1,4 @@
 {
   "replace": false,
-  "values": ["uplift:obsidian_block"]
+  "values": ["uplift:obsidian_helmet", "uplift:obsidian_chestplate", "uplift:obsidian_leggings", "uplift:obsidian_boots", "uplift:obsidian_sword", "uplift:obsidian_pickaxe", "uplift:obsidian_shovel", "uplift:obsidian_axe", "uplift:obsidian_hoe"]
 }

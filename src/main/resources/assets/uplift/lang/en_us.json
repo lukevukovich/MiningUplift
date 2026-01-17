@@ -211,6 +211,19 @@
 	"item.uplift.rose_gold_axe": "Rose Golden Axe",
 	
 	"item.uplift.rose_golden_apple": "Rose Golden Apple",
+
+
+
+	"item.uplift.chrome_ingot": "Chromium Ingot",
+	"item.uplift.chrome_nugget": "Chromium Nugget",
+
+	"item.uplift.chrome_helmet": "Chromium Helmet",
+	"item.uplift.chrome_chestplate": "Chromium Chestplate",
+	"item.uplift.chrome_leggings": "Chromium Leggings",
+	"item.uplift.chrome_boots": "Chromium Boots",
+
+	"block.uplift.chrome_ore": "Chromium Ore",
+	"block.uplift.chrome_block": "Block of Chromium",
 	
 	
 	
@@ -238,6 +251,6 @@
 	
 	
 	
-	"effect.uplift.flight": "Flight"
-	
+	"effect.uplift.flight": "Flight",
+	"effect.uplift.luminous": "Luminous"
 }

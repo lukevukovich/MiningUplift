@@ -52,7 +52,7 @@ public class GemCrusher extends Block
 			return ActionResultType.SUCCESS;
 		}
 		
-		else if(Items.DIAMOND == player.getHeldItemMainhand().getItem() || Items.EMERALD == player.getHeldItemMainhand().getItem() || ItemInit.ender_gem == player.getHeldItemMainhand().getItem())
+		else if(Items.DIAMOND == player.getHeldItemMainhand().getItem() || Items.EMERALD == player.getHeldItemMainhand().getItem())
 		{
 			worldIn.playSound(player, pos, SoundEvents.BLOCK_PISTON_EXTEND, SoundCategory.BLOCKS, 1.0f, 0.8f);
 			int count = player.getHeldItemMainhand().getCount();
@@ -65,7 +65,7 @@ public class GemCrusher extends Block
 			return ActionResultType.SUCCESS;
 		}
 
-		else if(ItemInit.burning_diamond == player.getHeldItemMainhand().getItem() || ItemInit.opal == player.getHeldItemMainhand().getItem())
+		else if(ItemInit.burning_diamond == player.getHeldItemMainhand().getItem() || ItemInit.opal == player.getHeldItemMainhand().getItem() || ItemInit.ender_gem == player.getHeldItemMainhand().getItem())
 		{
 			worldIn.playSound(player, pos, SoundEvents.BLOCK_PISTON_EXTEND, SoundCategory.BLOCKS, 1.0f, 0.8f);
 			int count = player.getHeldItemMainhand().getCount();

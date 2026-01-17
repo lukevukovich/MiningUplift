@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "uplift:chrome_ore"
+  },
+  "result": "uplift:chrome_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

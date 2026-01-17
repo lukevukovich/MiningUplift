@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "uplift:rose_gold_ore"
+  },
+  "result": "uplift:rose_gold_ingot",
+  "experience": 0.8,
+  "cookingtime": 200
+}

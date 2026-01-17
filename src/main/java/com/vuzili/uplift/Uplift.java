@@ -105,7 +105,7 @@ public class Uplift
         // Portal should render with translucent layer for animated texture
         RenderTypeLookup.setRenderLayer(BlockInit.cave_portal.getBlock(), RenderType.getTranslucent());
 
-        // Register teleport overlay renderer for portal screen effect
+        // Register client overlay renderers
         MinecraftForge.EVENT_BUS.register(new TeleportOverlayRenderer());
     }
 

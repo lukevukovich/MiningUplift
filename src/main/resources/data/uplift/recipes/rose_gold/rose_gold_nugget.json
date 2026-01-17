@@ -2,9 +2,9 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "uplift:rose_gold_sword"
+    "tag": "uplift:rose_gold_tag"
   },
   "result": "uplift:rose_gold_nugget",
-  "experience": 8.0,
-  "cookingtime": 300
+  "experience": 0.8,
+  "cookingtime": 200
 }

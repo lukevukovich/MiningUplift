@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
@@ -25,12 +26,11 @@ public class ArmorPotionBurningDiamond extends ArmorItem {
 				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.burning_diamond_leggings
 				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.burning_diamond_boots) 
 		{
-			player.addPotionEffect(new EffectInstance(Effects.FIRE_RESISTANCE, 201));
+			if (!world.isRemote) {
+				player.addPotionEffect(new EffectInstance(Effects.FIRE_RESISTANCE, 210, 0, false, false));
+			}
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.burning_diamond_boots, 250, 96, 43);
 		}
-		/*else
-		{
-			player.removePotionEffect(Effects.FIRE_RESISTANCE);
-		}*/
 		super.onArmorTick(stack, world, player);
 	}
 

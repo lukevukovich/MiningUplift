@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
@@ -25,15 +26,14 @@ public class ArmorPotionBloodstone extends ArmorItem {
 				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.bloodstone_leggings
 				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.bloodstone_boots) 
 		{
-			player.addPotionEffect(new EffectInstance(Effects.BLINDNESS, 201, 1));
-			player.addPotionEffect(new EffectInstance(Effects.SLOWNESS, 201, 1));
-			player.addPotionEffect(new EffectInstance(Effects.WEAKNESS, 201, 1));
-			player.addPotionEffect(new EffectInstance(Effects.INSTANT_HEALTH, 201));
+			if (!world.isRemote) {
+				player.addPotionEffect(new EffectInstance(Effects.REGENERATION, 210, 2, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.BLINDNESS, 210, 0, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.SLOWNESS, 210, 4, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.MINING_FATIGUE, 210, 2, false, false));
+			}
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.bloodstone_boots, 116, 10, 10);
 		}
-		/*else
-		{
-			player.removePotionEffect(Effects.FIRE_RESISTANCE);
-		}*/
 		super.onArmorTick(stack, world, player);
 	}
 

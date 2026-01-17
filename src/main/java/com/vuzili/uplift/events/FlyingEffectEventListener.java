@@ -7,8 +7,9 @@ import net.minecraftforge.event.TickEvent;
 import net.minecraftforge.event.entity.player.PlayerEvent.BreakSpeed;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.Mod.EventBusSubscriber.Bus;
 
-@Mod.EventBusSubscriber
+@Mod.EventBusSubscriber(modid = "uplift", bus = Bus.FORGE)
 public class FlyingEffectEventListener {
 
     @SubscribeEvent

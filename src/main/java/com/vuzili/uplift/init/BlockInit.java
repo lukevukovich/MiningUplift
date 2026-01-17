@@ -94,6 +94,10 @@ public class BlockInit
 	public static final Block ender_torch = null;
 	public static final Block ender_wall_torch = null;
 
+	//Chrome
+	public static final Block chrome_ore = null;
+	public static final Block chrome_block = null;
+
 	//Opal
 	public static final Block opal_ore = null;
 	public static final Block opal_block = null;
@@ -176,6 +180,10 @@ public class BlockInit
 		event.getRegistry().register(new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(5.0f, 6.0f).sound(SoundType.METAL).harvestLevel(2).harvestTool(ToolType.PICKAXE)).setRegistryName("ender_block"));
 		event.getRegistry().register(new Torch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("ender_torch"));
 		event.getRegistry().register(new WallTorch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("ender_wall_torch"));
+
+		//Chrome
+		event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(3.0f, 3.0f).sound(SoundType.STONE).harvestLevel(2).harvestTool(ToolType.PICKAXE)).setRegistryName("chrome_ore"));
+		event.getRegistry().register(new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(5.0f, 6.0f).sound(SoundType.METAL).harvestLevel(2).lightValue(10).harvestTool(ToolType.PICKAXE)).setRegistryName("chrome_block"));
 		
 		//Opal
 		event.getRegistry().register(new BlockXp(Block.Properties.create(Material.ROCK).hardnessAndResistance(3.0f, 3.0f).sound(SoundType.STONE).harvestLevel(3).harvestTool(ToolType.PICKAXE)).setRegistryName("opal_ore"));
@@ -257,6 +265,10 @@ public class BlockInit
 		event.getRegistry().register(new BlockItem(ender_ore, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("ender_ore"));
 		event.getRegistry().register(new TasmaniteBlockFuel(ender_block, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("ender_block"));
 		event.getRegistry().register(new TorchItem(ender_torch, ender_wall_torch, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("ender_torch"));
+
+		//Chrome
+		event.getRegistry().register(new BlockItem(chrome_ore, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_ore"));
+		event.getRegistry().register(new BlockItem(chrome_block, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_block"));
 
 		//Opal
 		event.getRegistry().register(new BlockItem(opal_ore, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("opal_ore"));

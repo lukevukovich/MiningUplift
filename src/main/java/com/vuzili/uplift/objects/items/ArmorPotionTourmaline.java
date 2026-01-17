@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
@@ -25,12 +26,11 @@ public class ArmorPotionTourmaline extends ArmorItem {
 				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.tourmaline_leggings
 				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.tourmaline_boots) 
 		{
-			player.addPotionEffect(new EffectInstance(Effects.SPEED, 201));
+			if (!world.isRemote) {
+				player.addPotionEffect(new EffectInstance(Effects.JUMP_BOOST, 210, 1, false, false));
+			}
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.tourmaline_boots, 208, 60, 250);
 		}
-		/*else
-		{
-			player.removePotionEffect(Effects.NIGHT_VISION);
-		}*/
 		super.onArmorTick(stack, world, player);
 	}
 

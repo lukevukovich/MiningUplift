@@ -2,6 +2,7 @@ package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.EffectInit;
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
@@ -26,7 +27,10 @@ public class ArmorPotionEnder extends ArmorItem {;
 				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.ender_leggings
 				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.ender_boots) 
 		{
-			player.addPotionEffect(new EffectInstance(EffectInit.FLIGHT, 201));
+			if (!world.isRemote) {
+				player.addPotionEffect(new EffectInstance(EffectInit.FLIGHT, 210, 0, false, false));
+			}
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.ender_boots, 212, 218, 146);
 		}
 		super.onArmorTick(stack, world, player);
 	}

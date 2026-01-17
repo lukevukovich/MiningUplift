@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
@@ -25,12 +26,11 @@ public class ArmorPotionSapphire extends ArmorItem {
 				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.sapphire_leggings
 				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.sapphire_boots) 
 		{
-			player.addPotionEffect(new EffectInstance(Effects.WATER_BREATHING, 201));
+			if (!world.isRemote) {
+				player.addPotionEffect(new EffectInstance(Effects.WATER_BREATHING, 210, 0, false, false));
+			}
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.sapphire_boots, 49, 49, 250);
 		}
-		/*else
-		{
-			player.removePotionEffect(Effects.WATER_BREATHING);
-		}*/
 		super.onArmorTick(stack, world, player);
 	}
 

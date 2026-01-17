@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
@@ -40,12 +41,11 @@ public class ArmorPotionUranium extends ArmorItem {
 				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.uranium_leggings
 				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.uranium_boots) 
 		{
-			player.addPotionEffect(new EffectInstance(HASTE, 201, 2));
+			if (!world.isRemote) {
+				player.addPotionEffect(new EffectInstance(HASTE, 210, 2, false, false));
+			}
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.uranium_boots, 92, 255, 55);
 		}
-		/*else
-		{
-			player.removePotionEffect(Effects.FIRE_RESISTANCE);
-		}*/
 		super.onArmorTick(stack, world, player);
 	}
 

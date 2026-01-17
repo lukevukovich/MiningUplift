@@ -1,5 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
+import com.vuzili.uplift.util.ArmorPotionEffectParticles;
+
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.item.IItemTier;
@@ -22,14 +24,21 @@ public class RoseGoldWeapon extends SwordItem
 	
 	@Override
 	public void inventoryTick(ItemStack stack, World worldIn, Entity entityIn, int itemSlot, boolean isSelected) {
-	    if (!worldIn.isRemote && entityIn instanceof LivingEntity) {
+	    if (entityIn instanceof LivingEntity) {
 	        LivingEntity livingEntity = (LivingEntity) entityIn;
 	        
 	        // Check for item in main hand or off hand
 	        boolean isHeld = livingEntity.getHeldItemMainhand().getItem() == this || livingEntity.getHeldItemOffhand().getItem() == this;
 	        
 	        if (isHeld) {
-	            livingEntity.addPotionEffect(new EffectInstance(effect, 1, 2));
+	            // Server: apply potion effect
+	            if (!worldIn.isRemote) {
+	                livingEntity.addPotionEffect(new EffectInstance(effect, 1, 2, false, false));
+	            }
+	            // Client: spawn colored particles (matches armor behavior)
+	            else {
+	                ArmorPotionEffectParticles.spawnParticles(worldIn, livingEntity, stack, this, 255, 125, 229);
+	            }
 	        }
 	    }
 	    super.inventoryTick(stack, worldIn, entityIn, itemSlot, isSelected);
