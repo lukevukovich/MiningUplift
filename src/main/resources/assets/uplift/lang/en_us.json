@@ -217,6 +217,12 @@
 	"item.uplift.chrome_ingot": "Chromium Ingot",
 	"item.uplift.chrome_nugget": "Chromium Nugget",
 
+	"item.uplift.chrome_sword": "Chromium Sword",
+	"item.uplift.chrome_pickaxe": "Chromium Pickaxe",
+	"item.uplift.chrome_shovel": "Chromium Shovel",
+	"item.uplift.chrome_axe": "Chromium Axe",
+	"item.uplift.chrome_hoe": "Chromium Hoe",
+
 	"item.uplift.chrome_helmet": "Chromium Helmet",
 	"item.uplift.chrome_chestplate": "Chromium Chestplate",
 	"item.uplift.chrome_leggings": "Chromium Leggings",

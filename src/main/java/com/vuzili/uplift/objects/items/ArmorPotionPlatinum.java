@@ -21,10 +21,15 @@ public class ArmorPotionPlatinum extends ArmorItem {
 	@Override
 	public void onArmorTick(ItemStack stack, World world, PlayerEntity player) 
 	{
-		if (player.inventory.armorItemInSlot(3).getItem() == ItemInit.platinum_helmet
-				&& player.inventory.armorItemInSlot(2).getItem() == ItemInit.platinum_chestplate
-				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.platinum_leggings
-				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.platinum_boots) 
+		ItemStack head = player.getItemStackFromSlot(EquipmentSlotType.HEAD);
+		ItemStack chest = player.getItemStackFromSlot(EquipmentSlotType.CHEST);
+		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
+		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
+
+		if (head.getItem() == ItemInit.platinum_helmet
+				&& chest.getItem() == ItemInit.platinum_chestplate
+				&& legs.getItem() == ItemInit.platinum_leggings
+				&& feet.getItem() == ItemInit.platinum_boots) 
 		{
 			if (!world.isRemote) {
 				player.addPotionEffect(new EffectInstance(Effects.STRENGTH, 210, 0, false, false));

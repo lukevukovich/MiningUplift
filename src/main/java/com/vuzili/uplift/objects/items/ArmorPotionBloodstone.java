@@ -21,10 +21,15 @@ public class ArmorPotionBloodstone extends ArmorItem {
 	@Override
 	public void onArmorTick(ItemStack stack, World world, PlayerEntity player) 
 	{
-		if (player.inventory.armorItemInSlot(3).getItem() == ItemInit.bloodstone_helmet
-				&& player.inventory.armorItemInSlot(2).getItem() == ItemInit.bloodstone_chestplate
-				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.bloodstone_leggings
-				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.bloodstone_boots) 
+		ItemStack head = player.getItemStackFromSlot(EquipmentSlotType.HEAD);
+		ItemStack chest = player.getItemStackFromSlot(EquipmentSlotType.CHEST);
+		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
+		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
+
+		if (head.getItem() == ItemInit.bloodstone_helmet
+				&& chest.getItem() == ItemInit.bloodstone_chestplate
+				&& legs.getItem() == ItemInit.bloodstone_leggings
+				&& feet.getItem() == ItemInit.bloodstone_boots) 
 		{
 			if (!world.isRemote) {
 				player.addPotionEffect(new EffectInstance(Effects.REGENERATION, 210, 2, false, false));

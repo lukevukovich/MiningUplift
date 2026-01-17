@@ -343,6 +343,13 @@ public class ItemInit
 		//Chrome
 		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_ingot"));
 		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_nugget"));
+
+		event.getRegistry().register(new SwordItem(ModItemTier.CHROME, 6, -2.4F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_sword"));
+		event.getRegistry().register(new PickaxeItem(ModItemTier.CHROME, 4, -2.8F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_pickaxe"));
+		event.getRegistry().register(new ShovelItem(ModItemTier.CHROME, 4.5f, -3.0F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_shovel"));
+		event.getRegistry().register(new AxeItem(ModItemTier.CHROME, 9, -3.1F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_axe"));
+		event.getRegistry().register(new HoeItem(ModItemTier.CHROME, -1.0f, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_hoe"));
+		
 		event.getRegistry().register(new ArmorPotionChrome(ModArmorMaterial.CHROME, EquipmentSlotType.HEAD, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_helmet"));
 		event.getRegistry().register(new ArmorPotionChrome(ModArmorMaterial.CHROME, EquipmentSlotType.CHEST, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_chestplate"));
 		event.getRegistry().register(new ArmorPotionChrome(ModArmorMaterial.CHROME, EquipmentSlotType.LEGS, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_leggings"));
@@ -382,7 +389,10 @@ public class ItemInit
 		SAPPHIRE(2,750,6.0f,-1,10,() -> {
 			return Ingredient.fromItems(ItemInit.sapphire);
 		}),
-		TOURMALINE(2,500,7.0f,-1,15,() -> {
+		CHROME(2,700,6.0f,-1,12,() -> {
+			return Ingredient.fromItems(ItemInit.chrome_ingot);
+		}),
+		TOURMALINE(2,600,7.0f,-1,15,() -> {
 			return Ingredient.fromItems(ItemInit.tourmaline);
 		}),
 		OBSIDIAN(3,1800,7.0f,-1,10,() -> {
@@ -397,7 +407,7 @@ public class ItemInit
 		URANIUM(3,1100,8.0f,-1,15,() -> {
 			return Ingredient.fromItems(ItemInit.uranium_ingot);
 		}),
-		ROSE_GOLD(4,100,10.0f,-1,10,() -> {
+		ROSE_GOLD(4,100,10.0f,-1,0,() -> {
 			return Ingredient.fromItems(ItemInit.rose_gold_ingot);
 		}),
 		ENDER(3,2450,9.0f,-1,20,() -> {

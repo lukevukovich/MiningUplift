@@ -21,20 +21,21 @@ public class ArmorPotionChrome extends ArmorItem {
 	@Override
 	public void onArmorTick(ItemStack stack, World world, PlayerEntity player) 
 	{
-		if (player.inventory.armorItemInSlot(3).getItem() == ItemInit.chrome_helmet
-				&& player.inventory.armorItemInSlot(2).getItem() == ItemInit.chrome_chestplate
-				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.chrome_leggings
-				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.chrome_boots) 
+		ItemStack head = player.getItemStackFromSlot(EquipmentSlotType.HEAD);
+		ItemStack chest = player.getItemStackFromSlot(EquipmentSlotType.CHEST);
+		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
+		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
+
+		if (head.getItem() == ItemInit.chrome_helmet
+				&& chest.getItem() == ItemInit.chrome_chestplate
+				&& legs.getItem() == ItemInit.chrome_leggings
+				&& feet.getItem() == ItemInit.chrome_boots) 
 		{
 			if (!world.isRemote) {
 				player.addPotionEffect(new EffectInstance(Effects.SPEED, 210, 0, false, false));
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.chrome_boots, 134, 118, 204);
 		}
-		/*else
-		{
-			player.removePotionEffect(Effects.NIGHT_VISION);
-		}*/
 		super.onArmorTick(stack, world, player);
 	}
 

@@ -36,10 +36,15 @@ public class ArmorPotionUranium extends ArmorItem {
 	@Override
 	public void onArmorTick(ItemStack stack, World world, PlayerEntity player) 
 	{
-		if (player.inventory.armorItemInSlot(3).getItem() == ItemInit.uranium_helmet
-				&& player.inventory.armorItemInSlot(2).getItem() == ItemInit.uranium_chestplate
-				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.uranium_leggings
-				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.uranium_boots) 
+		ItemStack head = player.getItemStackFromSlot(EquipmentSlotType.HEAD);
+		ItemStack chest = player.getItemStackFromSlot(EquipmentSlotType.CHEST);
+		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
+		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
+
+		if (head.getItem() == ItemInit.uranium_helmet
+				&& chest.getItem() == ItemInit.uranium_chestplate
+				&& legs.getItem() == ItemInit.uranium_leggings
+				&& feet.getItem() == ItemInit.uranium_boots) 
 		{
 			if (!world.isRemote) {
 				player.addPotionEffect(new EffectInstance(HASTE, 210, 2, false, false));

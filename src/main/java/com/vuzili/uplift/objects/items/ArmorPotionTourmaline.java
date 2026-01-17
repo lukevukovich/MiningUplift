@@ -21,10 +21,15 @@ public class ArmorPotionTourmaline extends ArmorItem {
 	@Override
 	public void onArmorTick(ItemStack stack, World world, PlayerEntity player) 
 	{
-		if (player.inventory.armorItemInSlot(3).getItem() == ItemInit.tourmaline_helmet
-				&& player.inventory.armorItemInSlot(2).getItem() == ItemInit.tourmaline_chestplate
-				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.tourmaline_leggings
-				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.tourmaline_boots) 
+		ItemStack head = player.getItemStackFromSlot(EquipmentSlotType.HEAD);
+		ItemStack chest = player.getItemStackFromSlot(EquipmentSlotType.CHEST);
+		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
+		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
+
+		if (head.getItem() == ItemInit.tourmaline_helmet
+				&& chest.getItem() == ItemInit.tourmaline_chestplate
+				&& legs.getItem() == ItemInit.tourmaline_leggings
+				&& feet.getItem() == ItemInit.tourmaline_boots) 
 		{
 			if (!world.isRemote) {
 				player.addPotionEffect(new EffectInstance(Effects.JUMP_BOOST, 210, 1, false, false));

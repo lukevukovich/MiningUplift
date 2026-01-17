@@ -21,10 +21,15 @@ public class ArmorPotionObsidian extends ArmorItem {
 	@Override
 	public void onArmorTick(ItemStack stack, World world, PlayerEntity player) 
 	{
-		if (player.inventory.armorItemInSlot(3).getItem() == ItemInit.obsidian_helmet
-				&& player.inventory.armorItemInSlot(2).getItem() == ItemInit.obsidian_chestplate
-				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.obsidian_leggings
-				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.obsidian_boots) 
+		ItemStack head = player.getItemStackFromSlot(EquipmentSlotType.HEAD);
+		ItemStack chest = player.getItemStackFromSlot(EquipmentSlotType.CHEST);
+		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
+		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
+
+		if (head.getItem() == ItemInit.obsidian_helmet
+				&& chest.getItem() == ItemInit.obsidian_chestplate
+				&& legs.getItem() == ItemInit.obsidian_leggings
+				&& feet.getItem() == ItemInit.obsidian_boots) 
 		{
 			if (!world.isRemote) {
 				player.addPotionEffect(new EffectInstance(Effects.NIGHT_VISION, 210, 0, false, false));
