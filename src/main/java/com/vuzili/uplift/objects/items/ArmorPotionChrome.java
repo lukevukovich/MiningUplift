@@ -36,6 +36,11 @@ public class ArmorPotionChrome extends ArmorItem {
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.chrome_boots, 134, 118, 204);
 		}
+		else {
+			if (!world.isRemote) {
+				player.removePotionEffect(Effects.SPEED);
+			}
+		}
 		super.onArmorTick(stack, world, player);
 	}
 

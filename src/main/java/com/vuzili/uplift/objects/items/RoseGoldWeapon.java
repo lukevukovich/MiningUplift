@@ -33,13 +33,17 @@ public class RoseGoldWeapon extends SwordItem
 	        if (isHeld) {
 	            // Server: apply potion effect
 	            if (!worldIn.isRemote) {
-	                livingEntity.addPotionEffect(new EffectInstance(effect, 10, 2, false, false));
+	                livingEntity.addPotionEffect(new EffectInstance(effect, 210, 2, false, false));
 	            }
 	            // Client: spawn colored particles (matches armor behavior)
 	            else {
 	                ArmorPotionEffectParticles.spawnParticles(worldIn, livingEntity, stack, this, 255, 125, 229);
 	            }
-	        }
+	        } else {
+				if (!worldIn.isRemote) {
+					livingEntity.removePotionEffect(effect);
+				}
+			}
 	    }
 	    super.inventoryTick(stack, worldIn, entityIn, itemSlot, isSelected);
 	}

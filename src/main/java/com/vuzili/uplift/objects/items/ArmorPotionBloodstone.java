@@ -38,6 +38,13 @@ public class ArmorPotionBloodstone extends ArmorItem {
 				player.addPotionEffect(new EffectInstance(Effects.MINING_FATIGUE, 210, 2, false, false));
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.bloodstone_boots, 116, 10, 10);
+		} else {
+			if (!world.isRemote) {
+				player.removePotionEffect(Effects.REGENERATION);
+				player.removePotionEffect(Effects.BLINDNESS);
+				player.removePotionEffect(Effects.SLOWNESS);
+				player.removePotionEffect(Effects.MINING_FATIGUE);
+			}
 		}
 		super.onArmorTick(stack, world, player);
 	}

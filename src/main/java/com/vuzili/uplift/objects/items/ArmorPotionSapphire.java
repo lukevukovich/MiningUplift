@@ -36,6 +36,11 @@ public class ArmorPotionSapphire extends ArmorItem {
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.sapphire_boots, 49, 49, 250);
 		}
+		else {
+			if (!world.isRemote) {
+				player.removePotionEffect(Effects.WATER_BREATHING);
+			}
+		}
 		super.onArmorTick(stack, world, player);
 	}
 

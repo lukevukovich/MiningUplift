@@ -36,6 +36,11 @@ public class ArmorPotionRuby extends ArmorItem {
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.ruby_boots, 255, 44, 44);
 		}
+		else {
+			if (!world.isRemote) {
+				player.removePotionEffect(Effects.RESISTANCE);
+			}
+		}
 		super.onArmorTick(stack, world, player);
 	}
 

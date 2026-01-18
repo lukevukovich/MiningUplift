@@ -36,6 +36,11 @@ public class ArmorPotionObsidian extends ArmorItem {
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.obsidian_boots, 106, 40, 202);
 		}
+		else {
+			if (!world.isRemote) {
+				player.removePotionEffect(Effects.NIGHT_VISION);
+			}
+		}
 		super.onArmorTick(stack, world, player);
 	}
 

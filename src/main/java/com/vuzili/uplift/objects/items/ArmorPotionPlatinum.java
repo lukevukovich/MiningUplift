@@ -36,6 +36,11 @@ public class ArmorPotionPlatinum extends ArmorItem {
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.platinum_boots, 212, 245, 249);
 		}
+		else {
+			if (!world.isRemote) {
+				player.removePotionEffect(Effects.STRENGTH);
+			}
+		}
 		super.onArmorTick(stack, world, player);
 	}
 

@@ -51,6 +51,11 @@ public class ArmorPotionUranium extends ArmorItem {
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.uranium_boots, 92, 255, 55);
 		}
+		else {
+			if (!world.isRemote) {
+				player.removePotionEffect(HASTE);
+			}
+		}
 		super.onArmorTick(stack, world, player);
 	}
 

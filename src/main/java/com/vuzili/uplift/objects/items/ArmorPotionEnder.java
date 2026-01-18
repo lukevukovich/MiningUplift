@@ -37,6 +37,11 @@ public class ArmorPotionEnder extends ArmorItem {;
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.ender_boots, 212, 218, 146);
 		}
+		else {
+			if (!world.isRemote) {
+				player.removePotionEffect(EffectInit.FLIGHT);
+			}
+		}
 		super.onArmorTick(stack, world, player);
 	}
 	
