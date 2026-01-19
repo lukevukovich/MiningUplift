@@ -108,8 +108,7 @@ public class ItemInit
 	public static final Item tourmaline_boots = null;
 	
 	//Obsidian
-	public static final Item obsidian_ingot = null;
-	public static final Item obsidian_nugget = null;
+	public static final Item obsidian_shard = null;
 	
 	public static final Item obsidian_sword = null;
 	public static final Item obsidian_pickaxe = null;
@@ -270,8 +269,7 @@ public class ItemInit
 		event.getRegistry().register(new ArmorPotionTourmaline(ModArmorMaterial.TOURMALINE, EquipmentSlotType.FEET, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_boots"));
 		
 		//Obsidian
-		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_ingot"));
-		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_nugget"));
+		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_shard"));
 		
 		event.getRegistry().register(new SwordItem(ModItemTier.OBSIDIAN, 7, -2.4F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_sword"));
 		event.getRegistry().register(new PickaxeItem(ModItemTier.OBSIDIAN, 5, -2.8F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_pickaxe"));
@@ -396,7 +394,7 @@ public class ItemInit
 			return Ingredient.fromItems(ItemInit.tourmaline);
 		}),
 		OBSIDIAN(3,1800,7.0f,-1,10,() -> {
-			return Ingredient.fromItems(ItemInit.obsidian_ingot);
+			return Ingredient.fromItems(ItemInit.obsidian_shard);
 		}),
 		BURNING_DIAMOND(4,1650,9.0f,-1,15,() -> {
 			return Ingredient.fromItems(ItemInit.burning_diamond);
@@ -484,7 +482,7 @@ public class ItemInit
 			return Ingredient.fromItems(ItemInit.tourmaline);
 		}),
 		OBSIDIAN(Uplift.MOD_ID + ":obsidian", 19, new int[] {3, 5, 5, 3}, 10, "item.armor.equip_iron", 2.0f, () -> {
-			return Ingredient.fromItems(ItemInit.obsidian_ingot);
+			return Ingredient.fromItems(ItemInit.obsidian_shard);
 		}),
 		BURNING_DIAMOND(Uplift.MOD_ID + ":burning_diamond", 17, new int[] {4, 7, 9, 4}, 15, "item.armor.equip_iron", 2.0f, () -> {
 			return Ingredient.fromItems(ItemInit.burning_diamond);

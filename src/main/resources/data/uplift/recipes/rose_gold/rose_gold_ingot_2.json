@@ -1,9 +1,24 @@
 {
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "uplift:rose_gold_ore"
-  },
-  "result": "uplift:rose_gold_ingot",
-  "experience": 0.8,
-  "cookingtime": 200
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:rose_gold_nugget"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:rose_gold_ingot",
+        "count": 1
+    }
 }

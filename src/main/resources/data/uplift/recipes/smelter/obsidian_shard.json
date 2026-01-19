@@ -1,7 +1,7 @@
 {
 	"type": "uplift:uplift",
 	"output": {
-		"item": "uplift:obsidian_ingot"
+		"item": "uplift:obsidian_shard"
 	},
 	
 	"input": {

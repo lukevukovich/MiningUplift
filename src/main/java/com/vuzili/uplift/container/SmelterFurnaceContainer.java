@@ -146,17 +146,13 @@ public class SmelterFurnaceContainer extends Container {
 	    // Ensure the slot ID is valid before proceeding
 	    if (slotId >= 0 && slotId < this.inventorySlots.size()) {
 	        Slot slot = this.inventorySlots.get(slotId);
-	        
-	        // Check if we are dealing with the expected slot for smelter output
-	        if (slot != null && slot.getSlotIndex() == 1 && slot.xPos == 56) {
+	        // Check if we are dealing with the output slot (index 1, xPos 116)
+	        if (slot != null && slot.getSlotIndex() == 1 && slot.xPos == 116) {
 	            ItemStack slotStack = slot.getStack();
 	            int count = slotStack.getCount();
-	            
 	            // If there are items in the output slot and the player is retrieving them
-	            if (count > 0 && clickTypeIn == ClickType.PICKUP) {
+	            if (count > 0 && (clickTypeIn == ClickType.PICKUP || clickTypeIn == ClickType.PICKUP_ALL)) {
 	                Random rand = new Random();
-	                
-	                // Give experience points based on the count of items being picked up
 	                player.giveExperiencePoints((rand.nextInt(4) + 1) * count);
 	                player.world.playSound(null, player.getPosX(), player.getPosY(), player.getPosZ(), 
 	                        SoundEvents.ENTITY_EXPERIENCE_ORB_PICKUP, SoundCategory.PLAYERS, 
@@ -164,7 +160,6 @@ public class SmelterFurnaceContainer extends Container {
 	            }
 	        }
 	    }
-	    
 	    // Call the superclass method to handle the actual slot click logic
 	    return super.slotClick(slotId, dragType, clickTypeIn, player);
 	}

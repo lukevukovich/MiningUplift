@@ -3,22 +3,22 @@
     
     "pattern":
     [
-        "III",
-        "III",
-        "III"
+        "   ",
+        " I ",
+        "   "
     ],
     
     "key":
     {
         "I":
         {
-            "item": "uplift:platinum_nugget"
+            "item": "uplift:platinum_ingot"
         }
     },
     
     "result":
     {
-        "item":  "uplift:platinum_ingot",
-        "count": 1
+        "item":  "uplift:platinum_nugget",
+        "count": 9
     }
 }

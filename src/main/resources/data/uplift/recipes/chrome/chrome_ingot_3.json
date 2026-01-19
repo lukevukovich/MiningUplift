@@ -1,16 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
 
-  "pattern": ["   ", "III", "I I"],
+  "pattern": ["III", "III", "III"],
 
   "key": {
     "I": {
-      "item": "uplift:obsidian_shard"
+      "item": "uplift:chrome_nugget"
     }
   },
 
   "result": {
-    "item": "uplift:obsidian_helmet",
+    "item": "uplift:chrome_ingot",
     "count": 1
   }
 }

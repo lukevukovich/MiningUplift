@@ -88,6 +88,13 @@ public class SmelterFurnaceTileEntity extends TileEntity implements ITickableTil
 						this.inventory.decrStackSize(0, 1);
 						dirty = true;
 					}
+				} else {
+					// No valid input/recipe; if there is progress, slowly decay it
+					if (this.currentSmeltTime > 0) {
+						this.currentSmeltTime = Math.max(0, this.currentSmeltTime - 1);
+						this.world.setBlockState(this.getPos(), this.getBlockState());
+						dirty = true;
+					}
 				}
 		}
 

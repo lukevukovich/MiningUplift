@@ -3,22 +3,22 @@
     
     "pattern":
     [
-        "III",
-        "III",
-        "III"
+        "   ",
+        " I ",
+        "   "
     ],
     
     "key":
     {
         "I":
         {
-            "item": "uplift:chrome_nugget"
+            "item": "uplift:chrome_ingot"
         }
     },
     
     "result":
     {
-        "item":  "uplift:chrome_ingot",
-        "count": 1
+        "item":  "uplift:chrome_nugget",
+        "count": 9
     }
 }

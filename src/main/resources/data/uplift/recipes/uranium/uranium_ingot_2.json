@@ -1,9 +1,24 @@
 {
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "uplift:uranium_ore"
-  },
-  "result": "uplift:uranium_ingot",
-  "experience": 0.7,
-  "cookingtime": 200
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:uranium_nugget"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:uranium_ingot",
+        "count": 1
+    }
 }
