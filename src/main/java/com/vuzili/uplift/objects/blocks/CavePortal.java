@@ -35,6 +35,7 @@ import net.minecraft.world.IBlockReader;
 import net.minecraft.world.IWorld;
 import net.minecraft.world.World;
 import net.minecraft.world.dimension.DimensionType;
+import com.vuzili.uplift.world.CavePortalLinkData;
 import net.minecraft.world.server.ServerWorld;
 import net.minecraft.item.BlockItemUseContext;
 import net.minecraft.item.ItemStack;
@@ -318,8 +319,11 @@ public class CavePortal extends Block {
     private BlockPos getOrCreateLinkedTargetPos(ServerWorld originWorld, ServerWorld targetWorld, BlockPos originPos) {
         ChunkPos originChunk = new ChunkPos(originPos);
         long originKey = ChunkPos.asLong(originChunk.x, originChunk.z);
-
-        BlockPos existing = overworldToCaveLinksByChunk.get(originKey);
+        // Try persisted link in origin world first
+        BlockPos existing = CavePortalLinkData.get(originWorld).getLink(originKey);
+        if (existing == null) {
+            existing = overworldToCaveLinksByChunk.get(originKey);
+        }
         if (existing != null) {
             return existing;
         }
@@ -330,14 +334,16 @@ public class CavePortal extends Block {
 
         // Prefer an existing teleporter block near the anchor
         BlockPos nearTeleporter = findNearestTeleporterBlock(targetWorld, anchor, 64);
-        BlockPos safePos = (nearTeleporter != null) ? nearTeleporter : findSafePosition(targetWorld, anchor);
+        BlockPos safePos = (nearTeleporter != null) ? getPortalLeader(targetWorld, nearTeleporter) : findSafePosition(targetWorld, anchor);
 
         // Only compute and link positions here; placement handled during collision for orientation
 
         // Record bi-directional links by chunk
         overworldToCaveLinksByChunk.put(originKey, safePos);
+        CavePortalLinkData.get(originWorld).putLink(originKey, safePos);
         long caveKey = ChunkPos.asLong(new ChunkPos(safePos).x, new ChunkPos(safePos).z);
         caveToOverworldLinksByChunk.put(caveKey, new BlockPos(originPos.getX(), originPos.getY(), originPos.getZ()));
+        CavePortalLinkData.get(targetWorld).putLink(caveKey, new BlockPos(originPos.getX(), originPos.getY(), originPos.getZ()));
 
         return safePos;
     }
@@ -345,20 +351,45 @@ public class CavePortal extends Block {
     private BlockPos getLinkedReturnPos(ServerWorld caveWorld, BlockPos caveTeleporterPos, ServerWorld overworld) {
         ChunkPos caveChunk = new ChunkPos(caveTeleporterPos);
         long caveKey = ChunkPos.asLong(caveChunk.x, caveChunk.z);
-        BlockPos linked = caveToOverworldLinksByChunk.get(caveKey);
+        // Prefer persisted link in cave world
+        BlockPos linked = CavePortalLinkData.get(caveWorld).getLink(caveKey);
+        if (linked == null) {
+            linked = caveToOverworldLinksByChunk.get(caveKey);
+        }
         if (linked != null) {
             // If there's already a teleporter nearby, use it; otherwise find safe and optionally place one.
             BlockPos nearTeleporter = findNearestTeleporterBlock(overworld, linked, 64);
-            BlockPos safe = (nearTeleporter != null) ? nearTeleporter : findSafePosition(overworld, linked);
+            BlockPos safe = (nearTeleporter != null) ? getPortalLeader(overworld, nearTeleporter) : findSafePosition(overworld, linked);
             return safe;
         }
         return null;
     }
 
+    private BlockPos getPortalLeader(ServerWorld world, BlockPos anyPortal) {
+        BlockPos start = anyPortal;
+        if (world.getBlockState(start).getBlock() != this) {
+            BlockPos found = findNearestTeleporterBlock(world, anyPortal, 12);
+            if (found == null) return anyPortal;
+            start = found;
+        }
+        // descend to bottom of cluster
+        while (world.getBlockState(start.down()).getBlock() == this) {
+            start = start.down();
+        }
+        BlockState s = world.getBlockState(start);
+        Direction.Axis axis = (s.getBlock() == this) ? s.get(AXIS) : Direction.Axis.X;
+        Direction leftDir = (axis == Direction.Axis.X) ? Direction.NORTH : Direction.WEST;
+        // move to the negative horizontal edge
+        while (world.getBlockState(start.offset(leftDir)).getBlock() == this) {
+            start = start.offset(leftDir);
+        }
+        return start;
+    }
+
     private BlockPos findNearestTeleporterBlock(ServerWorld world, BlockPos center, int radius) {
         int r = Math.max(1, radius);
         BlockPos.Mutable mutable = new BlockPos.Mutable();
-        for (int yOff = -4; yOff <= 4; yOff++) {
+        for (int yOff = -12; yOff <= 12; yOff++) {
             for (int dx = -r; dx <= r; dx++) {
                 for (int dz = -r; dz <= r; dz++) {
                     mutable.setPos(center.getX() + dx, center.getY() + yOff, center.getZ() + dz);
@@ -374,7 +405,7 @@ public class CavePortal extends Block {
 
     private void placeTeleporterIfPossible(ServerWorld world, BlockPos pos, Direction.Axis preferredAxis) {
         // Check if a portal already exists near the target position - do NOT modify anything
-        if (hasExistingPortalNearby(world, pos, 4)) return;
+        if (hasExistingPortalNearby(world, pos, 8)) return;
         // Prefer creating the portal inside an existing gemstone frame; no carving
         if (tryCreatePortal(world, pos)) return;
 
@@ -567,26 +598,14 @@ public class CavePortal extends Block {
 
     private static boolean tryCreatePortalWithAxis(IWorld world, BlockPos center, Direction.Axis axis) {
         Direction horizDir = (axis == Direction.Axis.X) ? Direction.EAST : Direction.NORTH;
-        
-        // First check if the ignition point is inside or adjacent to a valid frame
-        // Use a small search radius to avoid hanging - only search nearby
-        int searchRadius = 5; // Small radius for quick search
-        
-        for (int searchY = -searchRadius; searchY <= searchRadius; searchY++) {
-            for (int searchH = -searchRadius; searchH <= searchRadius; searchH++) {
-                BlockPos testOrigin = center.up(searchY).offset(horizDir, searchH);
-                
-                // Quick check: skip if not air/replaceable (can't be inside a frame)
-                if (!isAirOrReplaceableOrPortal(world, testOrigin)) continue;
-                
-                // Try to find a valid portal frame starting from this position
-                PortalSize size = findPortalSize(world, testOrigin, horizDir, axis);
-                if (size != null && size.isValid()) {
-                    // Fill the portal
-                    fillVariablePortal(world, size, axis);
-                    return true;
-                }
-            }
+        // Only attempt to create a portal from the exact interior position provided
+        if (!isAirOrReplaceableOrPortal(world, center)) {
+            return false;
+        }
+        PortalSize size = findPortalSize(world, center, horizDir, axis);
+        if (size != null && size.isValid()) {
+            fillVariablePortal(world, size, axis);
+            return true;
         }
         return false;
     }

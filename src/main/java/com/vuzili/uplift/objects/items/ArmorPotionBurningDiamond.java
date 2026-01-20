@@ -32,7 +32,7 @@ public class ArmorPotionBurningDiamond extends ArmorItem {
 				&& feet.getItem() == ItemInit.burning_diamond_boots) 
 		{
 			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(Effects.FIRE_RESISTANCE, 210, 0, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.FIRE_RESISTANCE, Integer.MAX_VALUE, 0, false, false));
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.burning_diamond_boots, 250, 96, 43);
 		}

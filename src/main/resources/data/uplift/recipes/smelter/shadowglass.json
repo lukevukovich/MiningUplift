@@ -1,0 +1,10 @@
+{
+	"type": "uplift:uplift",
+	"output": {
+		"item": "uplift:shadowglass"
+	},
+	
+	"input": {
+		"item": "minecraft:obsidian"
+	}
+}

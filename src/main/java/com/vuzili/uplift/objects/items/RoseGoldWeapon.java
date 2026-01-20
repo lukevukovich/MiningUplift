@@ -21,6 +21,10 @@ public class RoseGoldWeapon extends SwordItem
 		effect = e;
 		// TODO Auto-generated constructor stub
 	}
+
+	public Effect getEffect() {
+		return this.effect;
+	}
 	
 	@Override
 	public void inventoryTick(ItemStack stack, World worldIn, Entity entityIn, int itemSlot, boolean isSelected) {
@@ -30,11 +34,11 @@ public class RoseGoldWeapon extends SwordItem
 	        // Check for item in main hand or off hand
 	        boolean isHeld = livingEntity.getHeldItemMainhand().getItem() == this || livingEntity.getHeldItemOffhand().getItem() == this;
 	        
-	        if (isHeld) {
-	            // Server: apply potion effect
-	            if (!worldIn.isRemote) {
-	                livingEntity.addPotionEffect(new EffectInstance(effect, 210, 2, false, false));
-	            }
+			if (isHeld) {
+				// Server: apply infinite-duration effect while held (removed via tick subscriber when not held)
+				if (!worldIn.isRemote) {
+					livingEntity.addPotionEffect(new EffectInstance(effect, Integer.MAX_VALUE, 2, false, false));
+				}
 	            // Client: spawn colored particles (matches armor behavior)
 	            else {
 	                ArmorPotionEffectParticles.spawnParticles(worldIn, livingEntity, stack, this, 255, 125, 229);

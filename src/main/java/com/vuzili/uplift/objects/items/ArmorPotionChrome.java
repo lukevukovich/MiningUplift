@@ -32,7 +32,7 @@ public class ArmorPotionChrome extends ArmorItem {
 				&& feet.getItem() == ItemInit.chrome_boots) 
 		{
 			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(Effects.SPEED, 210, 0, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.SPEED, Integer.MAX_VALUE, 0, false, false));
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.chrome_boots, 134, 118, 204);
 		}

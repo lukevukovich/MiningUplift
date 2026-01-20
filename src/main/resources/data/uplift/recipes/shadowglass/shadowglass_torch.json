@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [" I ", " A ", " X "],
+
+  "key": {
+    "I": {
+      "item": "minecraft:coal"
+    },
+
+    "A": {
+      "item": "minecraft:stick"
+    },
+
+    "X": {
+      "item": "uplift:shadowglass"
+    }
+  },
+
+  "result": {
+    "item": "uplift:shadowglass_torch",
+    "count": 8
+  }
+}

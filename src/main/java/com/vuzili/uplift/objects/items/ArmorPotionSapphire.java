@@ -32,7 +32,7 @@ public class ArmorPotionSapphire extends ArmorItem {
 				&& feet.getItem() == ItemInit.sapphire_boots) 
 		{
 			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(Effects.WATER_BREATHING, 210, 0, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.WATER_BREATHING, Integer.MAX_VALUE, 0, false, false));
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.sapphire_boots, 49, 49, 250);
 		}

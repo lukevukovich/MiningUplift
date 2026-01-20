@@ -32,7 +32,7 @@ public class ArmorPotionPlatinum extends ArmorItem {
 				&& feet.getItem() == ItemInit.platinum_boots) 
 		{
 			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(Effects.STRENGTH, 210, 0, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.STRENGTH, Integer.MAX_VALUE, 0, false, false));
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.platinum_boots, 212, 245, 249);
 		}

@@ -32,7 +32,7 @@ public class ArmorPotionTourmaline extends ArmorItem {
 				&& feet.getItem() == ItemInit.tourmaline_boots) 
 		{
 			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(Effects.JUMP_BOOST, 210, 1, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.JUMP_BOOST, Integer.MAX_VALUE, 1, false, false));
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.tourmaline_boots, 208, 60, 250);
 		}

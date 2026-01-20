@@ -67,38 +67,44 @@ public class Igniter extends FlintAndSteelIgniter
 	
 		         return ActionResultType.SUCCESS;
 		      } else {
-				BlockPos blockpos1 = blockpos.offset(context.getFace());
+				// Only allow ignition when clicking the inner face of a valid rim (gemstone)
+				BlockPos interiorPos = blockpos.offset(context.getFace());
 				// If clicking on or near an existing portal, do nothing (don't consume durability)
-				if (isPortalNearby(iworld, blockpos, blockpos1)) {
+				if (isPortalNearby(iworld, blockpos, interiorPos)) {
 					return ActionResultType.PASS;
 				}
-				// First, try to create the cave portal if a valid gemstone frame is present
-				if (tryCreatePortalNearby(iworld, blockpos, blockpos1)) {
-		            iworld.playSound(playerentity, blockpos1, SoundEvents.ITEM_FLINTANDSTEEL_USE, SoundCategory.BLOCKS, 1.0F, random.nextFloat() * 0.4F + 0.8F);
-		            ItemStack itemstack = context.getItem();
-		            if (playerentity instanceof ServerPlayerEntity) {
-		               CriteriaTriggers.PLACED_BLOCK.trigger((ServerPlayerEntity)playerentity, blockpos1, itemstack);
-		               itemstack.damageItem(100, playerentity, (p_219998_1_) -> {
-		                  p_219998_1_.sendBreakAnimation(context.getHand());
-		               });
-		            }
-		            return ActionResultType.SUCCESS;
-		         } else if (canSetFire(iworld.getBlockState(blockpos1), iworld, blockpos1)) {
-		            iworld.playSound(playerentity, blockpos1, SoundEvents.ITEM_FLINTANDSTEEL_USE, SoundCategory.BLOCKS, 1.0F, random.nextFloat() * 0.4F + 0.8F);
-		            BlockState blockstate1 = ((IgniterFire)BlockInit.igniter_fire).getStateForPlacement(iworld, blockpos1);
-		            iworld.setBlockState(blockpos1, blockstate1, 11);
-		            ItemStack itemstack = context.getItem();
-		            if (playerentity instanceof ServerPlayerEntity) {
-		               CriteriaTriggers.PLACED_BLOCK.trigger((ServerPlayerEntity)playerentity, blockpos1, itemstack);
-		               itemstack.damageItem(1, playerentity, (p_219998_1_) -> {
-		                  p_219998_1_.sendBreakAnimation(context.getHand());
-		               });
-		            }
-	
-		            return ActionResultType.SUCCESS;
-		         } else {
-		            return ActionResultType.FAIL;
-		         }
+				boolean clickedFrame = iworld.getBlockState(blockpos).getBlock() == BlockInit.gemstone;
+				@SuppressWarnings("deprecation")
+				boolean interiorIsEmpty = iworld.getBlockState(interiorPos).isAir() || iworld.getBlockState(interiorPos).getMaterial().isReplaceable();
+				if (clickedFrame && interiorIsEmpty) {
+					// Try to create the portal strictly from the interior position
+					if (CavePortal.tryCreatePortal(iworld, interiorPos)) {
+						 iworld.playSound(playerentity, interiorPos, SoundEvents.ITEM_FLINTANDSTEEL_USE, SoundCategory.BLOCKS, 1.0F, random.nextFloat() * 0.4F + 0.8F);
+						 ItemStack itemstack = context.getItem();
+						 if (playerentity instanceof ServerPlayerEntity) {
+							 CriteriaTriggers.PLACED_BLOCK.trigger((ServerPlayerEntity)playerentity, interiorPos, itemstack);
+							 itemstack.damageItem(100, playerentity, (p_219998_1_) -> {
+								 p_219998_1_.sendBreakAnimation(context.getHand());
+							 });
+						 }
+						 return ActionResultType.SUCCESS;
+					}
+				}
+				// Otherwise, fallback to placing igniter fire if allowed
+				if (canSetFire(iworld.getBlockState(interiorPos), iworld, interiorPos)) {
+					 iworld.playSound(playerentity, interiorPos, SoundEvents.ITEM_FLINTANDSTEEL_USE, SoundCategory.BLOCKS, 1.0F, random.nextFloat() * 0.4F + 0.8F);
+					 BlockState blockstate1 = ((IgniterFire)BlockInit.igniter_fire).getStateForPlacement(iworld, interiorPos);
+					 iworld.setBlockState(interiorPos, blockstate1, 11);
+					 ItemStack itemstack = context.getItem();
+					 if (playerentity instanceof ServerPlayerEntity) {
+						 CriteriaTriggers.PLACED_BLOCK.trigger((ServerPlayerEntity)playerentity, interiorPos, itemstack);
+						 itemstack.damageItem(1, playerentity, (p_219998_1_) -> {
+							 p_219998_1_.sendBreakAnimation(context.getHand());
+						 });
+					 }
+					 return ActionResultType.SUCCESS;
+				}
+				return ActionResultType.FAIL;
 		      }
 		      
 		      return ActionResultType.FAIL;
@@ -124,24 +130,6 @@ public class Igniter extends FlintAndSteelIgniter
 				return false;
 			}
 
-			private boolean tryCreatePortalNearby(IWorld world, BlockPos base, BlockPos offsetPos) {
-				// Try several candidate positions around both the clicked block and the adjacent block
-				BlockPos[] candidates = new BlockPos[] {
-					offsetPos,
-					base,
-					offsetPos.up(),
-					offsetPos.down(),
-					base.up(),
-					base.down(),
-					offsetPos.north(), offsetPos.south(), offsetPos.east(), offsetPos.west(),
-					base.north(), base.south(), base.east(), base.west()
-				};
-				for (BlockPos p : candidates) {
-					if (CavePortal.tryCreatePortal(world, p)) {
-						return true;
-					}
-				}
-				return false;
-			}
+			// Removed area search: portal creation only allowed from the inner rim face
 
 }

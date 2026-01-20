@@ -47,7 +47,7 @@ public class ArmorPotionUranium extends ArmorItem {
 				&& feet.getItem() == ItemInit.uranium_boots) 
 		{
 			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(HASTE, 210, 2, false, false));
+				player.addPotionEffect(new EffectInstance(HASTE, Integer.MAX_VALUE, 2, false, false));
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.uranium_boots, 92, 255, 55);
 		}

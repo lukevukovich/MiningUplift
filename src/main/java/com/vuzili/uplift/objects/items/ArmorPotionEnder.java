@@ -33,7 +33,7 @@ public class ArmorPotionEnder extends ArmorItem {;
 				&& feet.getItem() == ItemInit.ender_boots) 
 		{
 			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(EffectInit.FLIGHT, 210, 0, false, false));
+				player.addPotionEffect(new EffectInstance(EffectInit.FLIGHT, Integer.MAX_VALUE, 0, false, false));
 			}
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.ender_boots, 212, 218, 146);
 		}

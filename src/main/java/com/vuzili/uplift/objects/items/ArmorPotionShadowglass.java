@@ -12,9 +12,9 @@ import net.minecraft.potion.EffectInstance;
 import net.minecraft.potion.Effects;
 import net.minecraft.world.World;
 
-public class ArmorPotionRuby extends ArmorItem {
+public class ArmorPotionShadowglass extends ArmorItem {
 
-	public ArmorPotionRuby(IArmorMaterial materialIn, EquipmentSlotType slot, Properties builder) {
+	public ArmorPotionShadowglass(IArmorMaterial materialIn, EquipmentSlotType slot, Properties builder) {
 		super(materialIn, slot, builder);
 	}
 
@@ -26,19 +26,19 @@ public class ArmorPotionRuby extends ArmorItem {
 		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
 		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
 
-		if (head.getItem() == ItemInit.ruby_helmet
-				&& chest.getItem() == ItemInit.ruby_chestplate
-				&& legs.getItem() == ItemInit.ruby_leggings
-				&& feet.getItem() == ItemInit.ruby_boots) 
+		if (head.getItem() == ItemInit.shadowglass_helmet
+				&& chest.getItem() == ItemInit.shadowglass_chestplate
+				&& legs.getItem() == ItemInit.shadowglass_leggings
+				&& feet.getItem() == ItemInit.shadowglass_boots) 
 		{
 			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(Effects.RESISTANCE, Integer.MAX_VALUE, 0, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.NIGHT_VISION, Integer.MAX_VALUE, 0, false, false));
 			}
-			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.ruby_boots, 255, 44, 44);
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.shadowglass_boots, 106, 40, 202);
 		}
 		else {
 			if (!world.isRemote) {
-				player.removePotionEffect(Effects.RESISTANCE);
+				player.removePotionEffect(Effects.NIGHT_VISION);
 			}
 		}
 		super.onArmorTick(stack, world, player);

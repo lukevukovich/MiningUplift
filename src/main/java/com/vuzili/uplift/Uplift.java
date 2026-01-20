@@ -88,7 +88,7 @@ public class Uplift
     	RenderTypeLookup.setRenderLayer(BlockInit.sapphire_torch.getBlock(), RenderType.getCutout());
     	RenderTypeLookup.setRenderLayer(BlockInit.tourmaline_torch.getBlock(), RenderType.getCutout());
     	RenderTypeLookup.setRenderLayer(BlockInit.opal_torch.getBlock(), RenderType.getCutout());
-    	RenderTypeLookup.setRenderLayer(BlockInit.obsidian_torch.getBlock(), RenderType.getCutout());
+    	RenderTypeLookup.setRenderLayer(BlockInit.shadowglass_torch.getBlock(), RenderType.getCutout());
     	RenderTypeLookup.setRenderLayer(BlockInit.igniter_fire.getBlock(), RenderType.getCutout());
     	RenderTypeLookup.setRenderLayer(BlockInit.tasmanite_torch.getBlock(), RenderType.getCutout());
     	RenderTypeLookup.setRenderLayer(BlockInit.ender_torch.getBlock(), RenderType.getCutout());
@@ -97,7 +97,7 @@ public class Uplift
 		RenderTypeLookup.setRenderLayer(BlockInit.burning_diamond_wall_torch.getBlock(), RenderType.getCutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.sapphire_wall_torch.getBlock(), RenderType.getCutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.tourmaline_wall_torch.getBlock(), RenderType.getCutout());
-		RenderTypeLookup.setRenderLayer(BlockInit.obsidian_wall_torch.getBlock(), RenderType.getCutout());
+		RenderTypeLookup.setRenderLayer(BlockInit.shadowglass_wall_torch.getBlock(), RenderType.getCutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.tasmanite_wall_torch.getBlock(), RenderType.getCutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.opal_wall_torch.getBlock(), RenderType.getCutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.ender_wall_torch.getBlock(), RenderType.getCutout());
