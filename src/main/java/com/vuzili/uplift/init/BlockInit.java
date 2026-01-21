@@ -238,7 +238,7 @@ public class BlockInit
 		event.getRegistry().register(new TorchItem(shadowglass_torch, shadowglass_wall_torch, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass_torch"));
 		
 		//Smelter
-		event.getRegistry().register(new BlockItem(smelter, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("smelter"));
+		event.getRegistry().register(new BlockItem(smelter, new Item.Properties()).setRegistryName("smelter"));
 		event.getRegistry().register(new BlockItem(unlit_smelter, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("unlit_smelter"));
 
 		//Platinum

@@ -9,10 +9,14 @@ import javax.annotation.Nullable;
 
 import com.vuzili.uplift.Uplift;
 import com.vuzili.uplift.container.SmelterFurnaceContainer;
+import com.vuzili.uplift.init.BlockInit;
 import com.vuzili.uplift.init.ModTileEntityTypes;
 import com.vuzili.uplift.init.RecipeSerializerInit;
 import com.vuzili.uplift.recipes.UpliftRecipe;
+import com.vuzili.uplift.objects.blocks.UnlitSmelterFurnaceBlock;
 import com.vuzili.uplift.util.UpliftItemHandler;
+import net.minecraft.block.BlockState;
+import net.minecraft.state.properties.BlockStateProperties;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.world.ClientWorld;
@@ -50,12 +54,17 @@ public class SmelterFurnaceTileEntity extends TileEntity implements ITickableTil
 	private ITextComponent customName;
 	public int currentSmeltTime;
 	public final int maxSmeltTime = 150;
+	// Fuel system: ticks remaining while smelting; lasts for 100 items worth
+	public final int fuelTicksMax = 200 * maxSmeltTime;
+	public int fuelTicksRemaining;
 	private UpliftItemHandler inventory;
 
 	public SmelterFurnaceTileEntity(TileEntityType<?> tileEntityTypeIn) {
 		super(tileEntityTypeIn);
 
 		this.inventory = new UpliftItemHandler(2);
+		// New smelters start with full fuel
+		this.fuelTicksRemaining = this.fuelTicksMax;
 	}
 
 	public SmelterFurnaceTileEntity() {
@@ -73,19 +82,47 @@ public class SmelterFurnaceTileEntity extends TileEntity implements ITickableTil
 		boolean dirty = false;
 
 		if (this.world != null && !this.world.isRemote) {
-				if (this.getRecipe(this.inventory.getStackInSlot(0)) != null) {
-					if (this.currentSmeltTime != this.maxSmeltTime) {
-						this.world.setBlockState(this.getPos(),
-								this.getBlockState());
-						this.currentSmeltTime++;
+				UpliftRecipe recipe = this.getRecipe(this.inventory.getStackInSlot(0));
+				if (recipe != null) {
+					boolean canSmelt = this.canSmelt(recipe);
+					// Consume fuel and progress only if output can accept the recipe result
+					if (canSmelt && this.fuelTicksRemaining > 0) {
+						// Use one fuel tick for this smelt step
+						this.fuelTicksRemaining--;
+						// Increment progress and complete within the same tick when reaching max
+						if (this.currentSmeltTime + 1 >= this.maxSmeltTime) {
+							this.currentSmeltTime = 0;
+							ItemStack output = recipe.getRecipeOutput();
+							this.inventory.insertItem(1, output.copy(), false);
+							this.inventory.decrStackSize(0, 1);
+						} else {
+							this.currentSmeltTime++;
+						}
+						this.world.setBlockState(this.getPos(), this.getBlockState());
 						dirty = true;
+					} else if (!canSmelt) {
+						// Blocked by output: if mismatch, decay progress like when input is removed
+						ItemStack outputSlot = this.inventory.getStackInSlot(1);
+						ItemStack result = recipe.getRecipeOutput();
+						boolean mismatch = !outputSlot.isEmpty() && !ItemStack.areItemsEqual(outputSlot, result);
+						if (mismatch && this.currentSmeltTime > 0) {
+							int newTime = Math.max(0, this.currentSmeltTime - 1);
+							if (newTime != this.currentSmeltTime) {
+								this.currentSmeltTime = newTime;
+								this.world.setBlockState(this.getPos(), this.getBlockState());
+								dirty = true;
+							}
+						}
 					} else {
-						this.world.setBlockState(this.getPos(),
-								this.getBlockState());
+						// Out of fuel: convert to unlit smelter, preserving facing; reset progress
+						BlockState current = this.getBlockState();
+						Direction facing = current.has(BlockStateProperties.HORIZONTAL_FACING)
+							? current.get(BlockStateProperties.HORIZONTAL_FACING)
+							: Direction.NORTH;
+						BlockState unlit = BlockInit.unlit_smelter.getDefaultState()
+							.with(UnlitSmelterFurnaceBlock.FACING, facing);
 						this.currentSmeltTime = 0;
-						ItemStack output = this.getRecipe(this.inventory.getStackInSlot(0)).getRecipeOutput();
-						this.inventory.insertItem(1, output.copy(), false);
-						this.inventory.decrStackSize(0, 1);
+						this.world.setBlockState(this.pos, unlit);
 						dirty = true;
 					}
 				} else {
@@ -139,6 +176,9 @@ public class SmelterFurnaceTileEntity extends TileEntity implements ITickableTil
 		this.inventory.setNonNullList(inv);
 
 		this.currentSmeltTime = compound.getInt("CurrentSmeltTime");
+		this.fuelTicksRemaining = compound.contains("FuelTicksRemaining", Constants.NBT.TAG_INT)
+			? compound.getInt("FuelTicksRemaining")
+			: this.fuelTicksMax;
 
 	}
 
@@ -151,6 +191,7 @@ public class SmelterFurnaceTileEntity extends TileEntity implements ITickableTil
 		
 		ItemStackHelper.saveAllItems(compound, this.inventory.toNonNullList());
 		compound.putInt("CurrentSmeltTime", this.currentSmeltTime);
+		compound.putInt("FuelTicksRemaining", this.fuelTicksRemaining);
 
 		return compound;
 	}
@@ -231,5 +272,26 @@ public class SmelterFurnaceTileEntity extends TileEntity implements ITickableTil
 	@Override
 	public <T> LazyOptional<T> getCapability(Capability<T> cap, Direction side) {
 		return CapabilityItemHandler.ITEM_HANDLER_CAPABILITY.orEmpty(cap, LazyOptional.of(() -> this.inventory));
+	}
+
+	private boolean canSmelt(UpliftRecipe recipe) {
+		if (recipe == null) {
+			return false;
+		}
+		ItemStack result = recipe.getRecipeOutput();
+		if (result.isEmpty()) {
+			return false;
+		}
+		ItemStack outputSlot = this.inventory.getStackInSlot(1);
+		if (outputSlot.isEmpty()) {
+			return true;
+		}
+		// Must match item type (and tags if needed)
+		if (!ItemStack.areItemsEqual(outputSlot, result)) {
+			return false;
+		}
+		// Check stacking capacity
+		int combined = outputSlot.getCount() + result.getCount();
+		return combined <= outputSlot.getMaxStackSize();
 	}
 }

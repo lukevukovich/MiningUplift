@@ -29,6 +29,7 @@ public class SmelterFurnaceContainer extends Container {
 	public SmelterFurnaceTileEntity tileEntity;
 	private IWorldPosCallable canInteractWithCallable;
 	public FunctionalIntReferenceHolder currentSmeltTime;
+	public FunctionalIntReferenceHolder fuelTicksRemaining;
 
 	// Server Constructor
 	public SmelterFurnaceContainer(final int windowID, final PlayerInventory playerInv,
@@ -63,6 +64,8 @@ public class SmelterFurnaceContainer extends Container {
 
 		this.trackInt(currentSmeltTime = new FunctionalIntReferenceHolder(() -> this.tileEntity.currentSmeltTime,
 				value -> this.tileEntity.currentSmeltTime = value));
+		this.trackInt(fuelTicksRemaining = new FunctionalIntReferenceHolder(() -> this.tileEntity.fuelTicksRemaining,
+				value -> this.tileEntity.fuelTicksRemaining = value));
 	}
 
 	// Client Constructor
@@ -82,7 +85,8 @@ public class SmelterFurnaceContainer extends Container {
 
 	@Override
 	public boolean canInteractWith(PlayerEntity playerIn) {
-		return isWithinUsableDistance(canInteractWithCallable, playerIn, BlockInit.smelter.getBlock());
+		return isWithinUsableDistance(canInteractWithCallable, playerIn, BlockInit.smelter.getBlock())
+			|| isWithinUsableDistance(canInteractWithCallable, playerIn, BlockInit.unlit_smelter.getBlock());
 	}
 
 	@Nonnull
@@ -166,8 +170,16 @@ public class SmelterFurnaceContainer extends Container {
 
 
 	public int getSmeltProgressionScaled() {
+		final int smeltBarMaxWidth = 24; // full width of smelt progress bar texture segment
 		return this.currentSmeltTime.get() != 0 && this.tileEntity.maxSmeltTime != 0
-				? this.currentSmeltTime.get() * 24 / this.tileEntity.maxSmeltTime
+				? this.currentSmeltTime.get() * smeltBarMaxWidth / this.tileEntity.maxSmeltTime
+				: 0;
+	}
+
+	public int getFuelProgressionScaled() {
+		final int fuelBarMaxWidth = 119; // full width of fuel bar texture segment
+		return this.tileEntity.fuelTicksMax != 0
+				? this.fuelTicksRemaining.get() * fuelBarMaxWidth / this.tileEntity.fuelTicksMax
 				: 0;
 	}
 }

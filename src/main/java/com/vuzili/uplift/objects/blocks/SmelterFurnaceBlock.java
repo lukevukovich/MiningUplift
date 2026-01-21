@@ -2,6 +2,7 @@ package com.vuzili.uplift.objects.blocks;
 
 import java.util.Random;
 
+import com.vuzili.uplift.init.BlockInit;
 import com.vuzili.uplift.init.ModTileEntityTypes;
 import com.vuzili.uplift.tileentity.SmelterFurnaceTileEntity;
 import com.vuzili.uplift.util.UpliftItemHandler;
@@ -30,6 +31,7 @@ import net.minecraft.util.SoundCategory;
 import net.minecraft.util.SoundEvents;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.BlockRayTraceResult;
+import net.minecraft.util.math.RayTraceResult;
 import net.minecraft.world.IBlockReader;
 import net.minecraft.world.World;
 import net.minecraftforge.api.distmarker.Dist;
@@ -44,6 +46,12 @@ public class SmelterFurnaceBlock extends Block {
 		super(properties);
 		this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
 	}
+
+	@Override
+    public ItemStack getPickBlock(BlockState state, RayTraceResult target, IBlockReader world, BlockPos pos, PlayerEntity player) {
+        // Return an empty stack to prevent picking the block
+        return BlockInit.unlit_smelter.asItem().getDefaultInstance();
+    }
 
 	@Override
 	public boolean hasTileEntity(BlockState state) {
@@ -135,15 +143,21 @@ public class SmelterFurnaceBlock extends Block {
 	public void onReplaced(BlockState state, World worldIn, BlockPos pos, BlockState newState, boolean isMoving) {
 		TileEntity tile = worldIn.getTileEntity(pos);
 		if (!worldIn.isRemote && tile instanceof SmelterFurnaceTileEntity && state.getBlock() != newState.getBlock()) {
-			SmelterFurnaceTileEntity furnace = (SmelterFurnaceTileEntity) tile;
-			((UpliftItemHandler) furnace.getInventory()).toNonNullList().forEach(item -> {
-				ItemEntity itemEntity = new ItemEntity(worldIn, pos.getX(), pos.getY(), pos.getZ(), item);
-				worldIn.addEntity(itemEntity);
-			});
+			// If transitioning to unlit, keep inventory and tile entity
+			if (!(newState.getBlock() instanceof UnlitSmelterFurnaceBlock)) {
+				SmelterFurnaceTileEntity furnace = (SmelterFurnaceTileEntity) tile;
+				((UpliftItemHandler) furnace.getInventory()).toNonNullList().forEach(item -> {
+					ItemEntity itemEntity = new ItemEntity(worldIn, pos.getX(), pos.getY(), pos.getZ(), item);
+					worldIn.addEntity(itemEntity);
+				});
+			}
 		}
 
 		if (state.hasTileEntity() && state.getBlock() != newState.getBlock()) {
-			worldIn.removeTileEntity(pos);
+			// Only remove tile entity if not transitioning to unlit
+			if (!(newState.getBlock() instanceof UnlitSmelterFurnaceBlock)) {
+				worldIn.removeTileEntity(pos);
+			}
 		}
 	}
 
