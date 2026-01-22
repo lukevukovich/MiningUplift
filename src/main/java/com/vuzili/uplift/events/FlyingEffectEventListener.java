@@ -70,7 +70,7 @@ public class FlyingEffectEventListener {
             }
             
             // Scale: Easy=0.5x, Normal=1.0x, Hard=1.5x
-            float difficultyMultiplier = difficulty * 0.5F;
+            float difficultyMultiplier = difficulty * 0.75F;
             player.addExhaustion(baseExhaustion * difficultyMultiplier);
         }
     }

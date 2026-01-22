@@ -1,7 +1,6 @@
 package com.vuzili.uplift.container;
 
 import java.util.Objects;
-import java.util.Random;
 
 import javax.annotation.Nonnull;
 
@@ -9,6 +8,7 @@ import com.vuzili.uplift.init.BlockInit;
 import com.vuzili.uplift.init.ModContainerTypes;
 import com.vuzili.uplift.objects.itemHandler.SmelterOutputSlot;
 import com.vuzili.uplift.tileentity.SmelterFurnaceTileEntity;
+import com.vuzili.uplift.util.ExperienceHelper;
 import com.vuzili.uplift.util.FunctionalIntReferenceHolder;
 
 import net.minecraft.entity.player.PlayerEntity;
@@ -23,6 +23,7 @@ import net.minecraft.util.IWorldPosCallable;
 import net.minecraft.util.SoundCategory;
 import net.minecraft.util.SoundEvents;
 import net.minecraftforge.items.SlotItemHandler;
+import java.util.Random;
 
 public class SmelterFurnaceContainer extends Container {
 
@@ -30,6 +31,7 @@ public class SmelterFurnaceContainer extends Container {
 	private IWorldPosCallable canInteractWithCallable;
 	public FunctionalIntReferenceHolder currentSmeltTime;
 	public FunctionalIntReferenceHolder fuelTicksRemaining;
+	private Random rand = new Random();
 
 	// Server Constructor
 	public SmelterFurnaceContainer(final int windowID, final PlayerInventory playerInv,
@@ -100,13 +102,7 @@ public class SmelterFurnaceContainer extends Container {
 	        itemstack = stack.copy();
 
 	        // Output slot index is 1, input slot index is 0
-	        if (index == 1) { // If the player is shift-clicking from the output slot
-	            Random rand = new Random();
-	            playerIn.giveExperiencePoints((rand.nextInt(4) + 1) * stack.getCount());
-	            playerIn.world.playSound(null, playerIn.getPosX(), playerIn.getPosY(), playerIn.getPosZ(), 
-	                    SoundEvents.ENTITY_EXPERIENCE_ORB_PICKUP, SoundCategory.PLAYERS, 
-	                    0.2f, ((float) rand.nextInt(8) / 10) + 0.5f);
-
+			if (index == 1) { // If the player is shift-clicking from the output slot
 	            if (!this.mergeItemStack(stack, 2, 37, false)) { // Move to player's inventory
 	                return ItemStack.EMPTY;
 	            }
@@ -144,28 +140,38 @@ public class SmelterFurnaceContainer extends Container {
 	}
 
 	
-	//Used for XP
+	// Centralize XP payout by detecting output count reduction on any click path
 	@Override
 	public ItemStack slotClick(int slotId, int dragType, ClickType clickTypeIn, PlayerEntity player) {
-	    // Ensure the slot ID is valid before proceeding
-	    if (slotId >= 0 && slotId < this.inventorySlots.size()) {
-	        Slot slot = this.inventorySlots.get(slotId);
-	        // Check if we are dealing with the output slot (index 1, xPos 116)
-	        if (slot != null && slot.getSlotIndex() == 1 && slot.xPos == 116) {
-	            ItemStack slotStack = slot.getStack();
-	            int count = slotStack.getCount();
-	            // If there are items in the output slot and the player is retrieving them
-	            if (count > 0 && (clickTypeIn == ClickType.PICKUP || clickTypeIn == ClickType.PICKUP_ALL)) {
-	                Random rand = new Random();
-	                player.giveExperiencePoints((rand.nextInt(4) + 1) * count);
+		ItemStack beforeOutput = ItemStack.EMPTY;
+		int beforeCount = 0;
+		if (this.inventorySlots.size() > 1) {
+			Slot out = this.inventorySlots.get(1);
+			if (out != null && out.getHasStack()) {
+				beforeOutput = out.getStack().copy();
+				beforeCount = beforeOutput.getCount();
+			}
+		}
+
+		ItemStack result = super.slotClick(slotId, dragType, clickTypeIn, player);
+
+		if (this.inventorySlots.size() > 1 && !beforeOutput.isEmpty()) {
+			Slot outAfter = this.inventorySlots.get(1);
+			int afterCount = outAfter != null && outAfter.getHasStack() ? outAfter.getStack().getCount() : 0;
+			int removed = Math.max(0, beforeCount - afterCount);
+			if (removed > 0) {
+				int xpPerItem = ExperienceHelper.getXpForSmeltOutput(beforeOutput, player.world);
+				int totalXp = xpPerItem * removed;
+				if (totalXp > 0) {
+					player.giveExperiencePoints(totalXp);
 	                player.world.playSound(null, player.getPosX(), player.getPosY(), player.getPosZ(), 
 	                        SoundEvents.ENTITY_EXPERIENCE_ORB_PICKUP, SoundCategory.PLAYERS, 
-	                        0.2f, ((float) rand.nextInt(8) / 10) + 0.5f);
-	            }
-	        }
-	    }
-	    // Call the superclass method to handle the actual slot click logic
-	    return super.slotClick(slotId, dragType, clickTypeIn, player);
+	                        0.2f, ((float) this.rand.nextInt(8) / 10) + 0.5f);
+				}
+			}
+		}
+
+		return result;
 	}
 
 

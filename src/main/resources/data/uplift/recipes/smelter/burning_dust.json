@@ -1,7 +1,8 @@
 {
 	"type": "uplift:uplift",
 	"output": {
-		"item": "uplift:burning_diamond"
+		"item": "uplift:burning_dust",
+		"count": 1
 	},
 	
 	"input": {

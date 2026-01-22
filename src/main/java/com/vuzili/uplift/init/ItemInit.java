@@ -66,6 +66,7 @@ public class ItemInit
 	
 	//Burning Diamond
 	public static final Item burning_diamond = null;
+	public static final Item burning_dust = null;
 	
 	public static final Item burning_diamond_sword = null;
 	public static final Item burning_diamond_pickaxe = null;
@@ -227,6 +228,7 @@ public class ItemInit
 		
 		//Burning Diamond
 		event.getRegistry().register(new BurningDiamondFuel(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("burning_diamond"));
+		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("burning_dust"));
 		
 		event.getRegistry().register(new SwordItem(ModItemTier.BURNING_DIAMOND, 8, -2.4F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("burning_diamond_sword"));
 		event.getRegistry().register(new PickaxeItem(ModItemTier.BURNING_DIAMOND, 5, -2.8F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("burning_diamond_pickaxe"));
