@@ -24,7 +24,7 @@ public class ModOreGen
 			if(biome == BiomeInit.ORE_BIOME.get())
 			{
 				
-				ConfiguredPlacement<CountRangeConfig> customConfigGemstone = Placement.COUNT_RANGE.configure(new CountRangeConfig(30, 0, 0, 70));
+				ConfiguredPlacement<CountRangeConfig> customConfigGemstone = Placement.COUNT_RANGE.configure(new CountRangeConfig(10, 0, 0, 70));
 				biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, BlockInit.gemstone.getDefaultState(), 8)).withPlacement(customConfigGemstone));
 				
 				ConfiguredPlacement<CountRangeConfig> customConfigRuby = Placement.COUNT_RANGE.configure(new CountRangeConfig(30, 0, 0, 70));

@@ -23,13 +23,12 @@ public class ModEntitySpawns
 		{
 			if (biome == BiomeInit.ORE_BIOME.get())
 			{
-				biome.getSpawns(EntityClassification.MONSTER).clear();
-				biome.getSpawns(EntityClassification.AMBIENT).clear();
-				biome.getSpawns(EntityClassification.CREATURE).clear();
-				biome.getSpawns(EntityClassification.MISC).clear();
-				biome.getSpawns(EntityClassification.WATER_CREATURE).clear();
-				biome.getSpawns(EntityClassification.MONSTER).add(new Biome.SpawnListEntry(ModEntityTypes.STONE_ENTITY.get(), 32, 2, 4));
-				biome.getSpawns(EntityClassification.AMBIENT).add(new Biome.SpawnListEntry(EntityType.BAT, 10, 6, 66));
+				biome.getSpawns(EntityClassification.MONSTER).add(new Biome.SpawnListEntry(EntityType.ZOMBIE,    8, 1, 3));
+				biome.getSpawns(EntityClassification.MONSTER).add(new Biome.SpawnListEntry(EntityType.SKELETON, 8, 1, 3));
+				biome.getSpawns(EntityClassification.MONSTER).add(new Biome.SpawnListEntry(EntityType.CREEPER,  6, 1, 2));
+				biome.getSpawns(EntityClassification.MONSTER).add(new Biome.SpawnListEntry(EntityType.SPIDER,   6, 1, 2));
+				biome.getSpawns(EntityClassification.MONSTER).add(new Biome.SpawnListEntry(ModEntityTypes.STONE_ENTITY.get(), 12, 2, 4));
+				biome.getSpawns(EntityClassification.AMBIENT).add(new Biome.SpawnListEntry(EntityType.BAT, 10, 2, 4));
 			}
 		}
 	}

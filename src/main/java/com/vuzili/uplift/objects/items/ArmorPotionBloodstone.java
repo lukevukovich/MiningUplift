@@ -32,7 +32,7 @@ public class ArmorPotionBloodstone extends ArmorItem {
 				&& feet.getItem() == ItemInit.bloodstone_boots) 
 		{
 			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(Effects.REGENERATION, Integer.MAX_VALUE, 2, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.INSTANT_HEALTH, Integer.MAX_VALUE, 0, false, false));
 				player.addPotionEffect(new EffectInstance(Effects.BLINDNESS, Integer.MAX_VALUE, 0, false, false));
 				player.addPotionEffect(new EffectInstance(Effects.SLOWNESS, Integer.MAX_VALUE, 4, false, false));
 				player.addPotionEffect(new EffectInstance(Effects.MINING_FATIGUE, Integer.MAX_VALUE, 2, false, false));
@@ -40,7 +40,7 @@ public class ArmorPotionBloodstone extends ArmorItem {
 			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.bloodstone_boots, 116, 10, 10);
 		} else {
 			if (!world.isRemote) {
-				player.removePotionEffect(Effects.REGENERATION);
+				player.removePotionEffect(Effects.INSTANT_HEALTH);
 				player.removePotionEffect(Effects.BLINDNESS);
 				player.removePotionEffect(Effects.SLOWNESS);
 				player.removePotionEffect(Effects.MINING_FATIGUE);
