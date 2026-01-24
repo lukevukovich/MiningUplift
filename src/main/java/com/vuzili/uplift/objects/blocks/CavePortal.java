@@ -1,9 +1,6 @@
 package com.vuzili.uplift.objects.blocks;
 
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Random;
-import java.util.UUID;
 
 import com.vuzili.uplift.Uplift;
 import com.vuzili.uplift.init.BlockInit;
@@ -41,12 +38,11 @@ import net.minecraft.item.BlockItemUseContext;
 import net.minecraft.item.ItemStack;
 
 public class CavePortal extends Block {
-    private static final Map<UUID, BlockPos> lastPositions = new HashMap<>();
-    private static final Map<UUID, DimensionType> lastDimensions = new HashMap<>();
-    // Chunk-linking similar to Nether-style portal association
-    private static final Map<Long, BlockPos> overworldToCaveLinksByChunk = new HashMap<>();
-    private static final Map<Long, BlockPos> caveToOverworldLinksByChunk = new HashMap<>();
-    private static final int LINK_SCALE = 1; // Coordinate scale factor (like Nether's 8), keep 1:1 by default
+    // Portal search radius - reduced from vanilla's 128 for faster searches
+    // Linked portals use smaller radius (16) since we know approximate location
+    private static final int PORTAL_SEARCH_RADIUS = 64;
+    // Coordinate scale between dimensions (1:1 for cave dimension)
+    private static final int LINK_SCALE = 1;
     
     public static final EnumProperty<Direction.Axis> AXIS = BlockStateProperties.HORIZONTAL_AXIS;
 
@@ -129,98 +125,240 @@ public class CavePortal extends Block {
             if (serverPlayer.timeUntilPortal <= 0) {                                
                 
 	            MinecraftServer minecraftServer = serverPlayer.getServer();
-	            if (minecraftServer == null) return; // Server is not available	          
-	            
-	            UUID playerId = serverPlayer.getUniqueID();
+	            if (minecraftServer == null) return;
 	            
 	            // Set cooldown immediately to prevent multiple triggers
 	            serverPlayer.timeUntilPortal = 100;
+	            
+	            // Find the leader block of this portal cluster for consistent linking
+	            BlockPos portalLeader = getPortalLeader((ServerWorld) worldIn, pos);
 	
 	            if (serverPlayer.dimension == DimensionType.OVERWORLD) {
-	                DimensionType targetDimension = DimensionType.byName(Uplift.UPLIFT_DIM_TYPE);
-	                ServerWorld targetServerWorld = minecraftServer.getWorld(targetDimension);
-	                if (targetServerWorld != null) {      	                    	                    	                    
-	                    lastPositions.put(playerId, new BlockPos(serverPlayer.getPosX(), serverPlayer.getPosY(), serverPlayer.getPosZ()));
-	                    lastDimensions.put(playerId, DimensionType.OVERWORLD);
-                        // Persist the overworld teleporter block position for return after relog
-                        saveLastOverworldTeleporterToPlayer(serverPlayer, pos);
-                        
-                        // Determine a linked target position based on the teleporter/block position
-                        BlockPos originalPos = pos;
-                        BlockPos safePos = getOrCreateLinkedTargetPos((ServerWorld) worldIn, targetServerWorld, originalPos);
-                        
-                        // Force chunk loading and wait a tick before teleporting
-                        targetServerWorld.getChunkProvider().forceChunk(new ChunkPos(safePos), true);
-                        
-                        // Apply effects before teleport
-                        applyTeleportStatusEffects(serverPlayer);
-                        playTeleportEffects((ServerWorld) worldIn, pos);
-                        
-                        // Use delayed task to give the world time to prepare
-                        final BlockPos finalSafePos = safePos;
-                        final Direction.Axis preferredAxis = axisFromFacing(serverPlayer.getHorizontalFacing());
-                        minecraftServer.enqueue(new TickDelayedTask(minecraftServer.getTickCounter() + 1, () -> {
-                            // Orient portal to face player and place
-                            placeTeleporterIfPossible(targetServerWorld, finalSafePos, preferredAxis);
-                            // Teleport player to a safe position near the portal
-                            BlockPos teleportPos = findSafeTeleportPosition(targetServerWorld, finalSafePos);
-                            serverPlayer.teleport(targetServerWorld, teleportPos.getX() + 0.5, teleportPos.getY(), teleportPos.getZ() + 0.5, serverPlayer.rotationYaw, serverPlayer.rotationPitch);
-                            // Destination effects after teleport
-                            playTeleportEffects(targetServerWorld, finalSafePos);
-                            // Re-sync player abilities after dimension change to preserve flight effect
-                            serverPlayer.sendPlayerAbilities();
-                        }));
-	                    
-	                }
+	                teleportToUpliftDimension(serverPlayer, minecraftServer, (ServerWorld) worldIn, portalLeader);
 	            } else if (serverPlayer.dimension == DimensionType.byName(Uplift.UPLIFT_DIM_TYPE)) {
-	                DimensionType targetDimension = DimensionType.OVERWORLD;
-	                ServerWorld targetServerWorld = minecraftServer.getWorld(targetDimension);
-	                if (targetServerWorld != null) {
-                        // Prefer linked chunk return, fallback to saved last position
-                        BlockPos lastPos = getLinkedReturnPos((ServerWorld) worldIn, pos, targetServerWorld);
-                        if (lastPos == null) {
-                            // Try persistent per-player data (survives relog/server restart)
-                            BlockPos persisted = loadLastOverworldTeleporterFromPlayer(serverPlayer);
-                            if (persisted != null) {
-                                BlockPos nearTeleporter = findNearestTeleporterBlock(targetServerWorld, persisted, 64);
-                                lastPos = (nearTeleporter != null) ? nearTeleporter : findSafePosition(targetServerWorld, persisted);
-                            } else {
-                                lastPos = lastPositions.getOrDefault(playerId, targetServerWorld.getSpawnPoint());
-                            }
-                        }
-	                    if (lastPos.equals(targetServerWorld.getSpawnPoint())) {
-                    		clearBlocksAroundPlayer(targetServerWorld, new BlockPos(lastPos.getX(), lastPos.getY() + 1, lastPos.getZ()));
-	                    }
-	                    
-                        // Force chunk loading
-                        targetServerWorld.getChunkProvider().forceChunk(new ChunkPos(lastPos), true);
-                        
-                        // Apply effects before teleport
-                        applyTeleportStatusEffects(serverPlayer);
-                        playTeleportEffects((ServerWorld) worldIn, pos);
-                        
-                        // Use delayed task for dimension change
-                        final BlockPos finalLastPos = lastPos;
-                        final Direction.Axis preferredAxisBack = axisFromFacing(serverPlayer.getHorizontalFacing());
-                        minecraftServer.enqueue(new TickDelayedTask(minecraftServer.getTickCounter() + 1, () -> {
-                            // Orient portal to face player and place
-                            placeTeleporterIfPossible(targetServerWorld, finalLastPos, preferredAxisBack);
-                            // Teleport player to a safe position near the portal
-                            BlockPos teleportPos = findSafeTeleportPosition(targetServerWorld, finalLastPos);
-                            serverPlayer.teleport(targetServerWorld, teleportPos.getX() + 0.5, teleportPos.getY(), teleportPos.getZ() + 0.5, serverPlayer.rotationYaw, serverPlayer.rotationPitch);
-                            // Destination effects
-                            playTeleportEffects(targetServerWorld, finalLastPos);
-                            // Re-sync player abilities after dimension change to preserve flight effect
-                            serverPlayer.sendPlayerAbilities();
-                        }));
-	                    
-	                    // Clean up after teleporting back
-	                    lastPositions.remove(playerId);
-	                    lastDimensions.remove(playerId);
-	                }
+	                teleportToOverworld(serverPlayer, minecraftServer, (ServerWorld) worldIn, portalLeader);
 	            }
             }
         }
+    }
+
+    /**
+     * Teleport player from Overworld to Uplift (cave) dimension.
+     */
+    private void teleportToUpliftDimension(ServerPlayerEntity player, MinecraftServer server, 
+            ServerWorld sourceWorld, BlockPos sourcePortal) {
+        DimensionType targetDimension = DimensionType.byName(Uplift.UPLIFT_DIM_TYPE);
+        ServerWorld targetWorld = server.getWorld(targetDimension);
+        if (targetWorld == null) return;
+        
+        // Save player's current position and portal info for failsafe return
+        savePlayerPortalData(player, sourcePortal, sourceWorld.getDimension().getType());
+        
+        // Get or create linked destination portal
+        BlockPos destPortal = findOrCreateDestinationPortal(sourceWorld, targetWorld, sourcePortal, player);
+        
+        // Force chunk loading
+        targetWorld.getChunkProvider().forceChunk(new ChunkPos(destPortal), true);
+        
+        // Apply effects and play sounds
+        applyTeleportStatusEffects(player);
+        playTeleportEffects(sourceWorld, sourcePortal);
+        
+        // Teleport with delay to allow chunk to load
+        final BlockPos finalDestPortal = destPortal;
+        final Direction.Axis preferredAxis = axisFromFacing(player.getHorizontalFacing());
+        server.enqueue(new TickDelayedTask(server.getTickCounter() + 1, () -> {
+            // Ensure portal exists at destination
+            ensurePortalExists(targetWorld, finalDestPortal, preferredAxis);
+            
+            // Update bi-directional links
+            createBidirectionalLink(sourceWorld, sourcePortal, targetWorld, finalDestPortal);
+            
+            // Find safe position and teleport
+            BlockPos teleportPos = findSafeTeleportPosition(targetWorld, finalDestPortal);
+            player.teleport(targetWorld, teleportPos.getX() + 0.5, teleportPos.getY(), teleportPos.getZ() + 0.5, 
+                    player.rotationYaw, player.rotationPitch);
+            
+            playTeleportEffects(targetWorld, finalDestPortal);
+            player.sendPlayerAbilities();
+        }));
+    }
+
+    /**
+     * Teleport player from Uplift (cave) dimension back to Overworld.
+     */
+    private void teleportToOverworld(ServerPlayerEntity player, MinecraftServer server, 
+            ServerWorld sourceWorld, BlockPos sourcePortal) {
+        ServerWorld targetWorld = server.getWorld(DimensionType.OVERWORLD);
+        if (targetWorld == null) return;
+        
+        // Try to find linked return portal
+        BlockPos destPortal = findLinkedReturnPortal(sourceWorld, sourcePortal, targetWorld);
+        
+        // Fallback chain for return destination
+        if (destPortal == null) {
+            destPortal = tryLoadPlayerPortalData(player, targetWorld);
+        }
+        if (destPortal == null) {
+            // Last resort: spawn point with safety clearing
+            destPortal = targetWorld.getSpawnPoint();
+            clearBlocksAroundPlayer(targetWorld, destPortal.up());
+        }
+        
+        // Force chunk loading
+        targetWorld.getChunkProvider().forceChunk(new ChunkPos(destPortal), true);
+        
+        // Apply effects
+        applyTeleportStatusEffects(player);
+        playTeleportEffects(sourceWorld, sourcePortal);
+        
+        // Teleport with delay
+        final BlockPos finalDestPortal = destPortal;
+        final Direction.Axis preferredAxis = axisFromFacing(player.getHorizontalFacing());
+        server.enqueue(new TickDelayedTask(server.getTickCounter() + 1, () -> {
+            // Ensure portal exists at destination for future use
+            ensurePortalExists(targetWorld, finalDestPortal, preferredAxis);
+            
+            // Update bi-directional links
+            createBidirectionalLink(sourceWorld, sourcePortal, targetWorld, finalDestPortal);
+            
+            // Find safe position and teleport
+            BlockPos teleportPos = findSafeTeleportPosition(targetWorld, finalDestPortal);
+            player.teleport(targetWorld, teleportPos.getX() + 0.5, teleportPos.getY(), teleportPos.getZ() + 0.5,
+                    player.rotationYaw, player.rotationPitch);
+            
+            playTeleportEffects(targetWorld, finalDestPortal);
+            player.sendPlayerAbilities();
+        }));
+    }
+
+    /**
+     * Find an existing linked portal or create a new one in the destination dimension.
+     */
+    private BlockPos findOrCreateDestinationPortal(ServerWorld sourceWorld, ServerWorld destWorld, 
+            BlockPos sourcePortal, ServerPlayerEntity player) {
+        // Check for existing link from this portal
+        CavePortalLinkData sourceLinks = CavePortalLinkData.get(sourceWorld);
+        BlockPos linkedDest = sourceLinks.getLinkedPortal(sourcePortal);
+        
+        if (linkedDest != null) {
+            // Verify the linked portal still exists
+            BlockPos existingPortal = findExistingPortalNear(destWorld, linkedDest, 16);
+            if (existingPortal != null) {
+                return getPortalLeader(destWorld, existingPortal);
+            }
+            // Link was stale - portal was destroyed, will create new one
+        }
+        
+        // Calculate corresponding position in destination dimension
+        int destX = Math.floorDiv(sourcePortal.getX(), LINK_SCALE);
+        int destZ = Math.floorDiv(sourcePortal.getZ(), LINK_SCALE);
+        int destY = 24; // Cave dimension ground level
+        BlockPos searchCenter = new BlockPos(destX, destY, destZ);
+        
+        // Search for existing portal nearby (like vanilla Nether portal behavior)
+        BlockPos existingPortal = findExistingPortalNear(destWorld, searchCenter, PORTAL_SEARCH_RADIUS);
+        if (existingPortal != null) {
+            return getPortalLeader(destWorld, existingPortal);
+        }
+        
+        // No existing portal found, find safe position for new one
+        return findSafePosition(destWorld, searchCenter);
+    }
+
+    /**
+     * Find linked return portal or search for nearest portal in overworld.
+     */
+    private BlockPos findLinkedReturnPortal(ServerWorld caveWorld, BlockPos cavePortal, ServerWorld overworld) {
+        // Check for existing link
+        CavePortalLinkData caveLinks = CavePortalLinkData.get(caveWorld);
+        BlockPos linkedReturn = caveLinks.getLinkedPortal(cavePortal);
+        
+        if (linkedReturn != null) {
+            // Verify portal still exists
+            BlockPos existingPortal = findExistingPortalNear(overworld, linkedReturn, 16);
+            if (existingPortal != null) {
+                return getPortalLeader(overworld, existingPortal);
+            }
+        }
+        
+        // Calculate corresponding overworld position
+        int owX = cavePortal.getX() * LINK_SCALE;
+        int owZ = cavePortal.getZ() * LINK_SCALE;
+        BlockPos searchCenter = new BlockPos(owX, 64, owZ);
+        
+        // Search for existing portal
+        BlockPos existingPortal = findExistingPortalNear(overworld, searchCenter, PORTAL_SEARCH_RADIUS);
+        if (existingPortal != null) {
+            return getPortalLeader(overworld, existingPortal);
+        }
+        
+        return null;
+    }
+
+    /**
+     * Create bi-directional links between two portals.
+     */
+    private void createBidirectionalLink(ServerWorld world1, BlockPos portal1, ServerWorld world2, BlockPos portal2) {
+        BlockPos leader1 = getPortalLeader(world1, portal1);
+        BlockPos leader2 = getPortalLeader(world2, portal2);
+        
+        CavePortalLinkData.get(world1).setLinkedPortal(leader1, leader2);
+        CavePortalLinkData.get(world2).setLinkedPortal(leader2, leader1);
+    }
+
+    /**
+     * Ensure a portal exists at the target position, creating one if necessary.
+     */
+    private void ensurePortalExists(ServerWorld world, BlockPos pos, Direction.Axis preferredAxis) {
+        // Check if portal already exists nearby
+        if (hasExistingPortalNearby(world, pos, 8)) {
+            return;
+        }
+        
+        // Try to light an existing frame first
+        if (tryCreatePortal(world, pos)) {
+            return;
+        }
+        
+        // Build new frame and portal
+        Direction.Axis axisChoice = preferredAxis;
+        if (!isAreaClearForFrame(world, pos, preferredAxis)) {
+            Direction.Axis alt = (preferredAxis == Direction.Axis.X) ? Direction.Axis.Z : Direction.Axis.X;
+            if (isAreaClearForFrame(world, pos, alt)) {
+                axisChoice = alt;
+            }
+        }
+        clearCavityAround(world, pos);
+        buildFrameAndPortal(world, pos, axisChoice);
+    }
+
+    /**
+     * Search for an existing portal block within a radius.
+     * Returns the position of any portal block found, or null.
+     * Optimized: searches in expanding cubic shells and exits immediately when found.
+     */
+    private BlockPos findExistingPortalNear(ServerWorld world, BlockPos center, int radius) {
+        BlockPos.Mutable mutable = new BlockPos.Mutable();
+        
+        // Search in expanding cubic shells - check closest positions first
+        for (int r = 0; r <= radius; r++) {
+            // Only check the shell at distance r (not the interior)
+            for (int dy = -Math.min(r, 12); dy <= Math.min(r, 12); dy++) {
+                for (int dx = -r; dx <= r; dx++) {
+                    for (int dz = -r; dz <= r; dz++) {
+                        // Only check positions on the shell boundary
+                        if (Math.abs(dx) != r && Math.abs(dz) != r && Math.abs(dy) != Math.min(r, 12)) continue;
+                        
+                        mutable.setPos(center.getX() + dx, center.getY() + dy, center.getZ() + dz);
+                        if (world.getBlockState(mutable).getBlock() == this) {
+                            return mutable.toImmutable(); // Return immediately on first find
+                        }
+                    }
+                }
+            }
+        }
+        return null;
     }
     
     // Removed temporary gamemode switching; teleport directly.
@@ -261,24 +399,39 @@ public class CavePortal extends Block {
 
     
     private BlockPos findSafePosition(World world, BlockPos originalPos) {
-        // Set the Y level explicitly to 24, as it is the ground level of the dimension
-        int yLevel = 24;
+        // Determine Y level based on dimension
+        boolean isCaveDimension = world.getDimension().getType() == DimensionType.byName(Uplift.UPLIFT_DIM_TYPE);
+        int yLevel = isCaveDimension ? 24 : originalPos.getY();
+        
+        // For overworld, search vertically for a safe spot
+        if (!isCaveDimension) {
+            yLevel = findSafeYLevel(world, originalPos.getX(), originalPos.getZ());
+        }
 
-        // Start searching for a safe location at Y=24
         BlockPos basePos = new BlockPos(originalPos.getX(), yLevel, originalPos.getZ());
 
         // Check if the initial position is safe
         if (isLocationSafe(world, basePos, 3, 3)) {
-            return basePos; // Position is safe
+            return basePos;
         }
 
-        // If the initial position is not safe, search nearby for a safe location
-        final int searchRadius = 1600; // Define how far to search from the initial position
-        for (int dx = -searchRadius; dx <= searchRadius; dx++) {
-            for (int dz = -searchRadius; dz <= searchRadius; dz++) {
-                BlockPos newPos = new BlockPos(basePos.getX() + dx, yLevel, basePos.getZ() + dz);
-                if (isLocationSafe(world, newPos, 3, 3)) {
-                    return newPos; // Found a safe position
+        // Search in expanding squares (spiral pattern) - much faster than linear scan
+        final int maxRadius = 64; // Reduced from 1600 - search nearby first
+        for (int r = 1; r <= maxRadius; r++) {
+            // Check positions on the perimeter of the square at radius r
+            for (int i = -r; i <= r; i++) {
+                // Top and bottom edges
+                BlockPos top = new BlockPos(basePos.getX() + i, yLevel, basePos.getZ() - r);
+                BlockPos bottom = new BlockPos(basePos.getX() + i, yLevel, basePos.getZ() + r);
+                if (isLocationSafe(world, top, 3, 3)) return top;
+                if (isLocationSafe(world, bottom, 3, 3)) return bottom;
+                
+                // Left and right edges (excluding corners already checked)
+                if (i != -r && i != r) {
+                    BlockPos left = new BlockPos(basePos.getX() - r, yLevel, basePos.getZ() + i);
+                    BlockPos right = new BlockPos(basePos.getX() + r, yLevel, basePos.getZ() + i);
+                    if (isLocationSafe(world, left, 3, 3)) return left;
+                    if (isLocationSafe(world, right, 3, 3)) return right;
                 }
             }
         }
@@ -286,6 +439,31 @@ public class CavePortal extends Block {
         // If no safe position is found, fallback to the original base position
         // Consider adding logic to handle this case more gracefully
         return basePos;
+    }
+
+    /**
+     * Find a safe Y level at the given X/Z coordinates in the overworld.
+     * Searches from sky down to find solid ground with air above.
+     */
+    @SuppressWarnings("deprecation")
+    private int findSafeYLevel(World world, int x, int z) {
+        BlockPos.Mutable mutable = new BlockPos.Mutable();
+        // Start from a reasonable height and search downward
+        for (int y = 255; y > 1; y--) {
+            mutable.setPos(x, y, z);
+            BlockState state = world.getBlockState(mutable);
+            BlockState below = world.getBlockState(mutable.down());
+            
+            // Found air with solid ground below
+            if (state.isAir() && below.getMaterial().isSolid() && !below.getMaterial().isLiquid()) {
+                // Verify there's headroom
+                BlockState above = world.getBlockState(mutable.up());
+                if (above.isAir()) {
+                    return y;
+                }
+            }
+        }
+        return 64; // Default fallback
     }
 
     boolean isLocationSafe(World world, BlockPos pos, int width, int height) {
@@ -316,109 +494,30 @@ public class CavePortal extends Block {
     }
 
     // --- Linking and effects helpers ---
-    private BlockPos getOrCreateLinkedTargetPos(ServerWorld originWorld, ServerWorld targetWorld, BlockPos originPos) {
-        ChunkPos originChunk = new ChunkPos(originPos);
-        long originKey = ChunkPos.asLong(originChunk.x, originChunk.z);
-        // Try persisted link in origin world first
-        BlockPos existing = CavePortalLinkData.get(originWorld).getLink(originKey);
-        if (existing == null) {
-            existing = overworldToCaveLinksByChunk.get(originKey);
-        }
-        if (existing != null) {
-            return existing;
-        }
 
-        int targetX = Math.floorDiv(originPos.getX(), LINK_SCALE);
-        int targetZ = Math.floorDiv(originPos.getZ(), LINK_SCALE);
-        BlockPos anchor = new BlockPos(targetX, 24, targetZ);
-
-        // Prefer an existing teleporter block near the anchor
-        BlockPos nearTeleporter = findNearestTeleporterBlock(targetWorld, anchor, 64);
-        BlockPos safePos = (nearTeleporter != null) ? getPortalLeader(targetWorld, nearTeleporter) : findSafePosition(targetWorld, anchor);
-
-        // Only compute and link positions here; placement handled during collision for orientation
-
-        // Record bi-directional links by chunk
-        overworldToCaveLinksByChunk.put(originKey, safePos);
-        CavePortalLinkData.get(originWorld).putLink(originKey, safePos);
-        long caveKey = ChunkPos.asLong(new ChunkPos(safePos).x, new ChunkPos(safePos).z);
-        caveToOverworldLinksByChunk.put(caveKey, new BlockPos(originPos.getX(), originPos.getY(), originPos.getZ()));
-        CavePortalLinkData.get(targetWorld).putLink(caveKey, new BlockPos(originPos.getX(), originPos.getY(), originPos.getZ()));
-
-        return safePos;
-    }
-
-    private BlockPos getLinkedReturnPos(ServerWorld caveWorld, BlockPos caveTeleporterPos, ServerWorld overworld) {
-        ChunkPos caveChunk = new ChunkPos(caveTeleporterPos);
-        long caveKey = ChunkPos.asLong(caveChunk.x, caveChunk.z);
-        // Prefer persisted link in cave world
-        BlockPos linked = CavePortalLinkData.get(caveWorld).getLink(caveKey);
-        if (linked == null) {
-            linked = caveToOverworldLinksByChunk.get(caveKey);
-        }
-        if (linked != null) {
-            // If there's already a teleporter nearby, use it; otherwise find safe and optionally place one.
-            BlockPos nearTeleporter = findNearestTeleporterBlock(overworld, linked, 64);
-            BlockPos safe = (nearTeleporter != null) ? getPortalLeader(overworld, nearTeleporter) : findSafePosition(overworld, linked);
-            return safe;
-        }
-        return null;
-    }
-
+    /**
+     * Get the "leader" block of a portal cluster (bottom-left block).
+     * This provides a consistent reference point for linking portals.
+     */
     private BlockPos getPortalLeader(ServerWorld world, BlockPos anyPortal) {
         BlockPos start = anyPortal;
         if (world.getBlockState(start).getBlock() != this) {
-            BlockPos found = findNearestTeleporterBlock(world, anyPortal, 12);
+            BlockPos found = findExistingPortalNear(world, anyPortal, 12);
             if (found == null) return anyPortal;
             start = found;
         }
-        // descend to bottom of cluster
+        // Descend to bottom of cluster
         while (world.getBlockState(start.down()).getBlock() == this) {
             start = start.down();
         }
         BlockState s = world.getBlockState(start);
         Direction.Axis axis = (s.getBlock() == this) ? s.get(AXIS) : Direction.Axis.X;
         Direction leftDir = (axis == Direction.Axis.X) ? Direction.NORTH : Direction.WEST;
-        // move to the negative horizontal edge
+        // Move to the negative horizontal edge
         while (world.getBlockState(start.offset(leftDir)).getBlock() == this) {
             start = start.offset(leftDir);
         }
         return start;
-    }
-
-    private BlockPos findNearestTeleporterBlock(ServerWorld world, BlockPos center, int radius) {
-        int r = Math.max(1, radius);
-        BlockPos.Mutable mutable = new BlockPos.Mutable();
-        for (int yOff = -12; yOff <= 12; yOff++) {
-            for (int dx = -r; dx <= r; dx++) {
-                for (int dz = -r; dz <= r; dz++) {
-                    mutable.setPos(center.getX() + dx, center.getY() + yOff, center.getZ() + dz);
-                    BlockState s = world.getBlockState(mutable);
-                    if (s.getBlock() == this) {
-                        return mutable.toImmutable();
-                    }
-                }
-            }
-        }
-        return null;
-    }
-
-    private void placeTeleporterIfPossible(ServerWorld world, BlockPos pos, Direction.Axis preferredAxis) {
-        // Check if a portal already exists near the target position - do NOT modify anything
-        if (hasExistingPortalNearby(world, pos, 8)) return;
-        // Prefer creating the portal inside an existing gemstone frame; no carving
-        if (tryCreatePortal(world, pos)) return;
-
-        // Try preferred axis if area allows, else alternate; carve only when building frame
-        Direction.Axis axisChoice = null;
-        if (isAreaClearForFrame(world, pos, preferredAxis)) {
-            axisChoice = preferredAxis;
-        } else {
-            Direction.Axis alt = (preferredAxis == Direction.Axis.X) ? Direction.Axis.Z : Direction.Axis.X;
-            axisChoice = isAreaClearForFrame(world, pos, alt) ? alt : preferredAxis;
-        }
-        clearCavityAround(world, pos);
-        buildFrameAndPortal(world, pos, axisChoice);
     }
 
     private boolean hasExistingPortalNearby(ServerWorld world, BlockPos center, int radius) {
@@ -530,31 +629,72 @@ public class CavePortal extends Block {
         return groundPortal;
     }
 
-    // --- Persistent player data for last overworld teleporter ---
+    // --- Persistent player data for failsafe portal recovery ---
     private static final String NBT_UPLIFT_ROOT = "uplift";
-    private static final String NBT_LAST_TP_X = "last_tp_x";
-    private static final String NBT_LAST_TP_Y = "last_tp_y";
-    private static final String NBT_LAST_TP_Z = "last_tp_z";
+    private static final String NBT_LAST_PORTAL_X = "last_portal_x";
+    private static final String NBT_LAST_PORTAL_Y = "last_portal_y";
+    private static final String NBT_LAST_PORTAL_Z = "last_portal_z";
+    private static final String NBT_LAST_DIM = "last_dimension";
 
-    private void saveLastOverworldTeleporterToPlayer(ServerPlayerEntity player, BlockPos pos) {
-        if (player == null || pos == null) return;
+    /**
+     * Save the player's portal usage data for failsafe recovery.
+     * This persists across server restarts and game crashes.
+     */
+    private void savePlayerPortalData(ServerPlayerEntity player, BlockPos portalPos, DimensionType fromDimension) {
+        if (player == null || portalPos == null) return;
         CompoundNBT root = player.getPersistentData();
         CompoundNBT uplift = root.getCompound(NBT_UPLIFT_ROOT);
-        uplift.putInt(NBT_LAST_TP_X, pos.getX());
-        uplift.putInt(NBT_LAST_TP_Y, pos.getY());
-        uplift.putInt(NBT_LAST_TP_Z, pos.getZ());
+        
+        // Save the portal position the player entered
+        uplift.putInt(NBT_LAST_PORTAL_X, portalPos.getX());
+        uplift.putInt(NBT_LAST_PORTAL_Y, portalPos.getY());
+        uplift.putInt(NBT_LAST_PORTAL_Z, portalPos.getZ());
+        
+        // Save which dimension they came from
+        String dimName = (fromDimension == DimensionType.OVERWORLD) ? "overworld" : "uplift";
+        uplift.putString(NBT_LAST_DIM, dimName);
+        
         root.put(NBT_UPLIFT_ROOT, uplift);
     }
 
-    private BlockPos loadLastOverworldTeleporterFromPlayer(ServerPlayerEntity player) {
+    /**
+     * Try to load the player's last portal data and find a valid return portal.
+     * Returns the portal position if found, or searches for a nearby portal.
+     */
+    private BlockPos tryLoadPlayerPortalData(ServerPlayerEntity player, ServerWorld targetWorld) {
         if (player == null) return null;
         CompoundNBT root = player.getPersistentData();
         if (!root.contains(NBT_UPLIFT_ROOT)) return null;
+        
         CompoundNBT uplift = root.getCompound(NBT_UPLIFT_ROOT);
-        if (!uplift.contains(NBT_LAST_TP_X) || !uplift.contains(NBT_LAST_TP_Y) || !uplift.contains(NBT_LAST_TP_Z)) {
-            return null;
+        if (!uplift.contains(NBT_LAST_PORTAL_X)) return null;
+        
+        BlockPos lastPortal = new BlockPos(
+            uplift.getInt(NBT_LAST_PORTAL_X),
+            uplift.getInt(NBT_LAST_PORTAL_Y),
+            uplift.getInt(NBT_LAST_PORTAL_Z)
+        );
+        
+        // Search for the portal or a nearby one
+        BlockPos foundPortal = findExistingPortalNear(targetWorld, lastPortal, PORTAL_SEARCH_RADIUS);
+        if (foundPortal != null) {
+            return getPortalLeader(targetWorld, foundPortal);
         }
-        return new BlockPos(uplift.getInt(NBT_LAST_TP_X), uplift.getInt(NBT_LAST_TP_Y), uplift.getInt(NBT_LAST_TP_Z));
+        
+        // Portal not found - find a safe position near the last known location
+        return findSafePosition(targetWorld, lastPortal);
+    }
+
+    /**
+     * Clear player's portal data (e.g., after successful return to overworld).
+     */
+    @SuppressWarnings("unused")
+    private void clearPlayerPortalData(ServerPlayerEntity player) {
+        if (player == null) return;
+        CompoundNBT root = player.getPersistentData();
+        if (root.contains(NBT_UPLIFT_ROOT)) {
+            root.remove(NBT_UPLIFT_ROOT);
+        }
     }
 
     // --- Portal creation (Nether-like with variable sizes) ---
@@ -799,6 +939,25 @@ public class CavePortal extends Block {
     public void onReplaced(BlockState state, World worldIn, BlockPos pos, BlockState newState, boolean isMoving) {
         super.onReplaced(state, worldIn, pos, newState, isMoving);
         if (!worldIn.isRemote && state.getBlock() == this && state != newState) {
+            // Clean up portal links when portal is destroyed
+            if (worldIn instanceof ServerWorld) {
+                ServerWorld serverWorld = (ServerWorld) worldIn;
+                BlockPos leader = getPortalLeader(serverWorld, pos);
+                CavePortalLinkData linkData = CavePortalLinkData.get(serverWorld);
+                BlockPos linkedPortal = linkData.getLinkedPortal(leader);
+                if (linkedPortal != null) {
+                    // Remove the link from this side
+                    linkData.removeLink(leader);
+                    // Also remove the reverse link in the other dimension
+                    DimensionType otherDim = (serverWorld.getDimension().getType() == DimensionType.OVERWORLD) 
+                        ? DimensionType.byName(Uplift.UPLIFT_DIM_TYPE) 
+                        : DimensionType.OVERWORLD;
+                    ServerWorld otherWorld = serverWorld.getServer().getWorld(otherDim);
+                    if (otherWorld != null) {
+                        CavePortalLinkData.get(otherWorld).removeLink(linkedPortal);
+                    }
+                }
+            }
             // Remove all connected portal blocks in this cluster
             breakConnectedPortal(worldIn, pos);
         }
