@@ -133,6 +133,39 @@ public class StoneEntity extends ZombieEntity {
 	}
 	
 	@Override
+	public boolean attackEntityAsMob(Entity entityIn) {
+	    // Get difficulty-based damage multiplier
+	    float damageMultiplier;
+	    switch (this.world.getDifficulty()) {
+	        case EASY:
+	            damageMultiplier = 0.5F;
+	            break;
+	        case NORMAL:
+	            damageMultiplier = 1.0F;
+	            break;
+	        case HARD:
+	            damageMultiplier = 1.5F;
+	            break;
+	        default:
+	            damageMultiplier = 1.0F;
+	            break;
+	    }
+	    
+	    // Calculate scaled damage
+	    float baseDamage = (float) this.getAttribute(SharedMonsterAttributes.ATTACK_DAMAGE).getValue();
+	    float scaledDamage = baseDamage * damageMultiplier;
+	    
+	    // Apply the damage to the target
+	    boolean attacked = entityIn.attackEntityFrom(DamageSource.causeMobDamage(this), scaledDamage);
+	    
+	    if (attacked) {
+	        this.applyEnchantments(this, entityIn);
+	    }
+	    
+	    return attacked;
+	}
+	
+	@Override
 	public boolean canSpawn(IWorld worldIn, SpawnReason spawnReasonIn) {
 	    // Check if the world's difficulty is not Peaceful
 	    if (worldIn.getDifficulty() == Difficulty.PEACEFUL) {
