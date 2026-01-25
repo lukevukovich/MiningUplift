@@ -1,7 +1,7 @@
 {
 	"type": "uplift:uplift",
 	"output": {
-		"item": "uplift:shadowglass"
+		"item": "uplift:shadow_dust"
 	},
 	
 	"input": {

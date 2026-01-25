@@ -109,6 +109,7 @@ public class ItemInit
 	public static final Item tourmaline_boots = null;
 	
 	//Shadowglass
+	public static final Item shadow_dust = null;
 	public static final Item shadowglass = null;
 	
 	public static final Item shadowglass_sword = null;
@@ -271,6 +272,7 @@ public class ItemInit
 		event.getRegistry().register(new ArmorPotionTourmaline(ModArmorMaterial.TOURMALINE, EquipmentSlotType.FEET, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_boots"));
 		
 		//Shadowglass
+		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadow_dust"));
 		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass"));
 		
 		event.getRegistry().register(new SwordItem(ModItemTier.SHADOWGLASS, 7, -2.4F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass_sword"));

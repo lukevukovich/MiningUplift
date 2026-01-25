@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": ["  I", " I ", "I  "],
+
+  "key": {
+    "I": {
+      "item": "uplift:shadow_dust"
+    }
+  },
+
+  "result": {
+    "item": "uplift:shadowglass",
+    "count": 1
+  }
+}
