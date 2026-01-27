@@ -57,15 +57,14 @@ public class BlockInit
 	public static final Block tourmaline_torch = null;
 	public static final Block tourmaline_wall_torch = null;
 	
-	//Shadowglass
-	public static final Block shadowglass_block = null;
-	public static final Block shadowglass_torch = null;
-	public static final Block shadowglass_wall_torch = null;
+	//Obsidian
+	public static final Block obsidian_block = null;
+	public static final Block obsidian_torch = null;
+	public static final Block obsidian_wall_torch = null;
 	
 	//Smelter
 	public static final Block smelter = null;
 	public static final Block unlit_smelter = null;
-
 
 	//Platinum
 	public static final Block platinum_ore = null;
@@ -145,10 +144,10 @@ public class BlockInit
 		event.getRegistry().register(new Torch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("tourmaline_torch"));
 		event.getRegistry().register(new WallTorch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("tourmaline_wall_torch"));
 		
-		//Shadowglass
-		event.getRegistry().register(new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(50f, 1200f).sound(SoundType.METAL).harvestLevel(2).harvestTool(ToolType.PICKAXE)).setRegistryName("shadowglass_block"));
-		event.getRegistry().register(new Torch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("shadowglass_torch"));
-		event.getRegistry().register(new WallTorch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("shadowglass_wall_torch"));
+		//Obsidian
+		event.getRegistry().register(new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(50f, 1200f).sound(SoundType.METAL).harvestLevel(2).harvestTool(ToolType.PICKAXE)).setRegistryName("obsidian_block"));
+		event.getRegistry().register(new Torch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("obsidian_torch"));
+		event.getRegistry().register(new WallTorch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("obsidian_wall_torch"));
 
 		//Smelter
 		event.getRegistry().register(new SmelterFurnaceBlock(Block.Properties.from(Blocks.FURNACE).lightValue(12).hardnessAndResistance(50f, 1200f)).setRegistryName("smelter"));
@@ -233,9 +232,9 @@ public class BlockInit
 		event.getRegistry().register(new BlockItem(tourmaline_block, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_block"));
 		event.getRegistry().register(new TorchItem(tourmaline_torch, tourmaline_wall_torch, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_torch"));
 		
-		//Shadowglass
-		event.getRegistry().register(new BlockItem(shadowglass_block, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass_block"));
-		event.getRegistry().register(new TorchItem(shadowglass_torch, shadowglass_wall_torch, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass_torch"));
+		//Obsidian
+		event.getRegistry().register(new BlockItem(obsidian_block, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_block"));
+		event.getRegistry().register(new TorchItem(obsidian_torch, obsidian_wall_torch, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_torch"));
 		
 		//Smelter
 		event.getRegistry().register(new BlockItem(smelter, new Item.Properties()).setRegistryName("smelter"));

@@ -54,8 +54,8 @@ public class WallTorch extends WallTorchBlock
 		else if (block == BlockInit.tasmanite_wall_torch) {
 			return new ItemStack(BlockInit.tasmanite_torch);
 		}
-		else if (block == BlockInit.shadowglass_wall_torch) {
-			return new ItemStack(BlockInit.shadowglass_torch);
+		else if (block == BlockInit.obsidian_wall_torch) {
+			return new ItemStack(BlockInit.obsidian_torch);
 		}
 		else if (block == BlockInit.opal_wall_torch) {
 			return new ItemStack(BlockInit.opal_torch);
@@ -95,7 +95,7 @@ public class WallTorch extends WallTorchBlock
 		{
 			worldIn.addParticle(TASMANITE_TORCH_DUST, d0 + 0.27D * (double)direction1.getXOffset(), d1 + 0.22D, d2 + 0.27D * (double)direction1.getZOffset(), 0.0D, 0.0D, 0.0D);
 		}
-		else if(this.getBlock() == BlockInit.shadowglass_wall_torch)
+		else if(this.getBlock() == BlockInit.obsidian_wall_torch)
 		{
 			worldIn.addParticle(SHADOWGLASS_TORCH_DUST, d0 + 0.27D * (double)direction1.getXOffset(), d1 + 0.22D, d2 + 0.27D * (double)direction1.getZOffset(), 0.0D, 0.0D, 0.0D);
 		}

@@ -53,7 +53,7 @@ public class Torch extends TorchBlock
 		{
 			worldIn.addParticle(TASMANITE_TORCH_DUST, d0, d1, d2, 0.0D, 0.0D, 0.0D);
 		}
-		else if(this.getBlock() == BlockInit.shadowglass_torch)
+		else if(this.getBlock() == BlockInit.obsidian_torch)
 		{
 			worldIn.addParticle(SHADOWGLASS_TORCH_DUST, d0, d1, d2, 0.0D, 0.0D, 0.0D);
 		}

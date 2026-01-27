@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": ["II ", "IA ", " A "],
+
+  "key": {
+    "I": {
+      "item": "uplift:obsidian_shard"
+    },
+
+    "A": {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result": {
+    "item": "uplift:obsidian_axe",
+    "count": 1
+  }
+}

@@ -9,7 +9,7 @@ import com.vuzili.uplift.objects.items.ArmorPotionBloodstone;
 import com.vuzili.uplift.objects.items.ArmorPotionBurningDiamond;
 import com.vuzili.uplift.objects.items.ArmorPotionChrome;
 import com.vuzili.uplift.objects.items.ArmorPotionEnder;
-import com.vuzili.uplift.objects.items.ArmorPotionShadowglass;
+import com.vuzili.uplift.objects.items.ArmorPotionObsidian;
 import com.vuzili.uplift.objects.items.ArmorPotionPlatinum;
 import com.vuzili.uplift.objects.items.ArmorPotionRuby;
 import com.vuzili.uplift.objects.items.ArmorPotionSapphire;
@@ -108,20 +108,19 @@ public class ItemInit
 	public static final Item tourmaline_leggings = null;
 	public static final Item tourmaline_boots = null;
 	
-	//Shadowglass
-	public static final Item shadow_dust = null;
-	public static final Item shadowglass = null;
+	//Obsidian
+	public static final Item obsidian_shard = null;
 	
-	public static final Item shadowglass_sword = null;
-	public static final Item shadowglass_pickaxe = null;
-	public static final Item shadowglass_shovel = null;
-	public static final Item shadowglass_axe = null;
-	public static final Item shadowglass_hoe = null;
+	public static final Item obsidian_sword = null;
+	public static final Item obsidian_pickaxe = null;
+	public static final Item obsidian_shovel = null;
+	public static final Item obsidian_axe = null;
+	public static final Item obsidian_hoe = null;
 	
-	public static final Item shadowglass_helmet = null;
-	public static final Item shadowglass_chestplate = null;
-	public static final Item shadowglass_leggings = null;
-	public static final Item shadowglass_boots = null;
+	public static final Item obsidian_helmet = null;
+	public static final Item obsidian_chestplate = null;
+	public static final Item obsidian_leggings = null;
+	public static final Item obsidian_boots = null;
 	
 	//Platinum
 	public static final Item platinum_ingot = null;
@@ -271,20 +270,19 @@ public class ItemInit
 		event.getRegistry().register(new ArmorPotionTourmaline(ModArmorMaterial.TOURMALINE, EquipmentSlotType.LEGS, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_leggings"));
 		event.getRegistry().register(new ArmorPotionTourmaline(ModArmorMaterial.TOURMALINE, EquipmentSlotType.FEET, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_boots"));
 		
-		//Shadowglass
-		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadow_dust"));
-		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass"));
+		//Obsidian
+		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_shard"));
 		
-		event.getRegistry().register(new SwordItem(ModItemTier.SHADOWGLASS, 7, -2.4F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass_sword"));
-		event.getRegistry().register(new PickaxeItem(ModItemTier.SHADOWGLASS, 5, -2.8F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass_pickaxe"));
-		event.getRegistry().register(new ShovelItem(ModItemTier.SHADOWGLASS, 4.5f, -3.0F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass_shovel"));
-		event.getRegistry().register(new AxeItem(ModItemTier.SHADOWGLASS, 9, -3.1F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass_axe"));
-		event.getRegistry().register(new HoeItem(ModItemTier.SHADOWGLASS, -1.0f, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass_hoe"));
+		event.getRegistry().register(new SwordItem(ModItemTier.OBSIDIAN, 7, -2.4F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_sword"));
+		event.getRegistry().register(new PickaxeItem(ModItemTier.OBSIDIAN, 5, -2.8F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_pickaxe"));
+		event.getRegistry().register(new ShovelItem(ModItemTier.OBSIDIAN, 4.5f, -3.0F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_shovel"));
+		event.getRegistry().register(new AxeItem(ModItemTier.OBSIDIAN, 9, -3.1F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_axe"));
+		event.getRegistry().register(new HoeItem(ModItemTier.OBSIDIAN, -1.0f, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_hoe"));
 		
-		event.getRegistry().register(new ArmorPotionShadowglass(ModArmorMaterial.SHADOWGLASS, EquipmentSlotType.HEAD, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass_helmet"));
-		event.getRegistry().register(new ArmorPotionShadowglass(ModArmorMaterial.SHADOWGLASS, EquipmentSlotType.CHEST, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass_chestplate"));
-		event.getRegistry().register(new ArmorPotionShadowglass(ModArmorMaterial.SHADOWGLASS, EquipmentSlotType.LEGS, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass_leggings"));
-		event.getRegistry().register(new ArmorPotionShadowglass(ModArmorMaterial.SHADOWGLASS, EquipmentSlotType.FEET, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("shadowglass_boots"));
+		event.getRegistry().register(new ArmorPotionObsidian(ModArmorMaterial.OBSIDIAN, EquipmentSlotType.HEAD, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_helmet"));
+		event.getRegistry().register(new ArmorPotionObsidian(ModArmorMaterial.OBSIDIAN, EquipmentSlotType.CHEST, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_chestplate"));
+		event.getRegistry().register(new ArmorPotionObsidian(ModArmorMaterial.OBSIDIAN, EquipmentSlotType.LEGS, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_leggings"));
+		event.getRegistry().register(new ArmorPotionObsidian(ModArmorMaterial.OBSIDIAN, EquipmentSlotType.FEET, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_boots"));
 		
 		//Platinum
 		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("platinum_ingot"));
@@ -397,8 +395,8 @@ public class ItemInit
 		TOURMALINE(2,600,7.0f,-1,15,() -> {
 			return Ingredient.fromItems(ItemInit.tourmaline);
 		}),
-		SHADOWGLASS(3,1800,7.0f,-1,10,() -> {
-			return Ingredient.fromItems(ItemInit.shadowglass);
+		OBSIDIAN(3,1800,7.0f,-1,10,() -> {
+			return Ingredient.fromItems(ItemInit.obsidian_shard);
 		}),
 		BURNING_DIAMOND(4,1650,9.0f,-1,15,() -> {
 			return Ingredient.fromItems(ItemInit.burning_diamond);
@@ -485,8 +483,8 @@ public class ItemInit
 		TOURMALINE(Uplift.MOD_ID + ":tourmaline", 6, new int[] {3, 5, 6, 3}, 15, "item.armor.equip_iron", 0.0f, () -> {
 			return Ingredient.fromItems(ItemInit.tourmaline);
 		}),
-		SHADOWGLASS(Uplift.MOD_ID + ":shadowglass", 19, new int[] {3, 5, 5, 3}, 10, "item.armor.equip_iron", 2.0f, () -> {
-			return Ingredient.fromItems(ItemInit.shadowglass);
+		OBSIDIAN(Uplift.MOD_ID + ":obsidian", 19, new int[] {3, 5, 5, 3}, 10, "item.armor.equip_iron", 2.0f, () -> {
+			return Ingredient.fromItems(ItemInit.obsidian_shard);
 		}),
 		BURNING_DIAMOND(Uplift.MOD_ID + ":burning_diamond", 17, new int[] {4, 7, 9, 4}, 15, "item.armor.equip_iron", 2.0f, () -> {
 			return Ingredient.fromItems(ItemInit.burning_diamond);

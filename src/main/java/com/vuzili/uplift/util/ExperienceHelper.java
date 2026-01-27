@@ -18,7 +18,7 @@ public final class ExperienceHelper {
         if (item == Items.IRON_INGOT) return 1;
         if (item == Items.GOLD_INGOT) return 1;
         if (item == ItemInit.chrome_ingot) return 1;
-        if (item == ItemInit.shadowglass) return 2;
+        if (item == ItemInit.obsidian_shard) return 2;
         if (item == ItemInit.uranium_ingot) return 2;
         if (item == ItemInit.rose_gold_ingot) return 2;
         if (item == ItemInit.burning_dust) return 3;

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": ["   ", "I I", "I I"],
+
+  "key": {
+    "I": {
+      "item": "uplift:obsidian_shard"
+    }
+  },
+
+  "result": {
+    "item": "uplift:obsidian_boots",
+    "count": 1
+  }
+}

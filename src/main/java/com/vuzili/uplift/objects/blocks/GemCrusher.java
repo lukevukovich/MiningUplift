@@ -52,7 +52,7 @@ public class GemCrusher extends Block
 			return ActionResultType.SUCCESS;
 		}
 		
-		else if(Items.DIAMOND == player.getHeldItemMainhand().getItem() || Items.EMERALD == player.getHeldItemMainhand().getItem() || ItemInit.shadowglass == player.getHeldItemMainhand().getItem())
+		else if(Items.DIAMOND == player.getHeldItemMainhand().getItem() || Items.EMERALD == player.getHeldItemMainhand().getItem() || ItemInit.obsidian_shard == player.getHeldItemMainhand().getItem())
 		{
 			worldIn.playSound(player, pos, SoundEvents.BLOCK_PISTON_EXTEND, SoundCategory.BLOCKS, 1.0f, 0.8f);
 			int count = player.getHeldItemMainhand().getCount();
