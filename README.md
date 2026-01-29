@@ -17,3 +17,9 @@ Mining Uplift is a mining-focused mod for Minecraft 1.15.2 that expands the unde
         - it _does_ but the linking is one step behind
 - Fix fire block border rendering
 - Handle `/clear` command with armor/item effects
+- Leverage agentic AI for wiki generation
+    - Different page for each new ore/item
+    - Use tables for recipes
+    - Create a wiki assets folder to store images (e.g. stick texture) and other media for the wiki pages
+    - Prompt to scan all source code and assets to automatically generate wiki pages
+    - Strive for 100% mod coverage in the generated wiki pages
