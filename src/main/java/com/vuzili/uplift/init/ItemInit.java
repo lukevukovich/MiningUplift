@@ -483,22 +483,22 @@ public class ItemInit
 		TOURMALINE(Uplift.MOD_ID + ":tourmaline", 6, new int[] {3, 5, 6, 3}, 15, "item.armor.equip_iron", 0.0f, () -> {
 			return Ingredient.fromItems(ItemInit.tourmaline);
 		}),
-		OBSIDIAN(Uplift.MOD_ID + ":obsidian", 19, new int[] {3, 5, 5, 3}, 10, "item.armor.equip_iron", 2.0f, () -> {
+		OBSIDIAN(Uplift.MOD_ID + ":obsidian", 18, new int[] {3, 5, 5, 3}, 10, "item.armor.equip_iron", 2.5f, () -> {
 			return Ingredient.fromItems(ItemInit.obsidian_shard);
 		}),
 		BURNING_DIAMOND(Uplift.MOD_ID + ":burning_diamond", 17, new int[] {4, 7, 9, 4}, 15, "item.armor.equip_iron", 2.0f, () -> {
 			return Ingredient.fromItems(ItemInit.burning_diamond);
 		}),
-		PLATINUM(Uplift.MOD_ID + ":platinum", 22, new int[] {5, 8, 9, 5}, 10, "item.armor.equip_iron", 3.0f, () -> {
+		PLATINUM(Uplift.MOD_ID + ":platinum", 21, new int[] {5, 8, 9, 5}, 10, "item.armor.equip_iron", 3.0f, () -> {
 			return Ingredient.fromItems(ItemInit.platinum_ingot);
 		}),
 		URANIUM(Uplift.MOD_ID + ":uranium", 12, new int[] {3, 6, 8, 3}, 15, "item.armor.equip_iron", 1.0f, () -> {
 			return Ingredient.fromItems(ItemInit.uranium_ingot);
 		}),
-		BLOODSTONE(Uplift.MOD_ID + ":bloodstone", 3, new int[] {6, 6, 6, 6}, 30, "item.armor.equip_iron", 4.0f, () -> {
+		BLOODSTONE(Uplift.MOD_ID + ":bloodstone", 3, new int[] {6, 6, 6, 6}, 5, "item.armor.equip_iron", 4.0f, () -> {
 			return Ingredient.fromItems(ItemInit.bloodstone);
 		}),
-		ENDER(Uplift.MOD_ID + ":ender", 25, new int[] {3, 6, 8, 3}, 20, "item.armor.equip_iron", 2.0f, () -> {
+		ENDER(Uplift.MOD_ID + ":ender", 24, new int[] {3, 6, 8, 3}, 20, "item.armor.equip_iron", 2.0f, () -> {
 			return Ingredient.fromItems(ItemInit.ender_gem);
 		});
 		
