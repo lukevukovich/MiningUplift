@@ -1,0 +1,11 @@
+{
+	"type": "uplift:uplift",
+	"output": {
+		"item": "uplift:burning_dust",
+		"count": 1
+	},
+	
+	"input": {
+		"item": "minecraft:diamond"
+	}
+}

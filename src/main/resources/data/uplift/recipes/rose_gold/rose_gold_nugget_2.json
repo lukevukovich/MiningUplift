@@ -3,22 +3,22 @@
     
     "pattern":
     [
-        "III",
-        "III",
-        "III"
+        "   ",
+        " I ",
+        "   "
     ],
     
     "key":
     {
         "I":
         {
-            "item": "uplift:rose_gold_nugget"
+            "item": "uplift:rose_gold_ingot"
         }
     },
     
     "result":
     {
-        "item":  "uplift:rose_gold_ingot",
-        "count": 1
+        "item":  "uplift:rose_gold_nugget",
+        "count": 9
     }
 }

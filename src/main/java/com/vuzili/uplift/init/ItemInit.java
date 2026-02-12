@@ -7,6 +7,7 @@ import com.vuzili.uplift.objects.entity.MineBomb;
 import com.vuzili.uplift.objects.entity.UraniumBomb;
 import com.vuzili.uplift.objects.items.ArmorPotionBloodstone;
 import com.vuzili.uplift.objects.items.ArmorPotionBurningDiamond;
+import com.vuzili.uplift.objects.items.ArmorPotionChrome;
 import com.vuzili.uplift.objects.items.ArmorPotionEnder;
 import com.vuzili.uplift.objects.items.ArmorPotionObsidian;
 import com.vuzili.uplift.objects.items.ArmorPotionPlatinum;
@@ -65,6 +66,7 @@ public class ItemInit
 	
 	//Burning Diamond
 	public static final Item burning_diamond = null;
+	public static final Item burning_dust = null;
 	
 	public static final Item burning_diamond_sword = null;
 	public static final Item burning_diamond_pickaxe = null;
@@ -107,8 +109,7 @@ public class ItemInit
 	public static final Item tourmaline_boots = null;
 	
 	//Obsidian
-	public static final Item obsidian_ingot = null;
-	public static final Item obsidian_nugget = null;
+	public static final Item obsidian_shard = null;
 	
 	public static final Item obsidian_sword = null;
 	public static final Item obsidian_pickaxe = null;
@@ -168,6 +169,21 @@ public class ItemInit
 	public static final Item ender_chestplate = null;
 	public static final Item ender_leggings = null;
 	public static final Item ender_boots = null;
+
+	public static final Item ender_sword = null;
+	public static final Item ender_pickaxe = null;
+	public static final Item ender_shovel = null;
+	public static final Item ender_axe = null;
+	public static final Item ender_hoe = null;
+
+	//Chrome
+	public static final Item chrome_ingot = null;
+	public static final Item chrome_nugget = null;
+
+	public static final Item chrome_helmet = null;
+	public static final Item chrome_chestplate = null;
+	public static final Item chrome_leggings = null;
+	public static final Item chrome_boots = null;
 	
 	//Opal
 	public static final Item opal = null;
@@ -212,6 +228,7 @@ public class ItemInit
 		
 		//Burning Diamond
 		event.getRegistry().register(new BurningDiamondFuel(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("burning_diamond"));
+		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("burning_dust"));
 		
 		event.getRegistry().register(new SwordItem(ModItemTier.BURNING_DIAMOND, 8, -2.4F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("burning_diamond_sword"));
 		event.getRegistry().register(new PickaxeItem(ModItemTier.BURNING_DIAMOND, 5, -2.8F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("burning_diamond_pickaxe"));
@@ -254,8 +271,7 @@ public class ItemInit
 		event.getRegistry().register(new ArmorPotionTourmaline(ModArmorMaterial.TOURMALINE, EquipmentSlotType.FEET, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_boots"));
 		
 		//Obsidian
-		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_ingot"));
-		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_nugget"));
+		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_shard"));
 		
 		event.getRegistry().register(new SwordItem(ModItemTier.OBSIDIAN, 7, -2.4F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_sword"));
 		event.getRegistry().register(new PickaxeItem(ModItemTier.OBSIDIAN, 5, -2.8F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_pickaxe"));
@@ -323,6 +339,21 @@ public class ItemInit
 		event.getRegistry().register(new ArmorPotionEnder(ModArmorMaterial.ENDER, EquipmentSlotType.CHEST, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("ender_chestplate"));
 		event.getRegistry().register(new ArmorPotionEnder(ModArmorMaterial.ENDER, EquipmentSlotType.LEGS, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("ender_leggings"));
 		event.getRegistry().register(new ArmorPotionEnder(ModArmorMaterial.ENDER, EquipmentSlotType.FEET, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("ender_boots"));
+
+		//Chrome
+		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_ingot"));
+		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_nugget"));
+
+		event.getRegistry().register(new SwordItem(ModItemTier.CHROME, 6, -2.4F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_sword"));
+		event.getRegistry().register(new PickaxeItem(ModItemTier.CHROME, 4, -2.8F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_pickaxe"));
+		event.getRegistry().register(new ShovelItem(ModItemTier.CHROME, 4.5f, -3.0F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_shovel"));
+		event.getRegistry().register(new AxeItem(ModItemTier.CHROME, 9, -3.1F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_axe"));
+		event.getRegistry().register(new HoeItem(ModItemTier.CHROME, -1.0f, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_hoe"));
+		
+		event.getRegistry().register(new ArmorPotionChrome(ModArmorMaterial.CHROME, EquipmentSlotType.HEAD, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_helmet"));
+		event.getRegistry().register(new ArmorPotionChrome(ModArmorMaterial.CHROME, EquipmentSlotType.CHEST, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_chestplate"));
+		event.getRegistry().register(new ArmorPotionChrome(ModArmorMaterial.CHROME, EquipmentSlotType.LEGS, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_leggings"));
+		event.getRegistry().register(new ArmorPotionChrome(ModArmorMaterial.CHROME, EquipmentSlotType.FEET, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_boots"));
 		
 		//Opal
 		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("opal"));
@@ -358,11 +389,14 @@ public class ItemInit
 		SAPPHIRE(2,750,6.0f,-1,10,() -> {
 			return Ingredient.fromItems(ItemInit.sapphire);
 		}),
-		TOURMALINE(2,500,7.0f,-1,15,() -> {
+		CHROME(2,700,6.0f,-1,12,() -> {
+			return Ingredient.fromItems(ItemInit.chrome_ingot);
+		}),
+		TOURMALINE(2,600,7.0f,-1,15,() -> {
 			return Ingredient.fromItems(ItemInit.tourmaline);
 		}),
 		OBSIDIAN(3,1800,7.0f,-1,10,() -> {
-			return Ingredient.fromItems(ItemInit.obsidian_ingot);
+			return Ingredient.fromItems(ItemInit.obsidian_shard);
 		}),
 		BURNING_DIAMOND(4,1650,9.0f,-1,15,() -> {
 			return Ingredient.fromItems(ItemInit.burning_diamond);
@@ -373,7 +407,7 @@ public class ItemInit
 		URANIUM(3,1100,8.0f,-1,15,() -> {
 			return Ingredient.fromItems(ItemInit.uranium_ingot);
 		}),
-		ROSE_GOLD(4,100,10.0f,-1,10,() -> {
+		ROSE_GOLD(4,100,10.0f,-1,0,() -> {
 			return Ingredient.fromItems(ItemInit.rose_gold_ingot);
 		}),
 		ENDER(3,2450,9.0f,-1,20,() -> {
@@ -443,25 +477,28 @@ public class ItemInit
 		SAPPHIRE(Uplift.MOD_ID + ":sapphire", 9, new int[] {2, 5, 6, 2}, 10, "item.armor.equip_iron", 1.0f, () -> {
 			return Ingredient.fromItems(ItemInit.sapphire);
 		}),
+		CHROME(Uplift.MOD_ID + ":chrome", 8, new int[] {2, 5, 6, 2}, 12, "item.armor.equip_iron", 1.0f, () -> {
+			return Ingredient.fromItems(ItemInit.chrome_ingot);
+		}),
 		TOURMALINE(Uplift.MOD_ID + ":tourmaline", 6, new int[] {3, 5, 6, 3}, 15, "item.armor.equip_iron", 0.0f, () -> {
 			return Ingredient.fromItems(ItemInit.tourmaline);
 		}),
-		OBSIDIAN(Uplift.MOD_ID + ":obsidian", 19, new int[] {3, 5, 5, 3}, 10, "item.armor.equip_iron", 2.0f, () -> {
-			return Ingredient.fromItems(ItemInit.obsidian_ingot);
+		OBSIDIAN(Uplift.MOD_ID + ":obsidian", 18, new int[] {3, 5, 5, 3}, 10, "item.armor.equip_iron", 2.5f, () -> {
+			return Ingredient.fromItems(ItemInit.obsidian_shard);
 		}),
 		BURNING_DIAMOND(Uplift.MOD_ID + ":burning_diamond", 17, new int[] {4, 7, 9, 4}, 15, "item.armor.equip_iron", 2.0f, () -> {
 			return Ingredient.fromItems(ItemInit.burning_diamond);
 		}),
-		PLATINUM(Uplift.MOD_ID + ":platinum", 22, new int[] {5, 8, 9, 5}, 10, "item.armor.equip_iron", 3.0f, () -> {
+		PLATINUM(Uplift.MOD_ID + ":platinum", 21, new int[] {5, 8, 9, 5}, 10, "item.armor.equip_iron", 3.0f, () -> {
 			return Ingredient.fromItems(ItemInit.platinum_ingot);
 		}),
 		URANIUM(Uplift.MOD_ID + ":uranium", 12, new int[] {3, 6, 8, 3}, 15, "item.armor.equip_iron", 1.0f, () -> {
 			return Ingredient.fromItems(ItemInit.uranium_ingot);
 		}),
-		BLOODSTONE(Uplift.MOD_ID + ":bloodstone", 3, new int[] {6, 6, 6, 6}, 30, "item.armor.equip_iron", 4.0f, () -> {
+		BLOODSTONE(Uplift.MOD_ID + ":bloodstone", 3, new int[] {6, 6, 6, 6}, 5, "item.armor.equip_iron", 4.0f, () -> {
 			return Ingredient.fromItems(ItemInit.bloodstone);
 		}),
-		ENDER(Uplift.MOD_ID + ":ender", 25, new int[] {3, 6, 8, 3}, 20, "item.armor.equip_iron", 2.0f, () -> {
+		ENDER(Uplift.MOD_ID + ":ender", 24, new int[] {3, 6, 8, 3}, 20, "item.armor.equip_iron", 2.0f, () -> {
 			return Ingredient.fromItems(ItemInit.ender_gem);
 		});
 		

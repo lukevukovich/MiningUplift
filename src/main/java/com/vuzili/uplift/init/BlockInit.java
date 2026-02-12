@@ -5,7 +5,7 @@ import com.vuzili.uplift.Uplift.UpliftItemGroup;
 import com.vuzili.uplift.objects.blocks.BlockXp;
 import com.vuzili.uplift.objects.blocks.BurningDiamondBlockFuel;
 import com.vuzili.uplift.objects.blocks.BurningDiamondFlammable;
-import com.vuzili.uplift.objects.blocks.CaveTeleporter;
+import com.vuzili.uplift.objects.blocks.CavePortal;
 import com.vuzili.uplift.objects.blocks.GemCrusher;
 import com.vuzili.uplift.objects.blocks.IgniterFire;
 import com.vuzili.uplift.objects.blocks.SmelterFurnaceBlock;
@@ -66,7 +66,6 @@ public class BlockInit
 	public static final Block smelter = null;
 	public static final Block unlit_smelter = null;
 
-
 	//Platinum
 	public static final Block platinum_ore = null;
 	public static final Block platinum_block = null;
@@ -94,6 +93,10 @@ public class BlockInit
 	public static final Block ender_torch = null;
 	public static final Block ender_wall_torch = null;
 
+	//Chrome
+	public static final Block chrome_ore = null;
+	public static final Block chrome_block = null;
+
 	//Opal
 	public static final Block opal_ore = null;
 	public static final Block opal_block = null;
@@ -111,7 +114,7 @@ public class BlockInit
 	public static final Block igniter_fire = null;
 	
 	//Portal
-	public static final Block cave_teleporter = null;
+	public static final Block cave_portal = null;
 
 
 	@SubscribeEvent
@@ -176,6 +179,10 @@ public class BlockInit
 		event.getRegistry().register(new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(5.0f, 6.0f).sound(SoundType.METAL).harvestLevel(2).harvestTool(ToolType.PICKAXE)).setRegistryName("ender_block"));
 		event.getRegistry().register(new Torch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("ender_torch"));
 		event.getRegistry().register(new WallTorch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("ender_wall_torch"));
+
+		//Chrome
+		event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(3.0f, 3.0f).sound(SoundType.STONE).harvestLevel(2).harvestTool(ToolType.PICKAXE)).setRegistryName("chrome_ore"));
+		event.getRegistry().register(new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(5.0f, 6.0f).sound(SoundType.METAL).harvestLevel(2).lightValue(10).harvestTool(ToolType.PICKAXE)).setRegistryName("chrome_block"));
 		
 		//Opal
 		event.getRegistry().register(new BlockXp(Block.Properties.create(Material.ROCK).hardnessAndResistance(3.0f, 3.0f).sound(SoundType.STONE).harvestLevel(3).harvestTool(ToolType.PICKAXE)).setRegistryName("opal_ore"));
@@ -193,8 +200,12 @@ public class BlockInit
 		//Fire
 		event.getRegistry().register(new IgniterFire(Block.Properties.create(Material.FIRE, MaterialColor.TNT).doesNotBlockMovement().tickRandomly().hardnessAndResistance(0.0f).lightValue(15).noDrops().sound(SoundTypeInit.NONE)).setRegistryName("igniter_fire"));
 		
-		//Teleporter
-		event.getRegistry().register(new CaveTeleporter(Block.Properties.from(Blocks.GLOWSTONE).hardnessAndResistance(0.4F, 1200.0F)).setRegistryName("cave_teleporter"));
+		//Teleporter (Portal-like)
+		event.getRegistry().register(new CavePortal(Block.Properties.create(Material.PORTAL)
+			.doesNotBlockMovement()
+			.hardnessAndResistance(-1.0F)
+			.noDrops())
+			.setRegistryName("cave_portal"));
 
 	}
 	
@@ -226,7 +237,7 @@ public class BlockInit
 		event.getRegistry().register(new TorchItem(obsidian_torch, obsidian_wall_torch, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_torch"));
 		
 		//Smelter
-		event.getRegistry().register(new BlockItem(smelter, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("smelter"));
+		event.getRegistry().register(new BlockItem(smelter, new Item.Properties()).setRegistryName("smelter"));
 		event.getRegistry().register(new BlockItem(unlit_smelter, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("unlit_smelter"));
 
 		//Platinum
@@ -254,6 +265,10 @@ public class BlockInit
 		event.getRegistry().register(new TasmaniteBlockFuel(ender_block, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("ender_block"));
 		event.getRegistry().register(new TorchItem(ender_torch, ender_wall_torch, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("ender_torch"));
 
+		//Chrome
+		event.getRegistry().register(new BlockItem(chrome_ore, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_ore"));
+		event.getRegistry().register(new BlockItem(chrome_block, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("chrome_block"));
+
 		//Opal
 		event.getRegistry().register(new BlockItem(opal_ore, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("opal_ore"));
 		event.getRegistry().register(new BlockItem(opal_block, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("opal_block"));
@@ -270,7 +285,7 @@ public class BlockInit
 		event.getRegistry().register(new BlockItem(igniter_fire, new Item.Properties()).setRegistryName("igniter_fire"));
 		
 		//Portal
-		event.getRegistry().register(new BlockItem(cave_teleporter, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("cave_teleporter"));
+		event.getRegistry().register(new BlockItem(cave_portal, new Item.Properties()).setRegistryName("cave_portal"));
 		
 	}
 

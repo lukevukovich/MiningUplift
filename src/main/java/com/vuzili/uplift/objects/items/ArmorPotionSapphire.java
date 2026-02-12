@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
@@ -20,17 +21,26 @@ public class ArmorPotionSapphire extends ArmorItem {
 	@Override
 	public void onArmorTick(ItemStack stack, World world, PlayerEntity player) 
 	{
-		if (player.inventory.armorItemInSlot(3).getItem() == ItemInit.sapphire_helmet
-				&& player.inventory.armorItemInSlot(2).getItem() == ItemInit.sapphire_chestplate
-				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.sapphire_leggings
-				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.sapphire_boots) 
+		ItemStack head = player.getItemStackFromSlot(EquipmentSlotType.HEAD);
+		ItemStack chest = player.getItemStackFromSlot(EquipmentSlotType.CHEST);
+		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
+		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
+
+		if (head.getItem() == ItemInit.sapphire_helmet
+				&& chest.getItem() == ItemInit.sapphire_chestplate
+				&& legs.getItem() == ItemInit.sapphire_leggings
+				&& feet.getItem() == ItemInit.sapphire_boots) 
 		{
-			player.addPotionEffect(new EffectInstance(Effects.WATER_BREATHING, 201));
+			if (!world.isRemote) {
+				player.addPotionEffect(new EffectInstance(Effects.WATER_BREATHING, Integer.MAX_VALUE, 0, false, false));
+			}
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.sapphire_boots, 49, 49, 250);
 		}
-		/*else
-		{
-			player.removePotionEffect(Effects.WATER_BREATHING);
-		}*/
+		else {
+			if (!world.isRemote) {
+				player.removePotionEffect(Effects.WATER_BREATHING);
+			}
+		}
 		super.onArmorTick(stack, world, player);
 	}
 

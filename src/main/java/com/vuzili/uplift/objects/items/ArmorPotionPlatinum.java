@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
@@ -20,17 +21,26 @@ public class ArmorPotionPlatinum extends ArmorItem {
 	@Override
 	public void onArmorTick(ItemStack stack, World world, PlayerEntity player) 
 	{
-		if (player.inventory.armorItemInSlot(3).getItem() == ItemInit.platinum_helmet
-				&& player.inventory.armorItemInSlot(2).getItem() == ItemInit.platinum_chestplate
-				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.platinum_leggings
-				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.platinum_boots) 
+		ItemStack head = player.getItemStackFromSlot(EquipmentSlotType.HEAD);
+		ItemStack chest = player.getItemStackFromSlot(EquipmentSlotType.CHEST);
+		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
+		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
+
+		if (head.getItem() == ItemInit.platinum_helmet
+				&& chest.getItem() == ItemInit.platinum_chestplate
+				&& legs.getItem() == ItemInit.platinum_leggings
+				&& feet.getItem() == ItemInit.platinum_boots) 
 		{
-			player.addPotionEffect(new EffectInstance(Effects.STRENGTH, 201));
+			if (!world.isRemote) {
+				player.addPotionEffect(new EffectInstance(Effects.STRENGTH, Integer.MAX_VALUE, 0, false, false));
+			}
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.platinum_boots, 212, 245, 249);
 		}
-		/*else
-		{
-			player.removePotionEffect(Effects.NIGHT_VISION);
-		}*/
+		else {
+			if (!world.isRemote) {
+				player.removePotionEffect(Effects.STRENGTH);
+			}
+		}
 		super.onArmorTick(stack, world, player);
 	}
 

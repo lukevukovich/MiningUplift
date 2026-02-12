@@ -1,6 +1,6 @@
 {
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "uplift:items/obsidian_pickaxe"
-	}
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "uplift:items/obsidian_pickaxe"
+  }
 }

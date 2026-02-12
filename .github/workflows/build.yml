@@ -1,0 +1,39 @@
+name: Build Mod
+
+on:
+  push:
+    branches: [dev, main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 8
+        uses: actions/setup-java@v4
+        with:
+          java-version: "8"
+          distribution: "temurin"
+
+      - name: Grant execute permission for gradlew
+        run: chmod +x gradlew
+
+      - name: Build with Gradle
+        run: ./gradlew build
+
+      - name: Extract version from build.gradle
+        id: get_version
+        run: |
+          MC_VERSION=$(grep "def mc_version" build.gradle | sed "s/def mc_version = ['\"]//;s/['\"]//")
+          MOD_VERSION=$(grep "def mod_version" build.gradle | sed "s/def mod_version = ['\"]//;s/['\"]//")
+          echo "VERSION=${MC_VERSION}-${MOD_VERSION}" >> $GITHUB_OUTPUT
+
+      - name: Upload JAR artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Mining-Uplift-${{ steps.get_version.outputs.VERSION }}
+          path: build/libs/*.jar
+          if-no-files-found: error

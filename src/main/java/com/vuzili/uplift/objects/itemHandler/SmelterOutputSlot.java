@@ -12,15 +12,6 @@ public class SmelterOutputSlot extends SlotItemHandler {
 
     @Override
     public boolean isItemValid(ItemStack stack) {
-        /*if (getSlotIndex() == 1){
-            Item validItem = this.inventory.getStackInSlot(1).getItem();
-            if (validItem.equals(ItemInit.burning_diamond)){
-                return true;
-            }
-            if (validItem.equals(ItemInit.platinum_ingot)){
-                return true;
-            }
-        }*/
         return false;
     }
 }

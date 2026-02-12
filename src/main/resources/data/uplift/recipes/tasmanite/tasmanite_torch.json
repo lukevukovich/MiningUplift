@@ -1,29 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    
-    "pattern":
-    [
-        " I ",
-        " A ",
-        "   "
-    ],
-    
-    "key":
-    {
-        "I":
-        {
-            "item": "uplift:tasmanite"
-        },
-        
-        "A":
-        {
-            "item": "minecraft:stick"
-        }
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [" I ", " A ", "   "],
+
+  "key": {
+    "I": {
+      "item": "uplift:tasmanite"
     },
-    
-    "result":
-    {
-        "item":  "uplift:tasmanite_torch",
-        "count": 4
+
+    "A": {
+      "item": "minecraft:stick"
     }
+  },
+
+  "result": {
+    "item": "uplift:tasmanite_torch",
+    "count": 4
+  }
 }

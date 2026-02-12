@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
@@ -35,17 +36,26 @@ public class ArmorPotionUranium extends ArmorItem {
 	@Override
 	public void onArmorTick(ItemStack stack, World world, PlayerEntity player) 
 	{
-		if (player.inventory.armorItemInSlot(3).getItem() == ItemInit.uranium_helmet
-				&& player.inventory.armorItemInSlot(2).getItem() == ItemInit.uranium_chestplate
-				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.uranium_leggings
-				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.uranium_boots) 
+		ItemStack head = player.getItemStackFromSlot(EquipmentSlotType.HEAD);
+		ItemStack chest = player.getItemStackFromSlot(EquipmentSlotType.CHEST);
+		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
+		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
+
+		if (head.getItem() == ItemInit.uranium_helmet
+				&& chest.getItem() == ItemInit.uranium_chestplate
+				&& legs.getItem() == ItemInit.uranium_leggings
+				&& feet.getItem() == ItemInit.uranium_boots) 
 		{
-			player.addPotionEffect(new EffectInstance(HASTE, 201, 2));
+			if (!world.isRemote) {
+				player.addPotionEffect(new EffectInstance(HASTE, Integer.MAX_VALUE, 2, false, false));
+			}
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.uranium_boots, 92, 255, 55);
 		}
-		/*else
-		{
-			player.removePotionEffect(Effects.FIRE_RESISTANCE);
-		}*/
+		else {
+			if (!world.isRemote) {
+				player.removePotionEffect(HASTE);
+			}
+		}
 		super.onArmorTick(stack, world, player);
 	}
 

@@ -1,34 +1,24 @@
 {
-    "type": "minecraft:crafting_shaped",
-    
-    "pattern":
-    [
-        " I ",
-        " A ",
-        " X "
-    ],
-    
-    "key":
-    {
-        "I":
-        {
-            "item": "minecraft:coal"
-        },
-        
-        "A":
-        {
-            "item": "minecraft:stick"
-        },
-        
-        "X":
-        {
-            "item": "uplift:opal"
-        }
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [" X ", " I ", " A "],
+
+  "key": {
+    "I": {
+      "item": "minecraft:coal"
     },
-    
-    "result":
-    {
-        "item":  "uplift:opal_torch",
-        "count": 8
+
+    "A": {
+      "item": "minecraft:stick"
+    },
+
+    "X": {
+      "item": "uplift:opal"
     }
+  },
+
+  "result": {
+    "item": "uplift:opal_torch",
+    "count": 8
+  }
 }

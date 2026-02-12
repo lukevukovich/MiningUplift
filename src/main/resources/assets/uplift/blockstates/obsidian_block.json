@@ -1,5 +1,5 @@
 {
-    "variants": {
-        "": { "model": "uplift:block/obsidian_block" }
-    }
+  "variants": {
+    "": { "model": "uplift:block/obsidian_block" }
+  }
 }

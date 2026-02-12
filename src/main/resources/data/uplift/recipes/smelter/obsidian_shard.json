@@ -1,0 +1,10 @@
+{
+	"type": "uplift:uplift",
+	"output": {
+		"item": "uplift:obsidian_shard"
+	},
+	
+	"input": {
+		"item": "minecraft:obsidian"
+	}
+}

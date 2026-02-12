@@ -1,243 +1,222 @@
 {
-	"itemGroup.uplifttab": "Miner's Uplift",
-	
-	
-	
-	"block.uplift.smelter": "Smelter",
-	"container.uplift.smelter_furnace": "Smelter",
-	"block.uplift.unlit_smelter": "Unlit Smelter",
-	
-	
-	
-	"item.uplift.ruby": "Ruby",
-	
-	"block.uplift.ruby_ore": "Ruby Ore",
-	"block.uplift.ruby_block": "Block of Ruby",
-	
-	"item.uplift.ruby_sword": "Ruby Sword",	
-	"item.uplift.ruby_pickaxe": "Ruby Pickaxe",	
-	"item.uplift.ruby_shovel": "Ruby Shovel",	
-	"item.uplift.ruby_axe": "Ruby Axe",	
-	"item.uplift.ruby_hoe": "Ruby Hoe",
-	
-	"item.uplift.ruby_helmet": "Ruby Helmet",
-	"item.uplift.ruby_chestplate": "Ruby Chestplate",
-	"item.uplift.ruby_leggings": "Ruby Leggings",
-	"item.uplift.ruby_boots": "Ruby Boots",
-	
-	"block.uplift.ruby_torch": "Ruby Torch",
+  "itemGroup.uplifttab": "Mining Uplift",
 
-	
-	
-	"item.uplift.burning_diamond": "Burning Diamond",
-	
-	"block.uplift.burning_diamond_block": "Block of Burning Diamond",
-	"block.uplift.burning_diamond_ore": "Burning Diamond Ore",
-	
-	"item.uplift.burning_diamond_sword": "Burning Diamond Sword",	
-	"item.uplift.burning_diamond_pickaxe": "Burning Diamond Pickaxe",	
-	"item.uplift.burning_diamond_shovel": "Burning Diamond Shovel",	
-	"item.uplift.burning_diamond_axe": "Burning Diamond Axe",	
-	"item.uplift.burning_diamond_hoe": "Burning Diamond Hoe",
-	
-	"item.uplift.burning_diamond_helmet": "Burning Diamond Helmet",
-	"item.uplift.burning_diamond_chestplate": "Burning Diamond Chestplate",
-	"item.uplift.burning_diamond_leggings": "Burning Diamond Leggings",
-	"item.uplift.burning_diamond_boots": "Burning Diamond Boots",
-	
-	"item.uplift.igniter": "Igniter",
-	"block.uplift.igniter_fire": "Igniter Fire",
-	
-	"block.uplift.burning_diamond_torch": "Burning Diamond Torch",
-	
-	
-	
-	"item.uplift.sapphire": "Sapphire",
-	
-	"block.uplift.sapphire_ore": "Sapphire Ore",
-	"block.uplift.sapphire_block": "Block of Sapphire",
-	
-	"item.uplift.sapphire_sword": "Sapphire Sword",	
-	"item.uplift.sapphire_pickaxe": "Sapphire Pickaxe",	
-	"item.uplift.sapphire_shovel": "Sapphire Shovel",	
-	"item.uplift.sapphire_axe": "Sapphire Axe",	
-	"item.uplift.sapphire_hoe": "Sapphire Hoe",
-	
-	"item.uplift.sapphire_helmet": "Sapphire Helmet",
-	"item.uplift.sapphire_chestplate": "Sapphire Chestplate",
-	"item.uplift.sapphire_leggings": "Sapphire Leggings",
-	"item.uplift.sapphire_boots": "Sapphire Boots",
-	
-	"block.uplift.sapphire_torch": "Sapphire Torch",
-	
-	
-	
-	"item.uplift.tourmaline": "Tourmaline",
-	
-	"block.uplift.tourmaline_ore": "Tourmaline Ore",
-	"block.uplift.tourmaline_block": "Block of Tourmaline",
-	
-	"item.uplift.tourmaline_sword": "Tourmaline Sword",	
-	"item.uplift.tourmaline_pickaxe": "Tourmaline Pickaxe",	
-	"item.uplift.tourmaline_shovel": "Tourmaline Shovel",	
-	"item.uplift.tourmaline_axe": "Tourmaline Axe",	
-	"item.uplift.tourmaline_hoe": "Tourmaline Hoe",
-	
-	"item.uplift.tourmaline_helmet": "Tourmaline Helmet",
-	"item.uplift.tourmaline_chestplate": "Tourmaline Chestplate",
-	"item.uplift.tourmaline_leggings": "Tourmaline Leggings",
-	"item.uplift.tourmaline_boots": "Tourmaline Boots",
-	
-	"block.uplift.tourmaline_torch": "Tourmaline Torch",
-	
-	
-	
-	"item.uplift.obsidian_ingot": "Obsidian Ingot",
-	"item.uplift.obsidian_nugget": "Obsidian Nugget",
-	
-	"block.uplift.obsidian_block": "Block of Obsidian",
-	
-	"item.uplift.obsidian_sword": "Obsidian Sword",	
-	"item.uplift.obsidian_pickaxe": "Obsidian Pickaxe",	
-	"item.uplift.obsidian_shovel": "Obsidian Shovel",	
-	"item.uplift.obsidian_axe": "Obsidian Axe",	
-	"item.uplift.obsidian_hoe": "Obsidian Hoe",
-	
-	"item.uplift.obsidian_helmet": "Obsidian Helmet",
-	"item.uplift.obsidian_chestplate": "Obsidian Chestplate",
-	"item.uplift.obsidian_leggings": "Obsidian Leggings",
-	"item.uplift.obsidian_boots": "Obsidian Boots",
-	
-	"block.uplift.obsidian_torch": "Obsidian Torch",
+  "block.uplift.smelter": "Smelter",
+  "container.uplift.smelter_furnace": "Smelter",
+  "block.uplift.unlit_smelter": "Smelter",
 
-	
-	
-	"item.uplift.platinum_ingot": "Platinum Ingot",
-	"item.uplift.platinum_nugget": "Platinum Nugget",
-	
-	"block.uplift.platinum_block": "Block of Platinum",
-	"block.uplift.platinum_ore": "Platinum Ore",
-	
-	"item.uplift.platinum_sword": "Platinum Sword",	
-	"item.uplift.platinum_pickaxe": "Platinum Pickaxe",	
-	"item.uplift.platinum_shovel": "Platinum Shovel",	
-	"item.uplift.platinum_axe": "Platinum Axe",	
-	"item.uplift.platinum_hoe": "Platinum Hoe",
-	
-	"item.uplift.platinum_helmet": "Platinum Helmet",
-	"item.uplift.platinum_chestplate": "Platinum Chestplate",
-	"item.uplift.platinum_leggings": "Platinum Leggings",
-	"item.uplift.platinum_boots": "Platinum Boots",
-	
-	
-	
-	"item.uplift.uranium_ingot": "Uranium Ingot",
-	"item.uplift.uranium_nugget": "Uranium Nugget",
-	
-	"block.uplift.uranium_ore": "Uranium Ore",
-	"block.uplift.uranium_block": "Block of Uranium",
-	
-	"item.uplift.uranium_sword": "Uranium Sword",	
-	"item.uplift.uranium_pickaxe": "Uranium Pickaxe",	
-	"item.uplift.uranium_shovel": "Uranium Shovel",	
-	"item.uplift.uranium_axe": "Uranium Axe",	
-	"item.uplift.uranium_hoe": "Uranium Hoe",
-	
-	"item.uplift.uranium_helmet": "Uranium Helmet",
-	"item.uplift.uranium_chestplate": "Uranium Chestplate",
-	"item.uplift.uranium_leggings": "Uranium Leggings",
-	"item.uplift.uranium_boots": "Uranium Boots",
-	
-	"item.uplift.uranium_bomb": "Uranium Bomb",
-	
-	
-	
-	"item.uplift.tasmanite": "Tasmanite",
-	
-	"block.uplift.tasmanite_ore": "Tasmanite Ore",
-	"block.uplift.tasmanite_block": "Block of Tasmanite",
-	
-	"block.uplift.tasmanite_torch": "Tasmanite Torch",
-	
-	
-	
-	"item.uplift.bloodstone": "Bloodstone",
-	"block.uplift.bloodstone_ore": "Bloodstone Ore",
-	"block.uplift.bloodstone_block": "Block of Bloodstone",
-	
-	"item.uplift.bloodstone_helmet": "Bloodstone Helmet",
-	"item.uplift.bloodstone_chestplate": "Bloodstone Chestplate",
-	"item.uplift.bloodstone_leggings": "Bloodstone Leggings",
-	"item.uplift.bloodstone_boots": "Bloodstone Boots",
-	
-	
-	
-	"item.uplift.ender_gem": "Ender Gem",
-	
-	"block.uplift.ender_ore": "Ender Ore",
-	"block.uplift.ender_block": "Block of Ender",
-	
-	"item.uplift.ender_sword": "Ender Sword",	
-	"item.uplift.ender_pickaxe": "Ender Pickaxe",	
-	"item.uplift.ender_shovel": "Ender Shovel",	
-	"item.uplift.ender_axe": "Ender Axe",	
-	"item.uplift.ender_hoe": "Ender Hoe",
-	
-	"item.uplift.ender_helmet": "Ender Helmet",
-	"item.uplift.ender_chestplate": "Ender Chestplate",
-	"item.uplift.ender_leggings": "Ender Leggings",
-	"item.uplift.ender_boots": "Ender Boots",
-	
-	"block.uplift.ender_torch": "Ender Torch",
-	
-	
-	
-	"item.uplift.opal": "Opal",
-	
-	"block.uplift.opal_ore": "Opal Ore",
-	"block.uplift.opal_block": "Block of Opal",
-	
-	"block.uplift.opal_torch": "Opal Torch",
-	
-	
-	
-	"item.uplift.rose_gold_ingot": "Rose Gold Ingot",
-	"item.uplift.rose_gold_nugget": "Rose Gold Nugget",
-	
-	"block.uplift.rose_gold_ore": "Rose Gold Ore",
-	"block.uplift.rose_gold_block": "Block of Rose Gold",
-	
-	"item.uplift.rose_gold_sword": "Rose Golden Sword",
-	"item.uplift.rose_gold_axe": "Rose Golden Axe",
-	
-	"item.uplift.rose_golden_apple": "Rose Golden Apple",
-	
-	
-	
-	"item.uplift.gem_dust": "Gem Dust",
-	"block.uplift.gemstone": "Gemstone",
-	
-	
+  "item.uplift.ruby": "Ruby",
 
-	"item.uplift.mine_bomb": "Mine Bomb",
-	
-	
-	
-	"block.uplift.gem_crusher": "Gem Crusher",
-	
-	
-	
-	"item.uplift.stone_spawn_egg": "Stoneman Spawn Egg",
-	"entity.uplift.stone_entity": "Stoneman",
-	"item.uplift.stone_meal": "Stone Meal",
-	"item.uplift.stone_soup": "Stone Soup",
-	
-	
-	
-	"block.uplift.cave_teleporter": "Cave Teleporter",
-	
-	
-	
-	"effect.uplift.flight": "Flight"
-	
+  "block.uplift.ruby_ore": "Ruby Ore",
+  "block.uplift.ruby_block": "Block of Ruby",
+
+  "item.uplift.ruby_sword": "Ruby Sword",
+  "item.uplift.ruby_pickaxe": "Ruby Pickaxe",
+  "item.uplift.ruby_shovel": "Ruby Shovel",
+  "item.uplift.ruby_axe": "Ruby Axe",
+  "item.uplift.ruby_hoe": "Ruby Hoe",
+
+  "item.uplift.ruby_helmet": "Ruby Helmet",
+  "item.uplift.ruby_chestplate": "Ruby Chestplate",
+  "item.uplift.ruby_leggings": "Ruby Leggings",
+  "item.uplift.ruby_boots": "Ruby Boots",
+
+  "block.uplift.ruby_torch": "Ruby Torch",
+
+  "item.uplift.burning_diamond": "Burning Diamond",
+  "item.uplift.burning_dust": "Burning Diamond Dust",
+
+  "block.uplift.burning_diamond_block": "Block of Burning Diamond",
+  "block.uplift.burning_diamond_ore": "Burning Diamond Ore",
+
+  "item.uplift.burning_diamond_sword": "Burning Diamond Sword",
+  "item.uplift.burning_diamond_pickaxe": "Burning Diamond Pickaxe",
+  "item.uplift.burning_diamond_shovel": "Burning Diamond Shovel",
+  "item.uplift.burning_diamond_axe": "Burning Diamond Axe",
+  "item.uplift.burning_diamond_hoe": "Burning Diamond Hoe",
+
+  "item.uplift.burning_diamond_helmet": "Burning Diamond Helmet",
+  "item.uplift.burning_diamond_chestplate": "Burning Diamond Chestplate",
+  "item.uplift.burning_diamond_leggings": "Burning Diamond Leggings",
+  "item.uplift.burning_diamond_boots": "Burning Diamond Boots",
+
+  "item.uplift.igniter": "Igniter",
+  "block.uplift.igniter_fire": "Igniter Fire",
+
+  "block.uplift.burning_diamond_torch": "Burning Diamond Torch",
+
+  "item.uplift.sapphire": "Sapphire",
+
+  "block.uplift.sapphire_ore": "Sapphire Ore",
+  "block.uplift.sapphire_block": "Block of Sapphire",
+
+  "item.uplift.sapphire_sword": "Sapphire Sword",
+  "item.uplift.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.uplift.sapphire_shovel": "Sapphire Shovel",
+  "item.uplift.sapphire_axe": "Sapphire Axe",
+  "item.uplift.sapphire_hoe": "Sapphire Hoe",
+
+  "item.uplift.sapphire_helmet": "Sapphire Helmet",
+  "item.uplift.sapphire_chestplate": "Sapphire Chestplate",
+  "item.uplift.sapphire_leggings": "Sapphire Leggings",
+  "item.uplift.sapphire_boots": "Sapphire Boots",
+
+  "block.uplift.sapphire_torch": "Sapphire Torch",
+
+  "item.uplift.tourmaline": "Tourmaline",
+
+  "block.uplift.tourmaline_ore": "Tourmaline Ore",
+  "block.uplift.tourmaline_block": "Block of Tourmaline",
+
+  "item.uplift.tourmaline_sword": "Tourmaline Sword",
+  "item.uplift.tourmaline_pickaxe": "Tourmaline Pickaxe",
+  "item.uplift.tourmaline_shovel": "Tourmaline Shovel",
+  "item.uplift.tourmaline_axe": "Tourmaline Axe",
+  "item.uplift.tourmaline_hoe": "Tourmaline Hoe",
+
+  "item.uplift.tourmaline_helmet": "Tourmaline Helmet",
+  "item.uplift.tourmaline_chestplate": "Tourmaline Chestplate",
+  "item.uplift.tourmaline_leggings": "Tourmaline Leggings",
+  "item.uplift.tourmaline_boots": "Tourmaline Boots",
+
+  "block.uplift.tourmaline_torch": "Tourmaline Torch",
+
+  "item.uplift.obsidian_shard": "Obsidian Shard",
+
+  "block.uplift.obsidian_block": "Block of Obsidian",
+
+  "item.uplift.obsidian_sword": "Obsidian Sword",
+  "item.uplift.obsidian_pickaxe": "Obsidian Pickaxe",
+  "item.uplift.obsidian_shovel": "Obsidian Shovel",
+  "item.uplift.obsidian_axe": "Obsidian Axe",
+  "item.uplift.obsidian_hoe": "Obsidian Hoe",
+
+  "item.uplift.obsidian_helmet": "Obsidian Helmet",
+  "item.uplift.obsidian_chestplate": "Obsidian Chestplate",
+  "item.uplift.obsidian_leggings": "Obsidian Leggings",
+  "item.uplift.obsidian_boots": "Obsidian Boots",
+
+  "block.uplift.obsidian_torch": "Obsidian Torch",
+
+  "item.uplift.platinum_ingot": "Platinum Ingot",
+  "item.uplift.platinum_nugget": "Platinum Nugget",
+
+  "block.uplift.platinum_block": "Block of Platinum",
+  "block.uplift.platinum_ore": "Platinum Ore",
+
+  "item.uplift.platinum_sword": "Platinum Sword",
+  "item.uplift.platinum_pickaxe": "Platinum Pickaxe",
+  "item.uplift.platinum_shovel": "Platinum Shovel",
+  "item.uplift.platinum_axe": "Platinum Axe",
+  "item.uplift.platinum_hoe": "Platinum Hoe",
+
+  "item.uplift.platinum_helmet": "Platinum Helmet",
+  "item.uplift.platinum_chestplate": "Platinum Chestplate",
+  "item.uplift.platinum_leggings": "Platinum Leggings",
+  "item.uplift.platinum_boots": "Platinum Boots",
+
+  "item.uplift.uranium_ingot": "Uranium Ingot",
+  "item.uplift.uranium_nugget": "Uranium Nugget",
+
+  "block.uplift.uranium_ore": "Uranium Ore",
+  "block.uplift.uranium_block": "Block of Uranium",
+
+  "item.uplift.uranium_sword": "Uranium Sword",
+  "item.uplift.uranium_pickaxe": "Uranium Pickaxe",
+  "item.uplift.uranium_shovel": "Uranium Shovel",
+  "item.uplift.uranium_axe": "Uranium Axe",
+  "item.uplift.uranium_hoe": "Uranium Hoe",
+
+  "item.uplift.uranium_helmet": "Uranium Helmet",
+  "item.uplift.uranium_chestplate": "Uranium Chestplate",
+  "item.uplift.uranium_leggings": "Uranium Leggings",
+  "item.uplift.uranium_boots": "Uranium Boots",
+
+  "item.uplift.uranium_bomb": "Uranium Bomb",
+
+  "item.uplift.tasmanite": "Tasmanite",
+
+  "block.uplift.tasmanite_ore": "Tasmanite Ore",
+  "block.uplift.tasmanite_block": "Block of Tasmanite",
+
+  "block.uplift.tasmanite_torch": "Tasmanite Torch",
+
+  "item.uplift.bloodstone": "Bloodstone",
+  "block.uplift.bloodstone_ore": "Bloodstone Ore",
+  "block.uplift.bloodstone_block": "Block of Bloodstone",
+
+  "item.uplift.bloodstone_helmet": "Bloodstone Helmet",
+  "item.uplift.bloodstone_chestplate": "Bloodstone Chestplate",
+  "item.uplift.bloodstone_leggings": "Bloodstone Leggings",
+  "item.uplift.bloodstone_boots": "Bloodstone Boots",
+
+  "item.uplift.ender_gem": "Ender Gem",
+
+  "block.uplift.ender_ore": "Ender Ore",
+  "block.uplift.ender_block": "Block of Ender",
+
+  "item.uplift.ender_sword": "Ender Sword",
+  "item.uplift.ender_pickaxe": "Ender Pickaxe",
+  "item.uplift.ender_shovel": "Ender Shovel",
+  "item.uplift.ender_axe": "Ender Axe",
+  "item.uplift.ender_hoe": "Ender Hoe",
+
+  "item.uplift.ender_helmet": "Ender Helmet",
+  "item.uplift.ender_chestplate": "Ender Chestplate",
+  "item.uplift.ender_leggings": "Ender Leggings",
+  "item.uplift.ender_boots": "Ender Boots",
+
+  "block.uplift.ender_torch": "Ender Torch",
+
+  "item.uplift.opal": "Opal",
+
+  "block.uplift.opal_ore": "Opal Ore",
+  "block.uplift.opal_block": "Block of Opal",
+
+  "block.uplift.opal_torch": "Opal Torch",
+
+  "item.uplift.rose_gold_ingot": "Rose Gold Ingot",
+  "item.uplift.rose_gold_nugget": "Rose Gold Nugget",
+
+  "block.uplift.rose_gold_ore": "Rose Gold Ore",
+  "block.uplift.rose_gold_block": "Block of Rose Gold",
+
+  "item.uplift.rose_gold_sword": "Rose Golden Sword",
+  "item.uplift.rose_gold_axe": "Rose Golden Axe",
+
+  "item.uplift.rose_golden_apple": "Rose Golden Apple",
+
+  "item.uplift.chrome_ingot": "Chromium Ingot",
+  "item.uplift.chrome_nugget": "Chromium Nugget",
+
+  "item.uplift.chrome_sword": "Chromium Sword",
+  "item.uplift.chrome_pickaxe": "Chromium Pickaxe",
+  "item.uplift.chrome_shovel": "Chromium Shovel",
+  "item.uplift.chrome_axe": "Chromium Axe",
+  "item.uplift.chrome_hoe": "Chromium Hoe",
+
+  "item.uplift.chrome_helmet": "Chromium Helmet",
+  "item.uplift.chrome_chestplate": "Chromium Chestplate",
+  "item.uplift.chrome_leggings": "Chromium Leggings",
+  "item.uplift.chrome_boots": "Chromium Boots",
+
+  "block.uplift.chrome_ore": "Chromium Ore",
+  "block.uplift.chrome_block": "Block of Chromium",
+
+  "item.uplift.gem_dust": "Gem Dust",
+  "block.uplift.gemstone": "Gemstone",
+
+  "item.uplift.mine_bomb": "Mine Bomb",
+
+  "block.uplift.gem_crusher": "Gem Crusher",
+
+  "item.uplift.stone_spawn_egg": "Stoneman Spawn Egg",
+  "entity.uplift.stone_entity": "Stoneman",
+  "item.uplift.stone_meal": "Stone Meal",
+  "item.uplift.stone_soup": "Stone Soup",
+
+  "block.uplift.cave_portal": "Cave Portal",
+
+  "effect.uplift.flight": "Flight",
+  "effect.uplift.luminous": "Luminous"
 }

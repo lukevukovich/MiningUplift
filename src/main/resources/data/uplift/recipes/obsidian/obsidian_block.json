@@ -1,24 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-    
-    "pattern":
-    [
-        "III",
-        "III",
-        "III"
-    ],
-    
-    "key":
-    {
-        "I":
-        {
-            "item": "uplift:obsidian_ingot"
-        }
-    },
-    
-    "result":
-    {
-        "item":  "uplift:obsidian_block",
-        "count": 1
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": ["III", "III", "III"],
+
+  "key": {
+    "I": {
+      "item": "uplift:obsidian_shard"
     }
+  },
+
+  "result": {
+    "item": "uplift:obsidian_block",
+    "count": 1
+  }
 }

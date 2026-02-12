@@ -29,7 +29,8 @@ public class SmelterFurnaceScreen extends ContainerScreen<SmelterFurnaceContaine
 		this.minecraft.getTextureManager().bindTexture(TEXTURE);
 		this.blit(this.guiLeft, this.guiTop, 0, 0, this.xSize, this.ySize);
 
-		this.blit(this.guiLeft + 79, this.guiTop + 35, 176, 0, this.container.getSmeltProgressionScaled(), 16);
+		this.blit(this.guiLeft + 79, this.guiTop + 34, 176, 0, this.container.getSmeltProgressionScaled(), 16);
+		this.blit(this.guiLeft + 49, this.guiTop + 8, 0, 166, this.container.getFuelProgressionScaled(), 7);
 	}
 
 	@Override

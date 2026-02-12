@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
@@ -20,20 +21,31 @@ public class ArmorPotionBloodstone extends ArmorItem {
 	@Override
 	public void onArmorTick(ItemStack stack, World world, PlayerEntity player) 
 	{
-		if (player.inventory.armorItemInSlot(3).getItem() == ItemInit.bloodstone_helmet
-				&& player.inventory.armorItemInSlot(2).getItem() == ItemInit.bloodstone_chestplate
-				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.bloodstone_leggings
-				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.bloodstone_boots) 
+		ItemStack head = player.getItemStackFromSlot(EquipmentSlotType.HEAD);
+		ItemStack chest = player.getItemStackFromSlot(EquipmentSlotType.CHEST);
+		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
+		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
+
+		if (head.getItem() == ItemInit.bloodstone_helmet
+				&& chest.getItem() == ItemInit.bloodstone_chestplate
+				&& legs.getItem() == ItemInit.bloodstone_leggings
+				&& feet.getItem() == ItemInit.bloodstone_boots) 
 		{
-			player.addPotionEffect(new EffectInstance(Effects.BLINDNESS, 201, 1));
-			player.addPotionEffect(new EffectInstance(Effects.SLOWNESS, 201, 1));
-			player.addPotionEffect(new EffectInstance(Effects.WEAKNESS, 201, 1));
-			player.addPotionEffect(new EffectInstance(Effects.INSTANT_HEALTH, 201));
+			if (!world.isRemote) {
+				player.addPotionEffect(new EffectInstance(Effects.INSTANT_HEALTH, Integer.MAX_VALUE, 0, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.BLINDNESS, Integer.MAX_VALUE, 0, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.SLOWNESS, Integer.MAX_VALUE, 4, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.MINING_FATIGUE, Integer.MAX_VALUE, 2, false, false));
+			}
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.bloodstone_boots, 116, 10, 10);
+		} else {
+			if (!world.isRemote) {
+				player.removePotionEffect(Effects.INSTANT_HEALTH);
+				player.removePotionEffect(Effects.BLINDNESS);
+				player.removePotionEffect(Effects.SLOWNESS);
+				player.removePotionEffect(Effects.MINING_FATIGUE);
+			}
 		}
-		/*else
-		{
-			player.removePotionEffect(Effects.FIRE_RESISTANCE);
-		}*/
 		super.onArmorTick(stack, world, player);
 	}
 

@@ -8,7 +8,7 @@
 modLoader="javafml" #mandatory
 
 # A version range to match for said mod loader - for regular FML @Mod it will be the forge version
-loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+loaderVersion="[31.2.0,)" #mandatory This ensures 1.15.2 Forge with required argument serializers.
 
 # A URL to refer people to when problems occur with this mod
 issueTrackerURL="http://my.issue.tracker/" #optional
@@ -23,7 +23,7 @@ modId="uplift" #mandatory
 version="1.2.0" #mandatory
 
  # A display name for the mod
-displayName="Miner's Uplift" #mandatory
+displayName="Mining Uplift" #mandatory
 
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="examplemod.png" #optional
@@ -36,7 +36,7 @@ authors="Vuzili" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Miner's Uplift improves the vanilla mining experience by adding ores, blocks, tools, armor sets, and a new dimension.
+Mining Uplift improves the vanilla mining experience by adding ores, blocks, tools, armor sets, and a new dimension.
 '''
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
@@ -46,7 +46,7 @@ Miner's Uplift improves the vanilla mining experience by adding ores, blocks, to
     # Does this dependency have to exist - if not, ordering below must be specified
     mandatory=true #mandatory
     # The version range of the dependency
-    versionRange="[31,)" #mandatory
+    versionRange="[31.2.0,31.3)" #mandatory Restrict to 31.2.x (MC 1.15.2)
     # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
     ordering="NONE"
     # Side this dependency is applied on - BOTH, CLIENT or SERVER

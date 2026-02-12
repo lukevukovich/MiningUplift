@@ -32,10 +32,11 @@ public class ModSpawnEggItem extends SpawnEggItem
 		UNADDED_EGGS.add(this);
 	}
 	
+	@SuppressWarnings("unchecked")
 	public ModSpawnEggItem(final RegistryObject<? extends EntityType<?>> entityTypeSupplier, final int primaryColor, final int secondaryColor, final Item.Properties properties)
 	{
 		super(null, primaryColor, secondaryColor, properties);
-		this.entityTypeSupplier = Lazy.of(entityTypeSupplier::get);
+		this.entityTypeSupplier = (Lazy<? extends EntityType<?>>) Lazy.of(entityTypeSupplier::get);
 		UNADDED_EGGS.add(this);
 	}
 	

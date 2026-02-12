@@ -14,7 +14,7 @@ public class BurningDiamondFuel extends Item
 	@Override
 	public int getBurnTime(ItemStack itemStack) 
 	{
-		return 20000;
+		return 40000;
 	}
 	
 }

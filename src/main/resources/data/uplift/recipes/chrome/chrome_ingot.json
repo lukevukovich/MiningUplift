@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        " I ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:chrome_block"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:chrome_ingot",
+        "count": 9
+    }
+}

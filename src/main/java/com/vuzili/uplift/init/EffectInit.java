@@ -15,6 +15,7 @@ import net.minecraftforge.registries.ObjectHolder;
 public class EffectInit {
 	
     public static final Effect FLIGHT = null;
+    public static final Effect LUMINOUS = null;
 
     @SubscribeEvent
     public static void registerEffects(RegistryEvent.Register<Effect> event) {

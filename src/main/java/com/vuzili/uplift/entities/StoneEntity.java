@@ -53,7 +53,7 @@ public class StoneEntity extends ZombieEntity {
 	@Override
 	protected void registerAttributes() {
 		super.registerAttributes();
-		this.getAttribute(SharedMonsterAttributes.ATTACK_DAMAGE).setBaseValue(1.5D);
+		this.getAttribute(SharedMonsterAttributes.ATTACK_DAMAGE).setBaseValue(2.0D);
 		this.getAttribute(SharedMonsterAttributes.MAX_HEALTH).setBaseValue(10.0D);
 		this.getAttribute(SharedMonsterAttributes.MOVEMENT_SPEED).setBaseValue(0.25D);
 	}
@@ -130,6 +130,39 @@ public class StoneEntity extends ZombieEntity {
 	    }
 	    // Handle other types of damage normally
 	    return super.attackEntityFrom(source, amount);
+	}
+	
+	@Override
+	public boolean attackEntityAsMob(Entity entityIn) {
+	    // Get difficulty-based damage multiplier
+	    float damageMultiplier;
+	    switch (this.world.getDifficulty()) {
+	        case EASY:
+	            damageMultiplier = 0.5F;
+	            break;
+	        case NORMAL:
+	            damageMultiplier = 1.0F;
+	            break;
+	        case HARD:
+	            damageMultiplier = 1.5F;
+	            break;
+	        default:
+	            damageMultiplier = 1.0F;
+	            break;
+	    }
+	    
+	    // Calculate scaled damage
+	    float baseDamage = (float) this.getAttribute(SharedMonsterAttributes.ATTACK_DAMAGE).getValue();
+	    float scaledDamage = baseDamage * damageMultiplier;
+	    
+	    // Apply the damage to the target
+	    boolean attacked = entityIn.attackEntityFrom(DamageSource.causeMobDamage(this), scaledDamage);
+	    
+	    if (attacked) {
+	        this.applyEnchantments(this, entityIn);
+	    }
+	    
+	    return attacked;
 	}
 	
 	@Override

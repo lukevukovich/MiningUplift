@@ -2,6 +2,7 @@ package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.EffectInit;
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
@@ -21,12 +22,25 @@ public class ArmorPotionEnder extends ArmorItem {;
 	@Override
 	public void onArmorTick(ItemStack stack, World world, PlayerEntity player) 
 	{
-		if (player.inventory.armorItemInSlot(3).getItem() == ItemInit.ender_helmet
-				&& player.inventory.armorItemInSlot(2).getItem() == ItemInit.ender_chestplate
-				&& player.inventory.armorItemInSlot(1).getItem() == ItemInit.ender_leggings
-				&& player.inventory.armorItemInSlot(0).getItem() == ItemInit.ender_boots) 
+		ItemStack head = player.getItemStackFromSlot(EquipmentSlotType.HEAD);
+		ItemStack chest = player.getItemStackFromSlot(EquipmentSlotType.CHEST);
+		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
+		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
+
+		if (head.getItem() == ItemInit.ender_helmet
+				&& chest.getItem() == ItemInit.ender_chestplate
+				&& legs.getItem() == ItemInit.ender_leggings
+				&& feet.getItem() == ItemInit.ender_boots) 
 		{
-			player.addPotionEffect(new EffectInstance(EffectInit.FLIGHT, 201));
+			if (!world.isRemote) {
+				player.addPotionEffect(new EffectInstance(EffectInit.FLIGHT, Integer.MAX_VALUE, 0, false, false));
+			}
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.ender_boots, 212, 218, 146);
+		}
+		else {
+			if (!world.isRemote) {
+				player.removePotionEffect(EffectInit.FLIGHT);
+			}
 		}
 		super.onArmorTick(stack, world, player);
 	}
