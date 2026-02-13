@@ -682,8 +682,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="wiki/wiki_textures/gem_crusher.png" width="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="wiki/wiki_textures/gem_crusher.png" width="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32"></td>
@@ -697,7 +697,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 6 Stone + 2 Platinum Ingots → 1 Gem Crusher
+> **Crafting (Shaped):** 6 Stone + 2 Platinum Ingots ➞ 1 Gem Crusher
 
 ---
 
@@ -708,12 +708,12 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/smelter_front_unlit.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/smelter_front_unlit.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
 </tr>
 <tr>
@@ -723,7 +723,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 8 Obsidian → 1 Smelter (Unlit). Light it with the Igniter.
+> **Crafting (Shaped):** 8 Obsidian ➞ 1 Smelter (Unlit). Light it with the Igniter.
 
 ---
 
@@ -734,8 +734,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/gemstone.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/gemstone.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
@@ -749,19 +749,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Gem Dust → 1 Gemstone
+> **Crafting (Shaped):** 9 Gem Dust ➞ 1 Gemstone
 
 #### Gem Dust from Gemstone (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/gemstone.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Gemstone → 3 Gem Dust
+> **Crafting (Shapeless):** 1 Gemstone ➞ 3 Gem Dust
 
 ---
 
@@ -771,12 +771,12 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/flint_and_steel.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/igniter.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Burning Diamond + 1 Flint & Steel → 1 Igniter
+> **Crafting (Shapeless):** 1 Burning Diamond + 1 Flint & Steel ➞ 1 Igniter
 
 ---
 
@@ -784,11 +784,11 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/mine_bomb.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/mine_bomb.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
@@ -796,13 +796,13 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Gem Dust + 1 Gunpowder → 1 Mine Bomb
+> **Crafting (Shaped):** 4 Gem Dust + 1 Gunpowder ➞ 1 Mine Bomb
 
 ---
 
@@ -810,11 +810,11 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_bomb.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_bomb.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
@@ -822,13 +822,13 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Uranium Ingots + 1 Gunpowder → 1 Uranium Bomb
+> **Crafting (Shaped):** 4 Uranium Ingots + 1 Gunpowder ➞ 1 Uranium Bomb
 
 ---
 
@@ -838,12 +838,12 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/stone_meal.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/bowl.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/stone_soup.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Stone Meal + 1 Bowl → 1 Stone Soup
+> **Crafting (Shapeless):** 1 Stone Meal + 1 Bowl ➞ 1 Stone Soup
 
 ---
 
@@ -854,8 +854,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_golden_apple.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_golden_apple.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
@@ -869,7 +869,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 8 Rose Gold Ingots + 1 Golden Apple → 1 Rose Golden Apple
+> **Crafting (Shaped):** 8 Rose Gold Ingots + 1 Golden Apple ➞ 1 Rose Golden Apple
 
 ---
 
@@ -877,25 +877,25 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Burning Diamond Dust (diamond pattern) → 1 Burning Diamond
+> **Crafting (Shaped):** 4 Burning Diamond Dust (diamond pattern) ➞ 1 Burning Diamond
 
 ---
 
@@ -905,25 +905,25 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_sword.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Ruby + 1 Stick → 1 Ruby Sword
+> **Crafting (Shaped):** 2 Ruby + 1 Stick ➞ 1 Ruby Sword
 
 #### Ruby Pickaxe
 
@@ -932,22 +932,22 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Ruby + 2 Sticks → 1 Ruby Pickaxe
+> **Crafting (Shaped):** 3 Ruby + 2 Sticks ➞ 1 Ruby Pickaxe
 
 #### Ruby Axe
 
@@ -955,47 +955,47 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_axe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Ruby + 2 Sticks → 1 Ruby Axe
+> **Crafting (Shaped):** 3 Ruby + 2 Sticks ➞ 1 Ruby Axe
 
 #### Ruby Shovel
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_shovel.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 1 Ruby + 2 Sticks → 1 Ruby Shovel
+> **Crafting (Shaped):** 1 Ruby + 2 Sticks ➞ 1 Ruby Shovel
 
 #### Ruby Hoe
 
@@ -1003,23 +1003,23 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_hoe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Ruby + 2 Sticks → 1 Ruby Hoe
+> **Crafting (Shaped):** 2 Ruby + 2 Sticks ➞ 1 Ruby Hoe
 
 #### Ruby Helmet
 
@@ -1028,32 +1028,32 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_helmet.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 5 Ruby → 1 Ruby Helmet
+> **Crafting (Shaped):** 5 Ruby ➞ 1 Ruby Helmet
 
 #### Ruby Chestplate
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_chestplate.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
@@ -1067,7 +1067,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 8 Ruby → 1 Ruby Chestplate
+> **Crafting (Shaped):** 8 Ruby ➞ 1 Ruby Chestplate
 
 #### Ruby Leggings
 
@@ -1076,46 +1076,46 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_leggings.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 7 Ruby → 1 Ruby Leggings
+> **Crafting (Shaped):** 7 Ruby ➞ 1 Ruby Leggings
 
 #### Ruby Boots
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Ruby → 1 Ruby Boots
+> **Crafting (Shaped):** 4 Ruby ➞ 1 Ruby Boots
 
 #### Block of Ruby
 
@@ -1124,8 +1124,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/ruby_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/ruby_block.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
@@ -1139,43 +1139,43 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Ruby → 1 Block of Ruby
+> **Crafting (Shaped):** 9 Ruby ➞ 1 Block of Ruby
 
 #### Ruby from Block (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/ruby_block.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Ruby → 9 Ruby
+> **Crafting (Shapeless):** 1 Block of Ruby ➞ 9 Ruby
 
 #### Ruby Torch
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_torch.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** Ruby above Coal above Stick → 8 Ruby Torches
+> **Crafting (Shaped):** Ruby above Coal above Stick ➞ 8 Ruby Torches
 
 ---
 
@@ -1185,25 +1185,25 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_sword.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Sapphire + 1 Stick → 1 Sapphire Sword
+> **Crafting (Shaped):** 2 Sapphire + 1 Stick ➞ 1 Sapphire Sword
 
 #### Sapphire Pickaxe
 
@@ -1212,22 +1212,22 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Sapphire + 2 Sticks → 1 Sapphire Pickaxe
+> **Crafting (Shaped):** 3 Sapphire + 2 Sticks ➞ 1 Sapphire Pickaxe
 
 #### Sapphire Axe
 
@@ -1235,47 +1235,47 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_axe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Sapphire + 2 Sticks → 1 Sapphire Axe
+> **Crafting (Shaped):** 3 Sapphire + 2 Sticks ➞ 1 Sapphire Axe
 
 #### Sapphire Shovel
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_shovel.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 1 Sapphire + 2 Sticks → 1 Sapphire Shovel
+> **Crafting (Shaped):** 1 Sapphire + 2 Sticks ➞ 1 Sapphire Shovel
 
 #### Sapphire Hoe
 
@@ -1283,23 +1283,23 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_hoe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Sapphire + 2 Sticks → 1 Sapphire Hoe
+> **Crafting (Shaped):** 2 Sapphire + 2 Sticks ➞ 1 Sapphire Hoe
 
 #### Sapphire Helmet
 
@@ -1308,32 +1308,32 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_helmet.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 5 Sapphire → 1 Sapphire Helmet
+> **Crafting (Shaped):** 5 Sapphire ➞ 1 Sapphire Helmet
 
 #### Sapphire Chestplate
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_chestplate.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
@@ -1347,7 +1347,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 8 Sapphire → 1 Sapphire Chestplate
+> **Crafting (Shaped):** 8 Sapphire ➞ 1 Sapphire Chestplate
 
 #### Sapphire Leggings
 
@@ -1356,46 +1356,46 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_leggings.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 7 Sapphire → 1 Sapphire Leggings
+> **Crafting (Shaped):** 7 Sapphire ➞ 1 Sapphire Leggings
 
 #### Sapphire Boots
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Sapphire → 1 Sapphire Boots
+> **Crafting (Shaped):** 4 Sapphire ➞ 1 Sapphire Boots
 
 #### Block of Sapphire
 
@@ -1404,8 +1404,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/sapphire_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/sapphire_block.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
@@ -1419,43 +1419,43 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Sapphire → 1 Block of Sapphire
+> **Crafting (Shaped):** 9 Sapphire ➞ 1 Block of Sapphire
 
 #### Sapphire from Block (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/sapphire_block.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Sapphire → 9 Sapphire
+> **Crafting (Shapeless):** 1 Block of Sapphire ➞ 9 Sapphire
 
 #### Sapphire Torch
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_torch.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** Sapphire above Coal above Stick → 8 Sapphire Torches
+> **Crafting (Shaped):** Sapphire above Coal above Stick ➞ 8 Sapphire Torches
 
 ---
 
@@ -1465,25 +1465,25 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_sword.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Tourmaline + 1 Stick → 1 Tourmaline Sword
+> **Crafting (Shaped):** 2 Tourmaline + 1 Stick ➞ 1 Tourmaline Sword
 
 #### Tourmaline Pickaxe
 
@@ -1492,22 +1492,22 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Tourmaline + 2 Sticks → 1 Tourmaline Pickaxe
+> **Crafting (Shaped):** 3 Tourmaline + 2 Sticks ➞ 1 Tourmaline Pickaxe
 
 #### Tourmaline Axe
 
@@ -1515,47 +1515,47 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_axe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Tourmaline + 2 Sticks → 1 Tourmaline Axe
+> **Crafting (Shaped):** 3 Tourmaline + 2 Sticks ➞ 1 Tourmaline Axe
 
 #### Tourmaline Shovel
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_shovel.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 1 Tourmaline + 2 Sticks → 1 Tourmaline Shovel
+> **Crafting (Shaped):** 1 Tourmaline + 2 Sticks ➞ 1 Tourmaline Shovel
 
 #### Tourmaline Hoe
 
@@ -1563,23 +1563,23 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_hoe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Tourmaline + 2 Sticks → 1 Tourmaline Hoe
+> **Crafting (Shaped):** 2 Tourmaline + 2 Sticks ➞ 1 Tourmaline Hoe
 
 #### Tourmaline Helmet
 
@@ -1588,32 +1588,32 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_helmet.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 5 Tourmaline → 1 Tourmaline Helmet
+> **Crafting (Shaped):** 5 Tourmaline ➞ 1 Tourmaline Helmet
 
 #### Tourmaline Chestplate
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_chestplate.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
@@ -1627,7 +1627,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 8 Tourmaline → 1 Tourmaline Chestplate
+> **Crafting (Shaped):** 8 Tourmaline ➞ 1 Tourmaline Chestplate
 
 #### Tourmaline Leggings
 
@@ -1636,46 +1636,46 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_leggings.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 7 Tourmaline → 1 Tourmaline Leggings
+> **Crafting (Shaped):** 7 Tourmaline ➞ 1 Tourmaline Leggings
 
 #### Tourmaline Boots
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Tourmaline → 1 Tourmaline Boots
+> **Crafting (Shaped):** 4 Tourmaline ➞ 1 Tourmaline Boots
 
 #### Block of Tourmaline
 
@@ -1684,8 +1684,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
@@ -1699,43 +1699,43 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Tourmaline → 1 Block of Tourmaline
+> **Crafting (Shaped):** 9 Tourmaline ➞ 1 Block of Tourmaline
 
 #### Tourmaline from Block (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Tourmaline → 9 Tourmaline
+> **Crafting (Shapeless):** 1 Block of Tourmaline ➞ 9 Tourmaline
 
 #### Tourmaline Torch
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_torch.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** Tourmaline above Coal above Stick → 8 Tourmaline Torches
+> **Crafting (Shaped):** Tourmaline above Coal above Stick ➞ 8 Tourmaline Torches
 
 ---
 
@@ -1745,25 +1745,25 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_sword.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Chromium Ingot + 1 Stick → 1 Chromium Sword
+> **Crafting (Shaped):** 2 Chromium Ingot + 1 Stick ➞ 1 Chromium Sword
 
 #### Chromium Pickaxe
 
@@ -1772,22 +1772,22 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Chromium Ingot + 2 Sticks → 1 Chromium Pickaxe
+> **Crafting (Shaped):** 3 Chromium Ingot + 2 Sticks ➞ 1 Chromium Pickaxe
 
 #### Chromium Axe
 
@@ -1795,47 +1795,47 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_axe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Chromium Ingot + 2 Sticks → 1 Chromium Axe
+> **Crafting (Shaped):** 3 Chromium Ingot + 2 Sticks ➞ 1 Chromium Axe
 
 #### Chromium Shovel
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_shovel.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 1 Chromium Ingot + 2 Sticks → 1 Chromium Shovel
+> **Crafting (Shaped):** 1 Chromium Ingot + 2 Sticks ➞ 1 Chromium Shovel
 
 #### Chromium Hoe
 
@@ -1843,23 +1843,23 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_hoe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Chromium Ingot + 2 Sticks → 1 Chromium Hoe
+> **Crafting (Shaped):** 2 Chromium Ingot + 2 Sticks ➞ 1 Chromium Hoe
 
 #### Chromium Helmet
 
@@ -1868,32 +1868,32 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_helmet.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 5 Chromium Ingot → 1 Chromium Helmet
+> **Crafting (Shaped):** 5 Chromium Ingot ➞ 1 Chromium Helmet
 
 #### Chromium Chestplate
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_chestplate.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
@@ -1907,7 +1907,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 8 Chromium Ingot → 1 Chromium Chestplate
+> **Crafting (Shaped):** 8 Chromium Ingot ➞ 1 Chromium Chestplate
 
 #### Chromium Leggings
 
@@ -1916,46 +1916,46 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_leggings.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 7 Chromium Ingot → 1 Chromium Leggings
+> **Crafting (Shaped):** 7 Chromium Ingot ➞ 1 Chromium Leggings
 
 #### Chromium Boots
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Chromium Ingot → 1 Chromium Boots
+> **Crafting (Shaped):** 4 Chromium Ingot ➞ 1 Chromium Boots
 
 #### Block of Chromium
 
@@ -1964,8 +1964,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/chrome_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/chrome_block.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
@@ -1979,19 +1979,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Chromium Ingot → 1 Block of Chromium
+> **Crafting (Shaped):** 9 Chromium Ingot ➞ 1 Block of Chromium
 
 #### Chromium Ingot from Block (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/chrome_block.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Chromium → 9 Chromium Ingot
+> **Crafting (Shapeless):** 1 Block of Chromium ➞ 9 Chromium Ingot
 
 #### Chromium Ingot from Nuggets
 
@@ -2000,8 +2000,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32"></td>
@@ -2015,19 +2015,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Chromium Nuggets → 1 Chromium Ingot
+> **Crafting (Shaped):** 9 Chromium Nuggets ➞ 1 Chromium Ingot
 
 #### Chromium Nuggets from Ingot (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Chromium Ingot → 9 Chromium Nuggets
+> **Crafting (Shapeless):** 1 Chromium Ingot ➞ 9 Chromium Nuggets
 
 ---
 
@@ -2037,25 +2037,25 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_sword.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Obsidian Shard + 1 Stick → 1 Obsidian Sword
+> **Crafting (Shaped):** 2 Obsidian Shard + 1 Stick ➞ 1 Obsidian Sword
 
 #### Obsidian Pickaxe
 
@@ -2064,22 +2064,22 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Obsidian Shard + 2 Sticks → 1 Obsidian Pickaxe
+> **Crafting (Shaped):** 3 Obsidian Shard + 2 Sticks ➞ 1 Obsidian Pickaxe
 
 #### Obsidian Axe
 
@@ -2087,47 +2087,47 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_axe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Obsidian Shard + 2 Sticks → 1 Obsidian Axe
+> **Crafting (Shaped):** 3 Obsidian Shard + 2 Sticks ➞ 1 Obsidian Axe
 
 #### Obsidian Shovel
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shovel.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 1 Obsidian Shard + 2 Sticks → 1 Obsidian Shovel
+> **Crafting (Shaped):** 1 Obsidian Shard + 2 Sticks ➞ 1 Obsidian Shovel
 
 #### Obsidian Hoe
 
@@ -2135,23 +2135,23 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_hoe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Obsidian Shard + 2 Sticks → 1 Obsidian Hoe
+> **Crafting (Shaped):** 2 Obsidian Shard + 2 Sticks ➞ 1 Obsidian Hoe
 
 #### Obsidian Helmet
 
@@ -2160,32 +2160,32 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_helmet.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 5 Obsidian Shard → 1 Obsidian Helmet
+> **Crafting (Shaped):** 5 Obsidian Shard ➞ 1 Obsidian Helmet
 
 #### Obsidian Chestplate
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_chestplate.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
@@ -2199,7 +2199,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 8 Obsidian Shard → 1 Obsidian Chestplate
+> **Crafting (Shaped):** 8 Obsidian Shard ➞ 1 Obsidian Chestplate
 
 #### Obsidian Leggings
 
@@ -2208,46 +2208,46 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_leggings.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 7 Obsidian Shard → 1 Obsidian Leggings
+> **Crafting (Shaped):** 7 Obsidian Shard ➞ 1 Obsidian Leggings
 
 #### Obsidian Boots
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Obsidian Shard → 1 Obsidian Boots
+> **Crafting (Shaped):** 4 Obsidian Shard ➞ 1 Obsidian Boots
 
 #### Block of Obsidian
 
@@ -2256,8 +2256,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/obsidian_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/obsidian_block.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
@@ -2271,43 +2271,43 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Obsidian Shard → 1 Block of Obsidian
+> **Crafting (Shaped):** 9 Obsidian Shard ➞ 1 Block of Obsidian
 
 #### Obsidian Shard from Block (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/obsidian_block.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Obsidian → 9 Obsidian Shard
+> **Crafting (Shapeless):** 1 Block of Obsidian ➞ 9 Obsidian Shard
 
 #### Obsidian Torch
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_torch.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** Obsidian Shard above Coal above Stick → 8 Obsidian Torches
+> **Crafting (Shaped):** Obsidian Shard above Coal above Stick ➞ 8 Obsidian Torches
 
 ---
 
@@ -2317,25 +2317,25 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_sword.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Burning Diamond + 1 Stick → 1 Burning Diamond Sword
+> **Crafting (Shaped):** 2 Burning Diamond + 1 Stick ➞ 1 Burning Diamond Sword
 
 #### Burning Diamond Pickaxe
 
@@ -2344,22 +2344,22 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Burning Diamond + 2 Sticks → 1 Burning Diamond Pickaxe
+> **Crafting (Shaped):** 3 Burning Diamond + 2 Sticks ➞ 1 Burning Diamond Pickaxe
 
 #### Burning Diamond Axe
 
@@ -2367,47 +2367,47 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_axe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Burning Diamond + 2 Sticks → 1 Burning Diamond Axe
+> **Crafting (Shaped):** 3 Burning Diamond + 2 Sticks ➞ 1 Burning Diamond Axe
 
 #### Burning Diamond Shovel
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_shovel.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 1 Burning Diamond + 2 Sticks → 1 Burning Diamond Shovel
+> **Crafting (Shaped):** 1 Burning Diamond + 2 Sticks ➞ 1 Burning Diamond Shovel
 
 #### Burning Diamond Hoe
 
@@ -2415,23 +2415,23 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_hoe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Burning Diamond + 2 Sticks → 1 Burning Diamond Hoe
+> **Crafting (Shaped):** 2 Burning Diamond + 2 Sticks ➞ 1 Burning Diamond Hoe
 
 #### Burning Diamond Helmet
 
@@ -2440,32 +2440,32 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_helmet.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 5 Burning Diamond → 1 Burning Diamond Helmet
+> **Crafting (Shaped):** 5 Burning Diamond ➞ 1 Burning Diamond Helmet
 
 #### Burning Diamond Chestplate
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_chestplate.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
@@ -2479,7 +2479,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 8 Burning Diamond → 1 Burning Diamond Chestplate
+> **Crafting (Shaped):** 8 Burning Diamond ➞ 1 Burning Diamond Chestplate
 
 #### Burning Diamond Leggings
 
@@ -2488,46 +2488,46 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_leggings.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 7 Burning Diamond → 1 Burning Diamond Leggings
+> **Crafting (Shaped):** 7 Burning Diamond ➞ 1 Burning Diamond Leggings
 
 #### Burning Diamond Boots
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Burning Diamond → 1 Burning Diamond Boots
+> **Crafting (Shaped):** 4 Burning Diamond ➞ 1 Burning Diamond Boots
 
 #### Block of Burning Diamond
 
@@ -2536,8 +2536,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_block.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
@@ -2551,43 +2551,43 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Burning Diamond → 1 Block of Burning Diamond
+> **Crafting (Shaped):** 9 Burning Diamond ➞ 1 Block of Burning Diamond
 
 #### Burning Diamond from Block (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_block.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Burning Diamond → 9 Burning Diamond
+> **Crafting (Shapeless):** 1 Block of Burning Diamond ➞ 9 Burning Diamond
 
 #### Burning Diamond Torch
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_torch.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** Burning Diamond above Coal above Stick → 8 Burning Diamond Torches
+> **Crafting (Shaped):** Burning Diamond above Coal above Stick ➞ 8 Burning Diamond Torches
 
 ---
 
@@ -2597,25 +2597,25 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_sword.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Platinum Ingot + 1 Stick → 1 Platinum Sword
+> **Crafting (Shaped):** 2 Platinum Ingot + 1 Stick ➞ 1 Platinum Sword
 
 #### Platinum Pickaxe
 
@@ -2624,22 +2624,22 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Platinum Ingot + 2 Sticks → 1 Platinum Pickaxe
+> **Crafting (Shaped):** 3 Platinum Ingot + 2 Sticks ➞ 1 Platinum Pickaxe
 
 #### Platinum Axe
 
@@ -2647,47 +2647,47 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_axe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Platinum Ingot + 2 Sticks → 1 Platinum Axe
+> **Crafting (Shaped):** 3 Platinum Ingot + 2 Sticks ➞ 1 Platinum Axe
 
 #### Platinum Shovel
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_shovel.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 1 Platinum Ingot + 2 Sticks → 1 Platinum Shovel
+> **Crafting (Shaped):** 1 Platinum Ingot + 2 Sticks ➞ 1 Platinum Shovel
 
 #### Platinum Hoe
 
@@ -2695,23 +2695,23 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_hoe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Platinum Ingot + 2 Sticks → 1 Platinum Hoe
+> **Crafting (Shaped):** 2 Platinum Ingot + 2 Sticks ➞ 1 Platinum Hoe
 
 #### Platinum Helmet
 
@@ -2720,32 +2720,32 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_helmet.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 5 Platinum Ingot → 1 Platinum Helmet
+> **Crafting (Shaped):** 5 Platinum Ingot ➞ 1 Platinum Helmet
 
 #### Platinum Chestplate
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_chestplate.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
@@ -2759,7 +2759,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 8 Platinum Ingot → 1 Platinum Chestplate
+> **Crafting (Shaped):** 8 Platinum Ingot ➞ 1 Platinum Chestplate
 
 #### Platinum Leggings
 
@@ -2768,46 +2768,46 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_leggings.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 7 Platinum Ingot → 1 Platinum Leggings
+> **Crafting (Shaped):** 7 Platinum Ingot ➞ 1 Platinum Leggings
 
 #### Platinum Boots
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Platinum Ingot → 1 Platinum Boots
+> **Crafting (Shaped):** 4 Platinum Ingot ➞ 1 Platinum Boots
 
 #### Block of Platinum
 
@@ -2816,8 +2816,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/platinum_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/platinum_block.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
@@ -2831,19 +2831,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Platinum Ingot → 1 Block of Platinum
+> **Crafting (Shaped):** 9 Platinum Ingot ➞ 1 Block of Platinum
 
 #### Platinum Ingot from Block (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/platinum_block.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Platinum → 9 Platinum Ingot
+> **Crafting (Shapeless):** 1 Block of Platinum ➞ 9 Platinum Ingot
 
 #### Platinum Ingot from Nuggets
 
@@ -2852,8 +2852,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32"></td>
@@ -2867,19 +2867,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Platinum Nuggets → 1 Platinum Ingot
+> **Crafting (Shaped):** 9 Platinum Nuggets ➞ 1 Platinum Ingot
 
 #### Platinum Nuggets from Ingot (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Platinum Ingot → 9 Platinum Nuggets
+> **Crafting (Shapeless):** 1 Platinum Ingot ➞ 9 Platinum Nuggets
 
 ---
 
@@ -2889,25 +2889,25 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_sword.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Uranium Ingot + 1 Stick → 1 Uranium Sword
+> **Crafting (Shaped):** 2 Uranium Ingot + 1 Stick ➞ 1 Uranium Sword
 
 #### Uranium Pickaxe
 
@@ -2916,22 +2916,22 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Uranium Ingot + 2 Sticks → 1 Uranium Pickaxe
+> **Crafting (Shaped):** 3 Uranium Ingot + 2 Sticks ➞ 1 Uranium Pickaxe
 
 #### Uranium Axe
 
@@ -2939,47 +2939,47 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_axe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Uranium Ingot + 2 Sticks → 1 Uranium Axe
+> **Crafting (Shaped):** 3 Uranium Ingot + 2 Sticks ➞ 1 Uranium Axe
 
 #### Uranium Shovel
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_shovel.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 1 Uranium Ingot + 2 Sticks → 1 Uranium Shovel
+> **Crafting (Shaped):** 1 Uranium Ingot + 2 Sticks ➞ 1 Uranium Shovel
 
 #### Uranium Hoe
 
@@ -2987,23 +2987,23 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_hoe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Uranium Ingot + 2 Sticks → 1 Uranium Hoe
+> **Crafting (Shaped):** 2 Uranium Ingot + 2 Sticks ➞ 1 Uranium Hoe
 
 #### Uranium Helmet
 
@@ -3012,32 +3012,32 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_helmet.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 5 Uranium Ingot → 1 Uranium Helmet
+> **Crafting (Shaped):** 5 Uranium Ingot ➞ 1 Uranium Helmet
 
 #### Uranium Chestplate
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_chestplate.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
@@ -3051,7 +3051,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 8 Uranium Ingot → 1 Uranium Chestplate
+> **Crafting (Shaped):** 8 Uranium Ingot ➞ 1 Uranium Chestplate
 
 #### Uranium Leggings
 
@@ -3060,46 +3060,46 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_leggings.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 7 Uranium Ingot → 1 Uranium Leggings
+> **Crafting (Shaped):** 7 Uranium Ingot ➞ 1 Uranium Leggings
 
 #### Uranium Boots
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Uranium Ingot → 1 Uranium Boots
+> **Crafting (Shaped):** 4 Uranium Ingot ➞ 1 Uranium Boots
 
 #### Block of Uranium
 
@@ -3108,8 +3108,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/uranium_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/uranium_block.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
@@ -3123,19 +3123,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Uranium Ingot → 1 Block of Uranium
+> **Crafting (Shaped):** 9 Uranium Ingot ➞ 1 Block of Uranium
 
 #### Uranium Ingot from Block (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/uranium_block.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Uranium → 9 Uranium Ingot
+> **Crafting (Shapeless):** 1 Block of Uranium ➞ 9 Uranium Ingot
 
 #### Uranium Ingot from Nuggets
 
@@ -3144,8 +3144,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32"></td>
@@ -3159,19 +3159,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Uranium Nuggets → 1 Uranium Ingot
+> **Crafting (Shaped):** 9 Uranium Nuggets ➞ 1 Uranium Ingot
 
 #### Uranium Nuggets from Ingot (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Uranium Ingot → 9 Uranium Nuggets
+> **Crafting (Shapeless):** 1 Uranium Ingot ➞ 9 Uranium Nuggets
 
 ---
 
@@ -3184,32 +3184,32 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_helmet.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 5 Bloodstone → 1 Bloodstone Helmet
+> **Crafting (Shaped):** 5 Bloodstone ➞ 1 Bloodstone Helmet
 
 #### Bloodstone Chestplate
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_chestplate.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
@@ -3223,7 +3223,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 8 Bloodstone → 1 Bloodstone Chestplate
+> **Crafting (Shaped):** 8 Bloodstone ➞ 1 Bloodstone Chestplate
 
 #### Bloodstone Leggings
 
@@ -3232,46 +3232,46 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_leggings.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 7 Bloodstone → 1 Bloodstone Leggings
+> **Crafting (Shaped):** 7 Bloodstone ➞ 1 Bloodstone Leggings
 
 #### Bloodstone Boots
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Bloodstone → 1 Bloodstone Boots
+> **Crafting (Shaped):** 4 Bloodstone ➞ 1 Bloodstone Boots
 
 #### Block of Bloodstone
 
@@ -3280,8 +3280,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_block.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
@@ -3295,19 +3295,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Bloodstone → 1 Block of Bloodstone
+> **Crafting (Shaped):** 9 Bloodstone ➞ 1 Block of Bloodstone
 
 #### Bloodstone from Block (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_block.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Bloodstone → 9 Bloodstone
+> **Crafting (Shapeless):** 1 Block of Bloodstone ➞ 9 Bloodstone
 
 ---
 
@@ -3317,25 +3317,25 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_sword.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Ender Gem + 1 Stick → 1 Ender Sword
+> **Crafting (Shaped):** 2 Ender Gem + 1 Stick ➞ 1 Ender Sword
 
 #### Ender Pickaxe
 
@@ -3344,22 +3344,22 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Ender Gem + 2 Sticks → 1 Ender Pickaxe
+> **Crafting (Shaped):** 3 Ender Gem + 2 Sticks ➞ 1 Ender Pickaxe
 
 #### Ender Axe
 
@@ -3367,47 +3367,47 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_axe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Ender Gem + 2 Sticks → 1 Ender Axe
+> **Crafting (Shaped):** 3 Ender Gem + 2 Sticks ➞ 1 Ender Axe
 
 #### Ender Shovel
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_shovel.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 1 Ender Gem + 2 Sticks → 1 Ender Shovel
+> **Crafting (Shaped):** 1 Ender Gem + 2 Sticks ➞ 1 Ender Shovel
 
 #### Ender Hoe
 
@@ -3415,23 +3415,23 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_hoe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Ender Gem + 2 Sticks → 1 Ender Hoe
+> **Crafting (Shaped):** 2 Ender Gem + 2 Sticks ➞ 1 Ender Hoe
 
 #### Ender Helmet
 
@@ -3440,32 +3440,32 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_helmet.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 5 Ender Gem → 1 Ender Helmet
+> **Crafting (Shaped):** 5 Ender Gem ➞ 1 Ender Helmet
 
 #### Ender Chestplate
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_chestplate.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
@@ -3479,7 +3479,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 8 Ender Gem → 1 Ender Chestplate
+> **Crafting (Shaped):** 8 Ender Gem ➞ 1 Ender Chestplate
 
 #### Ender Leggings
 
@@ -3488,46 +3488,46 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_leggings.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 7 Ender Gem → 1 Ender Leggings
+> **Crafting (Shaped):** 7 Ender Gem ➞ 1 Ender Leggings
 
 #### Ender Boots
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Ender Gem → 1 Ender Boots
+> **Crafting (Shaped):** 4 Ender Gem ➞ 1 Ender Boots
 
 #### Block of Ender
 
@@ -3536,8 +3536,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/ender_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/ender_block.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
@@ -3551,43 +3551,43 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Ender Gem → 1 Block of Ender
+> **Crafting (Shaped):** 9 Ender Gem ➞ 1 Block of Ender
 
 #### Ender Gem from Block (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/ender_block.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Ender → 9 Ender Gem
+> **Crafting (Shapeless):** 1 Block of Ender ➞ 9 Ender Gem
 
 #### Ender Torch
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_torch.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** Ender Gem above Coal above Stick → 8 Ender Torches
+> **Crafting (Shaped):** Ender Gem above Coal above Stick ➞ 8 Ender Torches
 
 ---
 
@@ -3600,8 +3600,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_block.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
@@ -3615,43 +3615,43 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Tasmanite → 1 Block of Tasmanite
+> **Crafting (Shaped):** 9 Tasmanite ➞ 1 Block of Tasmanite
 
 #### Tasmanite from Block (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_block.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Tasmanite → 9 Tasmanite
+> **Crafting (Shapeless):** 1 Block of Tasmanite ➞ 9 Tasmanite
 
 #### Tasmanite Torch
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite_torch.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 1 Tasmanite + 1 Stick → 4 Tasmanite Torches
+> **Crafting (Shaped):** 1 Tasmanite + 1 Stick ➞ 4 Tasmanite Torches
 
 ---
 
@@ -3664,8 +3664,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/opal_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/opal_block.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
@@ -3679,43 +3679,43 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Opal → 1 Block of Opal
+> **Crafting (Shaped):** 9 Opal ➞ 1 Block of Opal
 
 #### Opal from Block (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/opal_block.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Opal → 9 Opal
+> **Crafting (Shapeless):** 1 Block of Opal ➞ 9 Opal
 
 #### Opal Torch
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/opal_torch.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/opal_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** Opal above Coal above Stick → 8 Opal Torches
+> **Crafting (Shaped):** Opal above Coal above Stick ➞ 8 Opal Torches
 
 ---
 
@@ -3725,25 +3725,25 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_sword.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Rose Gold Ingots + 1 Stick → 1 Rose Golden Sword
+> **Crafting (Shaped):** 2 Rose Gold Ingots + 1 Stick ➞ 1 Rose Golden Sword
 
 #### Rose Golden Axe
 
@@ -3751,23 +3751,23 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_axe.png" width="48" height="48"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 3 Rose Gold Ingots + 2 Sticks → 1 Rose Golden Axe
+> **Crafting (Shaped):** 3 Rose Gold Ingots + 2 Sticks ➞ 1 Rose Golden Axe
 
 #### Block of Rose Gold
 
@@ -3776,8 +3776,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_block.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
@@ -3791,19 +3791,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Rose Gold Ingots → 1 Block of Rose Gold
+> **Crafting (Shaped):** 9 Rose Gold Ingots ➞ 1 Block of Rose Gold
 
 #### Rose Gold Ingots from Block (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_block.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Rose Gold → 9 Rose Gold Ingots
+> **Crafting (Shapeless):** 1 Block of Rose Gold ➞ 9 Rose Gold Ingots
 
 #### Rose Gold Ingot from Nuggets
 
@@ -3812,8 +3812,8 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
-<td rowspan="3" align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="48" height="48"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32"></td>
@@ -3827,19 +3827,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Rose Gold Nuggets → 1 Rose Gold Ingot
+> **Crafting (Shaped):** 9 Rose Gold Nuggets ➞ 1 Rose Gold Ingot
 
 #### Rose Gold Nuggets from Ingot (Shapeless)
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">→</span></td>
+<td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="48" height="48"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Rose Gold Ingot → 9 Rose Gold Nuggets
+> **Crafting (Shapeless):** 1 Rose Gold Ingot ➞ 9 Rose Gold Nuggets
 
 ---
 
