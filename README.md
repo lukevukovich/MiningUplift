@@ -1,4 +1,4 @@
-# <img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32"> Mining Uplift - Complete Mod Wiki
+# <img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="40" style="image-rendering: pixelated;"> Mining Uplift - Complete Mod Wiki
 
 > **Mod ID:** `uplift`
 
@@ -76,7 +76,7 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
 
 ### Ruby
 
-<img src="src/main/resources/assets/uplift/textures/blocks/ruby_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/ruby_block.png" width="40"></img> <img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/blocks/ruby_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/ruby_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/ruby_torch.png" width="40" style="image-rendering: pixelated;">
 
 A common red gemstone found in the Overworld and Cave Dimension. Ruby is the most accessible new gem and serves as a good early-game material upgrade.
 
@@ -92,7 +92,7 @@ A common red gemstone found in the Overworld and Cave Dimension. Ruby is the mos
 
 ### Sapphire
 
-<img src="src/main/resources/assets/uplift/textures/blocks/sapphire_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/sapphire_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/blocks/sapphire_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/sapphire_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/sapphire_torch.png" width="40" style="image-rendering: pixelated;">
 
 A blue gemstone found deeper underground. Sapphire tools and armor are a step up from Ruby.
 
@@ -108,7 +108,7 @@ A blue gemstone found deeper underground. Sapphire tools and armor are a step up
 
 ### Tourmaline
 
-<img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_torch.png" width="40" style="image-rendering: pixelated;">
 
 A vibrant gemstone with moderate stats. Tourmaline armor grants a powerful Jump Boost effect.
 
@@ -124,7 +124,7 @@ A vibrant gemstone with moderate stats. Tourmaline armor grants a powerful Jump 
 
 ### Chromium
 
-<img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/chrome_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="40"> 
+<img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/chrome_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="40" style="image-rendering: pixelated;">
 
 A metallic ore smelted into ingots. Chromium has stats similar to Sapphire and grants Speed when worn as a full armor set.
 
@@ -139,7 +139,7 @@ A metallic ore smelted into ingots. Chromium has stats similar to Sapphire and g
 
 ### Obsidian (Shards)
 
-<img src="wiki/wiki_textures/obsidian.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/obsidian_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="40">
+<img src="wiki/wiki_textures/obsidian.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/obsidian_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/obsidian_torch.png" width="40" style="image-rendering: pixelated;">
 
 Obsidian Shards are obtained by processing vanilla Obsidian in the **Smelter**. They can be crafted into extremely durable tools and armor. The Block of Obsidian is incredibly blast-resistant (1200).
 
@@ -152,7 +152,7 @@ Obsidian Shards are obtained by processing vanilla Obsidian in the **Smelter**. 
 
 ### Burning Diamond
 
-<img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_torch.png" width="40" style="image-rendering: pixelated;">
 
 An extremely rare, fiery gem. Burning Diamond ore emits light (level 5), and the block emits even more (level 10). Burning Diamond is also an incredibly powerful **furnace fuel** that smelts **200 items** per unit (25x coal). Burning Diamond Dust is created by processing a vanilla Diamond in the Smelter.
 
@@ -169,21 +169,21 @@ An extremely rare, fiery gem. Burning Diamond ore emits light (level 5), and the
 
 ### Platinum
 
-<img src="src/main/resources/assets/uplift/textures/blocks/platinum_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/platinum_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/blocks/platinum_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/platinum_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="40" style="image-rendering: pixelated;">
 
 The pinnacle of Overworld metals. Platinum is extraordinarily rare and yields the strongest non-specialty tools and armor. Requires a harvest level of 4 (Burning Diamond-tier or higher pickaxe) to mine its ore.
 
 | Property          | Value                      |
 | ----------------- | -------------------------- |
 | Ore Hardness      | 3.0                        |
-| Ore Harvest Level | 4 (Burning Diamond)               |
+| Ore Harvest Level | 4 (Burning Diamond)        |
 | Block Hardness    | 5.0 / Blast Resistance 6.0 |
 
 ---
 
 ### Uranium
 
-<img src="src/main/resources/assets/uplift/textures/blocks/uranium_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/uranium_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/blocks/uranium_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/uranium_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="40" style="image-rendering: pixelated;">
 
 A radioactive metal found high in the world (Y 46-256). Uranium tools and the Uranium Bomb make it a powerful mid-game material.
 
@@ -197,7 +197,7 @@ A radioactive metal found high in the world (Y 46-256). Uranium tools and the Ur
 
 ### Tasmanite
 
-<img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_torch.png" width="40" style="image-rendering: pixelated;">
 
 A luminous mineral found throughout the Overworld. Tasmanite is primarily a fuel source (smelts **12 items**, 1.5x coal) and a crafting component. The Block of Tasmanite emits maximum light (level 15).
 
@@ -213,7 +213,7 @@ A luminous mineral found throughout the Overworld. Tasmanite is primarily a fuel
 
 ### Bloodstone
 
-<img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="40" style="image-rendering: pixelated;">
 
 A dark gem found only in the **Nether**. Bloodstone armor provides constant Instant Health but comes with severe debuffs - a balanced risk/reward armor set.
 
@@ -228,7 +228,7 @@ A dark gem found only in the **Nether**. Bloodstone armor provides constant Inst
 
 ### Ender
 
-<img src="src/main/resources/assets/uplift/textures/blocks/ender_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/ender_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/blocks/ender_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/ender_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/ender_torch.png" width="40" style="image-rendering: pixelated;">
 
 A powerful gem found only in **The End**. Ender tools have the highest durability in the mod (2,450 uses), and the full armor set grants **Flight**.
 Ender gems can be obtained by mining **Ender Ore** in The End or as a rare drop from **Endermen**.
@@ -244,7 +244,7 @@ Ender gems can be obtained by mining **Ender Ore** in The End or as a rare drop 
 
 ### Opal
 
-<img src="src/main/resources/assets/uplift/textures/blocks/opal_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/opal_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/opal.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/blocks/opal_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/opal_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/opal.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/opal_torch.png" width="40" style="image-rendering: pixelated;">
 
 A rare gem found only underground and in the Cave Dimension. Opal currently has no tool or armor set but is highly valuable as **Gem Crusher** input (9 Gem Dust per Opal).
 
@@ -258,7 +258,7 @@ A rare gem found only underground and in the Cave Dimension. Opal currently has 
 
 ### Rose Gold
 
-<img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="40" style="image-rendering: pixelated;">
 
 A lustrous metal found in the Cave Dimension. Rose Gold is used to craft two unique legendary weapons and the powerful Rose Golden Apple. Its weapons have very low durability (100) but extremely high damage.
 
@@ -274,15 +274,15 @@ A lustrous metal found in the Cave Dimension. Rose Gold is used to craft two uni
 
 ### Gem Dust & Gemstone
 
-<img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32"> **Gem Dust** - A fine powder obtained by crushing gems in the **Gem Crusher**. 9 Gem Dust can be crafted into a **Gemstone** block, which is used to build **Cave Portal** frames.
+<img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" style="image-rendering: pixelated;"> **Gem Dust** - A fine powder obtained by crushing gems in the **Gem Crusher**. 9 Gem Dust can be crafted into a **Gemstone** block, which is used to build **Cave Portal** frames.
 
-<img src="src/main/resources/assets/uplift/textures/blocks/gemstone.png" width="32"> **Gemstone** - A glowing block (similar to Glowstone) crafted from 9 Gem Dust. Acts as the portal frame material for the Cave Portal.
+<img src="src/main/resources/assets/uplift/textures/blocks/gemstone.png" width="32" style="image-rendering: pixelated;"> **Gemstone** - A glowing block (similar to Glowstone) crafted from 9 Gem Dust. Acts as the portal frame material for the Cave Portal.
 
 ---
 
 ### Igniter
 
-<img src="src/main/resources/assets/uplift/textures/items/igniter.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/items/igniter.png" width="40" style="image-rendering: pixelated;">
 
 A special tool crafted from a Burning Diamond and Flint & Steel. It has **200 durability** and serves three special purposes:
 
@@ -297,7 +297,7 @@ A special tool crafted from a Burning Diamond and Flint & Steel. It has **200 du
 
 ### Mine Bomb
 
-<img src="src/main/resources/assets/uplift/textures/items/mine_bomb.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/items/mine_bomb.png" width="40" style="image-rendering: pixelated;">
 
 A throwable explosive (max stack: 4). On impact, it creates a column of **power-4** explosions from the impact point all the way down to **Y=0 (bedrock)**. Ideal for strip-mining entire columns.
 
@@ -305,7 +305,7 @@ A throwable explosive (max stack: 4). On impact, it creates a column of **power-
 
 ### Uranium Bomb
 
-<img src="src/main/resources/assets/uplift/textures/items/uranium_bomb.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/items/uranium_bomb.png" width="40" style="image-rendering: pixelated;">
 
 A devastating throwable explosive (max stack: 4). On impact, it creates **power-20** explosions in a 5-block deep column. Far more destructive than the Mine Bomb but limited in vertical range.
 
@@ -313,7 +313,7 @@ A devastating throwable explosive (max stack: 4). On impact, it creates **power-
 
 ### Burning Diamond Dust
 
-<img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="40" style="image-rendering: pixelated;">
 
 Obtained by processing a vanilla Diamond in the Smelter. Four Burning Diamond Dust can be crafted into a Burning Diamond.
 
@@ -321,15 +321,15 @@ Obtained by processing a vanilla Diamond in the Smelter. Four Burning Diamond Du
 
 ### Stone Meal & Stone Soup
 
-<img src="src/main/resources/assets/uplift/textures/items/stone_meal.png" width="32"> **Stone Meal** - Dropped by the Stoneman entity (0-1 per kill). Used to craft Stone Soup.
+<img src="src/main/resources/assets/uplift/textures/items/stone_meal.png" width="32" style="image-rendering: pixelated;"> **Stone Meal** - Dropped by the Stoneman entity (0-1 per kill). Used to craft Stone Soup.
 
-<img src="src/main/resources/assets/uplift/textures/items/stone_soup.png" width="32"> **Stone Soup** - A food item restoring **6 hunger** and **0.8 saturation**. Returns a Bowl when consumed in Survival mode. Max stack: 1.
+<img src="src/main/resources/assets/uplift/textures/items/stone_soup.png" width="32" style="image-rendering: pixelated;"> **Stone Soup** - A food item restoring **6 hunger** and **0.8 saturation**. Returns a Bowl when consumed in Survival mode. Max stack: 1.
 
 ---
 
 ### Rose Golden Apple
 
-<img src="src/main/resources/assets/uplift/textures/items/rose_golden_apple.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/items/rose_golden_apple.png" width="40" style="image-rendering: pixelated;">
 
 An incredibly powerful food with the following effects:
 
@@ -440,7 +440,7 @@ Durability = Durability Factor x Base (Boots: 27, Leggings: 30, Chestplate: 35, 
 
 ### Gem Crusher
 
-<img src="wiki/wiki_textures/gem_crusher.png" width="40">
+<img src="wiki/wiki_textures/gem_crusher.png" width="40" style="image-rendering: pixelated;">
 
 A functional block that converts gems and materials into **Gem Dust** when right-clicked with a valid item in your main hand. No fuel is required - simply hold the item and interact.
 
@@ -465,7 +465,7 @@ A functional block that converts gems and materials into **Gem Dust** when right
 
 ### Smelter
 
-<img src="src/main/resources/assets/uplift/textures/blocks/smelter_front.png" width="40"> 
+<img src="src/main/resources/assets/uplift/textures/blocks/smelter_front.png" width="40" style="image-rendering: pixelated;">
 
 A specialized furnace made from **Obsidian**. The Smelter must be **lit with an Igniter** (costs 50 durability) to function. It processes ores and materials using the custom `uplift:uplift` recipe type - recipes not available in normal furnaces.
 
@@ -496,14 +496,14 @@ A special orange-red fire placed by the Igniter. Deals different damage dependin
 
 Custom colored torches crafted with the resource on top of Coal on top of a Stick. Each torch emits **light level 14**. Available variants:
 
-- <img src="src/main/resources/assets/uplift/textures/items/ruby_torch.png" width="28"> Ruby Torch
-- <img src="src/main/resources/assets/uplift/textures/items/burning_diamond_torch.png" width="28"> Burning Diamond Torch
-- <img src="src/main/resources/assets/uplift/textures/items/sapphire_torch.png" width="28"> Sapphire Torch
-- <img src="src/main/resources/assets/uplift/textures/items/tourmaline_torch.png" width="28"> Tourmaline Torch
-- <img src="src/main/resources/assets/uplift/textures/items/obsidian_torch.png" width="28"> Obsidian Torch
-- <img src="src/main/resources/assets/uplift/textures/items/ender_torch.png" width="28"> Ender Torch
-- <img src="src/main/resources/assets/uplift/textures/items/opal_torch.png" width="28"> Opal Torch
-- <img src="src/main/resources/assets/uplift/textures/items/tasmanite_torch.png" width="28"> Tasmanite Torch (crafted differently - see [Crafting](#tasmanite-torch))
+- <img src="src/main/resources/assets/uplift/textures/items/ruby_torch.png" width="28" style="image-rendering: pixelated;"> Ruby Torch
+- <img src="src/main/resources/assets/uplift/textures/items/burning_diamond_torch.png" width="28" style="image-rendering: pixelated;"> Burning Diamond Torch
+- <img src="src/main/resources/assets/uplift/textures/items/sapphire_torch.png" width="28" style="image-rendering: pixelated;"> Sapphire Torch
+- <img src="src/main/resources/assets/uplift/textures/items/tourmaline_torch.png" width="28" style="image-rendering: pixelated;"> Tourmaline Torch
+- <img src="src/main/resources/assets/uplift/textures/items/obsidian_torch.png" width="28" style="image-rendering: pixelated;"> Obsidian Torch
+- <img src="src/main/resources/assets/uplift/textures/items/ender_torch.png" width="28" style="image-rendering: pixelated;"> Ender Torch
+- <img src="src/main/resources/assets/uplift/textures/items/opal_torch.png" width="28" style="image-rendering: pixelated;"> Opal Torch
+- <img src="src/main/resources/assets/uplift/textures/items/tasmanite_torch.png" width="28" style="image-rendering: pixelated;"> Tasmanite Torch (crafted differently - see [Crafting](#tasmanite-torch))
 
 All torches can be placed on walls (wall torch variant included).
 
@@ -543,7 +543,7 @@ The Cave Dimension ("The Cave") is a custom underground dimension consisting ent
 
 A portal block built from a **Gemstone** frame (just like a Nether Portal frame is made of Obsidian). The portal supports variable sizes from 2x3 to 21x21 and is activated with the **Igniter** (costs 100 durability).
 
-<img src="wiki/wiki_textures/cave_portal.png" width="250">
+<img src="wiki/wiki_textures/cave_portal.png" width="250" style="image-rendering: auto;">
 
 **How to build:**
 
@@ -566,55 +566,55 @@ A portal block built from a **Gemstone** frame (just like a Nether Portal frame 
 
 ### Overworld Ores
 
-| Ore                 | Veins/Chunk | Vein Size | Y Range | Harvest Level |
-| ------------------- | ----------- | --------- | ------- | ------------- |
-| Ruby Ore            | 22          | 10        | 0-64    | 1 (Stone)     |
-| Sapphire Ore        | 6           | 8         | 0-32    | 2 (Iron)      |
-| Chromium Ore        | 6           | 8         | 0-32    | 2 (Iron)      |
-| Tourmaline Ore      | 6           | 8         | 0-32    | 2 (Iron)      |
-| Platinum Ore        | 1           | 4         | 0-8     | 4 (Platinum)  |
-| Burning Diamond Ore | 1           | 4         | 0-12    | 3 (Diamond)   |
-| Tasmanite Ore       | 12          | 8         | 0-128   | 2 (Iron)      |
-| Opal Ore            | 1           | 6         | 0-24    | 3 (Diamond)   |
-| Uranium Ore         | 4           | 6         | 46-256  | 3 (Diamond)   |
+|                                                                                                                                     | Ore                 | Veins/Chunk | Vein Size | Y Range | Harvest Level |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ----------- | --------- | ------- | ------------- |
+| <img src="src/main/resources/assets/uplift/textures/blocks/ruby_ore.png" width="28" style="image-rendering: pixelated;">            | Ruby Ore            | 22          | 10        | 0-64    | 1 (Stone)     |
+| <img src="src/main/resources/assets/uplift/textures/blocks/sapphire_ore.png" width="28" style="image-rendering: pixelated;">        | Sapphire Ore        | 6           | 8         | 0-32    | 2 (Iron)      |
+| <img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="28" style="image-rendering: pixelated;">          | Chromium Ore        | 6           | 8         | 0-32    | 2 (Iron)      |
+| <img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_ore.png" width="28" style="image-rendering: pixelated;">      | Tourmaline Ore      | 6           | 8         | 0-32    | 2 (Iron)      |
+| <img src="src/main/resources/assets/uplift/textures/blocks/platinum_ore.png" width="28" style="image-rendering: pixelated;">        | Platinum Ore        | 1           | 4         | 0-8     | 4 (Platinum)  |
+| <img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_ore.png" width="28" style="image-rendering: pixelated;"> | Burning Diamond Ore | 1           | 4         | 0-12    | 3 (Diamond)   |
+| <img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_ore.png" width="28" style="image-rendering: pixelated;">       | Tasmanite Ore       | 12          | 8         | 0-128   | 2 (Iron)      |
+| <img src="src/main/resources/assets/uplift/textures/blocks/opal_ore.png" width="28" style="image-rendering: pixelated;">            | Opal Ore            | 1           | 6         | 0-24    | 3 (Diamond)   |
+| <img src="src/main/resources/assets/uplift/textures/blocks/uranium_ore.png" width="28" style="image-rendering: pixelated;">         | Uranium Ore         | 4           | 6         | 46-256  | 3 (Diamond)   |
 
 ### Nether Ores
 
-| Ore            | Veins/Chunk | Vein Size | Y Range | Replaces   |
-| -------------- | ----------- | --------- | ------- | ---------- |
-| Bloodstone Ore | 8           | 8         | 0-128   | Netherrack |
+|                                                                                                                                | Ore            | Veins/Chunk | Vein Size | Y Range | Found In   |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------------- | ----------- | --------- | ------- | ---------- |
+| <img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_ore.png" width="28" style="image-rendering: pixelated;"> | Bloodstone Ore | 8           | 8         | 0-128   | Netherrack |
 
 ### End Ores
 
-| Ore       | Veins/Chunk | Vein Size | Y Range | Replaces  |
-| --------- | ----------- | --------- | ------- | --------- |
-| Ender Ore | 32          | 12        | 0-256   | End Stone |
+|                                                                                                                           | Ore       | Veins/Chunk | Vein Size | Y Range | Found In  |
+| ------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --------- | ------- | --------- |
+| <img src="src/main/resources/assets/uplift/textures/blocks/ender_ore.png" width="28" style="image-rendering: pixelated;"> | Ender Ore | 32          | 12        | 0-256   | End Stone |
 
 ### Cave Dimension Ores
 
 The Cave Dimension has dramatically increased ore rates. All ores generate between Y 0-70.
 
-| Ore                    | Veins/Chunk | Vein Size |
-| ---------------------- | ----------- | --------- |
-| Ruby Ore               | 30          | 10        |
-| Sapphire Ore           | 14          | 8         |
-| Chromium Ore           | 14          | 8         |
-| Tourmaline Ore         | 14          | 8         |
-| Platinum Ore           | 3           | 4         |
-| Burning Diamond Ore    | 2           | 4         |
-| Tasmanite Ore          | 20          | 10        |
-| Opal Ore               | 6           | 6         |
-| Rose Gold Ore          | 14          | 6         |
-| Uranium Ore            | 6           | 8         |
-| Gemstone               | 10          | 8         |
-| Coal Ore (vanilla)     | 50          | 14        |
-| Iron Ore (vanilla)     | 26          | 10        |
-| Gold Ore (vanilla)     | 12          | 8         |
-| Diamond Ore (vanilla)  | 3           | 8         |
-| Emerald Ore (vanilla)  | 4           | 6         |
-| Lapis Ore (vanilla)    | 12          | 8         |
-| Redstone Ore (vanilla) | 12          | 10        |
-| Obsidian (vanilla)     | 12          | 10        |
+|                                                                                                                                     | Ore                    | Veins/Chunk | Vein Size |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------- | --------- |
+| <img src="src/main/resources/assets/uplift/textures/blocks/ruby_ore.png" width="28" style="image-rendering: pixelated;">            | Ruby Ore               | 30          | 10        |
+| <img src="src/main/resources/assets/uplift/textures/blocks/sapphire_ore.png" width="28" style="image-rendering: pixelated;">        | Sapphire Ore           | 14          | 8         |
+| <img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="28" style="image-rendering: pixelated;">          | Chromium Ore           | 14          | 8         |
+| <img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_ore.png" width="28" style="image-rendering: pixelated;">      | Tourmaline Ore         | 14          | 8         |
+| <img src="src/main/resources/assets/uplift/textures/blocks/platinum_ore.png" width="28" style="image-rendering: pixelated;">        | Platinum Ore           | 3           | 4         |
+| <img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_ore.png" width="28" style="image-rendering: pixelated;"> | Burning Diamond Ore    | 2           | 4         |
+| <img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_ore.png" width="28" style="image-rendering: pixelated;">       | Tasmanite Ore          | 20          | 10        |
+| <img src="src/main/resources/assets/uplift/textures/blocks/opal_ore.png" width="28" style="image-rendering: pixelated;">            | Opal Ore               | 6           | 6         |
+| <img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_ore.png" width="28" style="image-rendering: pixelated;">       | Rose Gold Ore          | 14          | 6         |
+| <img src="src/main/resources/assets/uplift/textures/blocks/uranium_ore.png" width="28" style="image-rendering: pixelated;">         | Uranium Ore            | 6           | 8         |
+| <img src="src/main/resources/assets/uplift/textures/blocks/gemstone.png" width="28" style="image-rendering: pixelated;">            | Gemstone               | 10          | 8         |
+| <img src="wiki/wiki_textures/coal_ore.png" width="28" style="image-rendering: pixelated;">                                          | Coal Ore (vanilla)     | 50          | 14        |
+| <img src="wiki/wiki_textures/iron_ore.png" width="28" style="image-rendering: pixelated;">                                          | Iron Ore (vanilla)     | 26          | 10        |
+| <img src="wiki/wiki_textures/gold_ore.png" width="28" style="image-rendering: pixelated;">                                          | Gold Ore (vanilla)     | 12          | 8         |
+| <img src="wiki/wiki_textures/diamond_ore.png" width="28" style="image-rendering: pixelated;">                                       | Diamond Ore (vanilla)  | 3           | 8         |
+| <img src="wiki/wiki_textures/emerald_ore.png" width="28" style="image-rendering: pixelated;">                                       | Emerald Ore (vanilla)  | 4           | 6         |
+| <img src="wiki/wiki_textures/lapis_ore.png" width="28" style="image-rendering: pixelated;">                                         | Lapis Ore (vanilla)    | 12          | 8         |
+| <img src="wiki/wiki_textures/redstone_ore.png" width="28" style="image-rendering: pixelated;">                                      | Redstone Ore (vanilla) | 12          | 10        |
+| <img src="wiki/wiki_textures/obsidian.png" width="28" style="image-rendering: pixelated;">                                          | Obsidian (vanilla)     | 10          | 8         |
 
 > **Note:** Rose Gold Ore spawns **only** in the Cave Dimension.
 
@@ -640,7 +640,7 @@ A hostile mob that spawns in the **Cave Dimension**. Resembles a zombie-like cre
 **Special Behaviors:**
 
 - **Immune to fall damage**
-- **Cannot see invisible players** - Invisibility potion completely hides you
+- **Cannot see invisible players** - Invisibility potion completely hides you (use the Rose Golden Axe!)
 - Uses Villager sounds (ambient, hurt, death)
 - Does not spawn on Peaceful difficulty
 
@@ -659,7 +659,7 @@ A hostile mob that spawns in the **Cave Dimension**. Resembles a zombie-like cre
 
 ### Flight
 
-<img src="src/main/resources/assets/uplift/textures/mob_effect/flight.png" width="40">
+<img src="src/main/resources/assets/uplift/textures/mob_effect/flight.png" width="40" style="image-rendering: pixelated;">
 
 Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
@@ -679,21 +679,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="wiki/wiki_textures/gem_crusher.png" width="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="wiki/wiki_textures/gem_crusher.png" width="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -705,21 +705,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/smelter_front_unlit.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/smelter_front_unlit.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -731,33 +731,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/gemstone.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/gemstone.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Gem Dust ➞ 1 Gemstone
 
-#### Gem Dust from Gemstone (Shapeless)
+#### Gem Dust from Gemstone
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/gemstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/gemstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -769,10 +769,10 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/flint_and_steel.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/flint_and_steel.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/igniter.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/igniter.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -784,21 +784,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/mine_bomb.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/mine_bomb.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/gunpowder.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/gunpowder.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -810,21 +810,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_bomb.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_bomb.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/gunpowder.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/gunpowder.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -836,10 +836,10 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/stone_meal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/bowl.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/stone_meal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/bowl.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/stone_soup.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/stone_soup.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -851,21 +851,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_golden_apple.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_golden_apple.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/golden_apple.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/golden_apple.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -877,21 +877,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -905,21 +905,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_sword.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_sword.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -929,21 +929,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_pickaxe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -953,21 +953,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_axe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_axe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -977,21 +977,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_shovel.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_shovel.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1001,21 +1001,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_hoe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_hoe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1025,21 +1025,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_helmet.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1049,21 +1049,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_chestplate.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1073,21 +1073,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_leggings.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1097,21 +1097,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_boots.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1121,33 +1121,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/ruby_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/ruby_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Ruby ➞ 1 Block of Ruby
 
-#### Ruby from Block (Shapeless)
+#### Ruby from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/ruby_block.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/ruby_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1157,21 +1157,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_torch.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_torch.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1185,21 +1185,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_sword.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_sword.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1209,21 +1209,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_pickaxe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1233,21 +1233,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_axe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_axe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1257,21 +1257,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_shovel.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_shovel.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1281,21 +1281,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_hoe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_hoe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1305,21 +1305,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_helmet.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1329,21 +1329,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_chestplate.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1353,21 +1353,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_leggings.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1377,21 +1377,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_boots.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1401,33 +1401,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/sapphire_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/sapphire_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Sapphire ➞ 1 Block of Sapphire
 
-#### Sapphire from Block (Shapeless)
+#### Sapphire from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/sapphire_block.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/sapphire_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1437,21 +1437,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_torch.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_torch.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1465,21 +1465,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_sword.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_sword.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1489,21 +1489,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_pickaxe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1513,21 +1513,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_axe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_axe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1537,21 +1537,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_shovel.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_shovel.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1561,21 +1561,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_hoe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_hoe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1585,21 +1585,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_helmet.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1609,21 +1609,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_chestplate.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1633,21 +1633,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_leggings.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1657,21 +1657,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_boots.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1681,33 +1681,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Tourmaline ➞ 1 Block of Tourmaline
 
-#### Tourmaline from Block (Shapeless)
+#### Tourmaline from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1717,21 +1717,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_torch.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_torch.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1745,21 +1745,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_sword.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_sword.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1769,21 +1769,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_pickaxe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1793,21 +1793,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_axe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_axe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1817,21 +1817,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_shovel.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_shovel.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1841,21 +1841,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_hoe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_hoe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1865,21 +1865,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_helmet.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1889,21 +1889,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_chestplate.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1913,21 +1913,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_leggings.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1937,21 +1937,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_boots.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1961,33 +1961,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/chrome_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/chrome_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Chromium Ingot ➞ 1 Block of Chromium
 
-#### Chromium Ingot from Block (Shapeless)
+#### Chromium Ingot from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/chrome_block.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/chrome_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -1997,33 +1997,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Chromium Nuggets ➞ 1 Chromium Ingot
 
-#### Chromium Nuggets from Ingot (Shapeless)
+#### Chromium Nuggets from Ingot
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2037,21 +2037,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_sword.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_sword.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2061,21 +2061,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_pickaxe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2085,21 +2085,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_axe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_axe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2109,21 +2109,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shovel.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shovel.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2133,21 +2133,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_hoe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_hoe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2157,21 +2157,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_helmet.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2181,21 +2181,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_chestplate.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2205,21 +2205,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_leggings.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2229,21 +2229,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_boots.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2253,33 +2253,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/obsidian_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/obsidian_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Obsidian Shard ➞ 1 Block of Obsidian
 
-#### Obsidian Shard from Block (Shapeless)
+#### Obsidian Shard from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/obsidian_block.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/obsidian_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2289,21 +2289,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_torch.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_torch.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2317,21 +2317,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_sword.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_sword.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2341,21 +2341,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_pickaxe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2365,21 +2365,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_axe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_axe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2389,21 +2389,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_shovel.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_shovel.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2413,21 +2413,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_hoe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_hoe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2437,21 +2437,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_helmet.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2461,21 +2461,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_chestplate.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2485,21 +2485,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_leggings.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2509,21 +2509,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_boots.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2533,33 +2533,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Burning Diamond ➞ 1 Block of Burning Diamond
 
-#### Burning Diamond from Block (Shapeless)
+#### Burning Diamond from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_block.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2569,21 +2569,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_torch.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_torch.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2597,21 +2597,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_sword.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_sword.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2621,21 +2621,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_pickaxe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2645,21 +2645,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_axe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_axe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2669,21 +2669,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_shovel.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_shovel.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2693,21 +2693,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_hoe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_hoe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2717,21 +2717,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_helmet.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2741,21 +2741,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_chestplate.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2765,21 +2765,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_leggings.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2789,21 +2789,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_boots.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2813,33 +2813,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/platinum_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/platinum_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Platinum Ingot ➞ 1 Block of Platinum
 
-#### Platinum Ingot from Block (Shapeless)
+#### Platinum Ingot from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/platinum_block.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/platinum_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2849,33 +2849,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Platinum Nuggets ➞ 1 Platinum Ingot
 
-#### Platinum Nuggets from Ingot (Shapeless)
+#### Platinum Nuggets from Ingot
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2889,21 +2889,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_sword.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_sword.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2913,21 +2913,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_pickaxe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2937,21 +2937,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_axe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_axe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2961,21 +2961,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_shovel.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_shovel.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -2985,21 +2985,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_hoe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_hoe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3009,21 +3009,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_helmet.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3033,21 +3033,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_chestplate.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3057,21 +3057,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_leggings.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3081,21 +3081,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_boots.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3105,33 +3105,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/uranium_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/uranium_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Uranium Ingot ➞ 1 Block of Uranium
 
-#### Uranium Ingot from Block (Shapeless)
+#### Uranium Ingot from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/uranium_block.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/uranium_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3141,33 +3141,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Uranium Nuggets ➞ 1 Uranium Ingot
 
-#### Uranium Nuggets from Ingot (Shapeless)
+#### Uranium Nuggets from Ingot
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3181,21 +3181,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_helmet.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3205,21 +3205,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_chestplate.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3229,21 +3229,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_leggings.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3253,21 +3253,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_boots.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3277,33 +3277,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Bloodstone ➞ 1 Block of Bloodstone
 
-#### Bloodstone from Block (Shapeless)
+#### Bloodstone from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_block.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3317,21 +3317,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_sword.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_sword.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3341,21 +3341,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_pickaxe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_pickaxe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3365,21 +3365,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_axe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_axe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3389,21 +3389,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_shovel.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_shovel.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3413,21 +3413,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_hoe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_hoe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3437,21 +3437,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_helmet.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_helmet.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3461,21 +3461,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_chestplate.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_chestplate.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3485,21 +3485,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_leggings.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_leggings.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3509,21 +3509,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_boots.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_boots.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3533,33 +3533,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/ender_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/ender_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Ender Gem ➞ 1 Block of Ender
 
-#### Ender Gem from Block (Shapeless)
+#### Ender Gem from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/ender_block.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/ender_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3569,21 +3569,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_torch.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_torch.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3597,33 +3597,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Tasmanite ➞ 1 Block of Tasmanite
 
-#### Tasmanite from Block (Shapeless)
+#### Tasmanite from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_block.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3633,21 +3633,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite_torch.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite_torch.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3661,33 +3661,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/opal_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/opal_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Opal ➞ 1 Block of Opal
 
-#### Opal from Block (Shapeless)
+#### Opal from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/opal_block.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/opal_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3697,21 +3697,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/opal_torch.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/opal_torch.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3725,21 +3725,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_sword.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_sword.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3749,21 +3749,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_axe.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_axe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt=""></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3773,33 +3773,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_block.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Rose Gold Ingots ➞ 1 Block of Rose Gold
 
-#### Rose Gold Ingots from Block (Shapeless)
+#### Rose Gold Ingots from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_block.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3809,33 +3809,33 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="48" height="48"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
 > **Crafting (Shaped):** 9 Rose Gold Nuggets ➞ 1 Rose Gold Ingot
 
-#### Rose Gold Nuggets from Ingot (Shapeless)
+#### Rose Gold Nuggets from Ingot
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
@@ -3851,28 +3851,28 @@ These recipes use a standard **Furnace** (vanilla mechanics — use coal/charcoa
 
 | Input                                                                                               | Output                                                                                                       | XP  | Cook Time |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --- | --------- |
-| <img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="16"> Chromium Ore | <img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="16"> Chromium Ingot       | 0.7 | 200 ticks |
-| Platinum Tools/Armor                                                                                | <img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="16"> Platinum Nugget   | 1.0 | 400 ticks |
-| Chromium Tools/Armor                                                                                | <img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="16"> Chromium Nugget     | 0.7 | 200 ticks |
-| Rose Gold Tools/Armor                                                                               | <img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="16"> Rose Gold Nugget | 0.8 | 200 ticks |
-| Uranium Tools/Armor                                                                                 | <img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="16"> Uranium Nugget     | 0.7 | 200 ticks |
+| <img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="28" style="image-rendering: pixelated;"> Chromium Ore | <img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="28" style="image-rendering: pixelated;"> Chromium Ingot       | 0.7 | 200 ticks |
+| Platinum Tools/Armor                                                                                | <img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="28" style="image-rendering: pixelated;"> Platinum Nugget   | 1.0 | 400 ticks |
+| Chromium Tools/Armor                                                                                | <img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="28" style="image-rendering: pixelated;"> Chromium Nugget     | 0.7 | 200 ticks |
+| Rose Gold Tools/Armor                                                                               | <img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="28" style="image-rendering: pixelated;"> Rose Gold Nugget | 0.8 | 200 ticks |
+| Uranium Tools/Armor                                                                                 | <img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="28" style="image-rendering: pixelated;"> Uranium Nugget     | 0.7 | 200 ticks |
 
 ---
 
 ### Smelter Recipes
 
-These recipes use the custom <img src="src/main/resources/assets/uplift/textures/blocks/smelter_front.png" width="16"> **Smelter** block (must be lit with an Igniter). The Smelter stays lit for **200 smelts**.
+These recipes use the custom <img src="src/main/resources/assets/uplift/textures/blocks/smelter_front.png" width="28" style="image-rendering: pixelated;"> **Smelter** block (must be lit with an Igniter). The Smelter stays lit for **200 smelts**.
 
 | Input                                                                                                   | Output                                                                                                       | XP  | Cook Time |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --- | --------- |
-| <img src="wiki/wiki_textures/diamond.png" width="16"> Diamond                                           | <img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="16"> Burning Diamond Dust | 3   | 150 ticks |
-| <img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="16"> Chromium Ore     | <img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="16"> Chromium Ingot       | 1   | 150 ticks |
-| <img src="wiki/wiki_textures/gold_ore.png" width="16"> Gold Ore                                         | <img src="wiki/wiki_textures/gold_ingot.png" width="16"> Gold Ingot                                          | 1   | 150 ticks |
-| <img src="wiki/wiki_textures/iron_ore.png" width="16"> Iron Ore                                         | <img src="wiki/wiki_textures/iron_ingot.png" width="16"> Iron Ingot                                          | 1   | 150 ticks |
-| <img src="wiki/wiki_textures/obsidian.png" width="16"> Obsidian                                         | <img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="16"> Obsidian Shard     | 2   | 150 ticks |
-| <img src="src/main/resources/assets/uplift/textures/blocks/platinum_ore.png" width="16"> Platinum Ore   | <img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="16"> Platinum Ingot     | 3   | 150 ticks |
-| <img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_ore.png" width="16"> Rose Gold Ore | <img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="16"> Rose Gold Ingot   | 2   | 150 ticks |
-| <img src="src/main/resources/assets/uplift/textures/blocks/uranium_ore.png" width="16"> Uranium Ore     | <img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="16"> Uranium Ingot       | 2   | 150 ticks |
+| <img src="wiki/wiki_textures/diamond.png" width="28" style="image-rendering: pixelated;"> Diamond                                           | <img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="28" style="image-rendering: pixelated;"> Burning Diamond Dust | 3   | 150 ticks |
+| <img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="28" style="image-rendering: pixelated;"> Chromium Ore     | <img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="28" style="image-rendering: pixelated;"> Chromium Ingot       | 1   | 150 ticks |
+| <img src="wiki/wiki_textures/gold_ore.png" width="28" style="image-rendering: pixelated;"> Gold Ore                                         | <img src="wiki/wiki_textures/gold_ingot.png" width="28" style="image-rendering: pixelated;"> Gold Ingot                                          | 1   | 150 ticks |
+| <img src="wiki/wiki_textures/iron_ore.png" width="28" style="image-rendering: pixelated;"> Iron Ore                                         | <img src="wiki/wiki_textures/iron_ingot.png" width="28" style="image-rendering: pixelated;"> Iron Ingot                                          | 1   | 150 ticks |
+| <img src="wiki/wiki_textures/obsidian.png" width="28" style="image-rendering: pixelated;"> Obsidian                                         | <img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="28" style="image-rendering: pixelated;"> Obsidian Shard     | 2   | 150 ticks |
+| <img src="src/main/resources/assets/uplift/textures/blocks/platinum_ore.png" width="28" style="image-rendering: pixelated;"> Platinum Ore   | <img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="28" style="image-rendering: pixelated;"> Platinum Ingot     | 3   | 150 ticks |
+| <img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_ore.png" width="28" style="image-rendering: pixelated;"> Rose Gold Ore | <img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="28" style="image-rendering: pixelated;"> Rose Gold Ingot   | 2   | 150 ticks |
+| <img src="src/main/resources/assets/uplift/textures/blocks/uranium_ore.png" width="28" style="image-rendering: pixelated;"> Uranium Ore     | <img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="28" style="image-rendering: pixelated;"> Uranium Ingot       | 2   | 150 ticks |
 
 ---
 
