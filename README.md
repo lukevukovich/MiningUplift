@@ -336,7 +336,7 @@ An incredibly powerful food with the following effects:
 | Effect          | Duration | Amplifier |
 | --------------- | -------- | --------- |
 | Absorption      | 4 min    | 0         |
-| Regeneration    | 20 sec   | II        |
+| Regeneration    | 20 sec   | 2         |
 | Fire Resistance | 2 min    | 0         |
 | Resistance      | 2 min    | 0         |
 
