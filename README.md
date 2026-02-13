@@ -1,7 +1,6 @@
 # <img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32"> Mining Uplift - Complete Mod Wiki
 
 > **Mod ID:** `uplift`
-> **Creative Tab:** Mining Uplift
 
 Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full tool and armor sets with unique set bonus effects, a custom **Smelter** furnace, a **Gem Crusher** block, throwable **Mine Bombs**, a new **Cave Dimension** accessed through a **Cave Portal**, and a hostile **Stoneman** entity. This wiki documents every feature, item, block, recipe, and mechanic added by the mod.
 
@@ -37,10 +36,10 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
 - [Special Blocks](#special-blocks)
   - [Gem Crusher](#gem-crusher)
   - [Smelter](#smelter)
-  - [Cave Portal](#cave-portal)
   - [Igniter Fire](#igniter-fire)
   - [Gem Torches](#gem-torches)
 - [The Cave Dimension](#the-cave-dimension)
+  - [Cave Portal](#cave-portal)
 - [Ore Generation](#ore-generation)
   - [Overworld Ores](#overworld-ores)
   - [Nether Ores](#nether-ores)
@@ -77,7 +76,7 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
 
 ### Ruby
 
-<img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32"> **Ruby**
+<img src="src/main/resources/assets/uplift/textures/blocks/ruby_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/ruby_block.png" width="40"></img> <img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="40">
 
 A common red gemstone found in the Overworld and Cave Dimension. Ruby is the most accessible new gem and serves as a good early-game material upgrade.
 
@@ -93,7 +92,7 @@ A common red gemstone found in the Overworld and Cave Dimension. Ruby is the mos
 
 ### Sapphire
 
-<img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32"> **Sapphire**
+<img src="src/main/resources/assets/uplift/textures/blocks/sapphire_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/sapphire_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="40">
 
 A blue gemstone found deeper underground. Sapphire tools and armor are a step up from Ruby.
 
@@ -109,7 +108,7 @@ A blue gemstone found deeper underground. Sapphire tools and armor are a step up
 
 ### Tourmaline
 
-<img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32"> **Tourmaline**
+<img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="40">
 
 A vibrant gemstone with moderate stats. Tourmaline armor grants a powerful Jump Boost effect.
 
@@ -125,7 +124,7 @@ A vibrant gemstone with moderate stats. Tourmaline armor grants a powerful Jump 
 
 ### Chromium
 
-<img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32"> **Chromium Ingot** / <img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="32"> **Chromium Nugget**
+<img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/chrome_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="40"> 
 
 A metallic ore smelted into ingots. Chromium has stats similar to Sapphire and grants Speed when worn as a full armor set.
 
@@ -140,7 +139,7 @@ A metallic ore smelted into ingots. Chromium has stats similar to Sapphire and g
 
 ### Obsidian (Shards)
 
-<img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32"> **Obsidian Shard**
+<img src="wiki/wiki_textures/obsidian.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/obsidian_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="40">
 
 Obsidian Shards are obtained by processing vanilla Obsidian in the **Smelter**. They can be crafted into extremely durable tools and armor. The Block of Obsidian is incredibly blast-resistant (1200).
 
@@ -153,7 +152,7 @@ Obsidian Shards are obtained by processing vanilla Obsidian in the **Smelter**. 
 
 ### Burning Diamond
 
-<img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32"> **Burning Diamond** / <img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32"> **Burning Diamond Dust**
+<img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="40">
 
 An extremely rare, fiery gem. Burning Diamond ore emits light (level 5), and the block emits even more (level 10). Burning Diamond is also an incredibly powerful **furnace fuel** that smelts **200 items** per unit (25x coal). Burning Diamond Dust is created by processing a vanilla Diamond in the Smelter.
 
@@ -170,21 +169,21 @@ An extremely rare, fiery gem. Burning Diamond ore emits light (level 5), and the
 
 ### Platinum
 
-<img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32"> **Platinum Ingot** / <img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="32"> **Platinum Nugget**
+<img src="src/main/resources/assets/uplift/textures/blocks/platinum_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/platinum_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="40">
 
-The pinnacle of Overworld metals. Platinum is extraordinarily rare and yields the strongest non-specialty tools and armor. Requires a harvest level of 4 (Platinum-tier or higher pickaxe) to mine its ore.
+The pinnacle of Overworld metals. Platinum is extraordinarily rare and yields the strongest non-specialty tools and armor. Requires a harvest level of 4 (Burning Diamond-tier or higher pickaxe) to mine its ore.
 
 | Property          | Value                      |
 | ----------------- | -------------------------- |
 | Ore Hardness      | 3.0                        |
-| Ore Harvest Level | 4 (Platinum)               |
+| Ore Harvest Level | 4 (Burning Diamond)               |
 | Block Hardness    | 5.0 / Blast Resistance 6.0 |
 
 ---
 
 ### Uranium
 
-<img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32"> **Uranium Ingot** / <img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="32"> **Uranium Nugget**
+<img src="src/main/resources/assets/uplift/textures/blocks/uranium_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/uranium_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="40">
 
 A radioactive metal found high in the world (Y 46-256). Uranium tools and the Uranium Bomb make it a powerful mid-game material.
 
@@ -198,7 +197,7 @@ A radioactive metal found high in the world (Y 46-256). Uranium tools and the Ur
 
 ### Tasmanite
 
-<img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32"> **Tasmanite**
+<img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="40">
 
 A luminous mineral found throughout the Overworld. Tasmanite is primarily a fuel source (smelts **12 items**, 1.5x coal) and a crafting component. The Block of Tasmanite emits maximum light (level 15).
 
@@ -214,7 +213,7 @@ A luminous mineral found throughout the Overworld. Tasmanite is primarily a fuel
 
 ### Bloodstone
 
-<img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32"> **Bloodstone**
+<img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="40">
 
 A dark gem found only in the **Nether**. Bloodstone armor provides constant Instant Health but comes with severe debuffs - a balanced risk/reward armor set.
 
@@ -229,9 +228,10 @@ A dark gem found only in the **Nether**. Bloodstone armor provides constant Inst
 
 ### Ender
 
-<img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32"> **Ender Gem**
+<img src="src/main/resources/assets/uplift/textures/blocks/ender_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/ender_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="40">
 
 A powerful gem found only in **The End**. Ender tools have the highest durability in the mod (2,450 uses), and the full armor set grants **Flight**.
+Ender gems can be obtained by mining **Ender Ore** in The End or as a rare drop from **Endermen**.
 
 | Property          | Value               |
 | ----------------- | ------------------- |
@@ -244,7 +244,7 @@ A powerful gem found only in **The End**. Ender tools have the highest durabilit
 
 ### Opal
 
-<img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32"> **Opal**
+<img src="src/main/resources/assets/uplift/textures/blocks/opal_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/opal_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/opal.png" width="40">
 
 A rare gem found only underground and in the Cave Dimension. Opal currently has no tool or armor set but is highly valuable as **Gem Crusher** input (9 Gem Dust per Opal).
 
@@ -258,7 +258,7 @@ A rare gem found only underground and in the Cave Dimension. Opal currently has 
 
 ### Rose Gold
 
-<img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32"> **Rose Gold Ingot** / <img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="32"> **Rose Gold Nugget**
+<img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_ore.png" width="40"> <img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_block.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="40"> <img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="40">
 
 A lustrous metal found in the Cave Dimension. Rose Gold is used to craft two unique legendary weapons and the powerful Rose Golden Apple. Its weapons have very low durability (100) but extremely high damage.
 
@@ -282,7 +282,7 @@ A lustrous metal found in the Cave Dimension. Rose Gold is used to craft two uni
 
 ### Igniter
 
-<img src="src/main/resources/assets/uplift/textures/items/igniter.png" width="32"> **Igniter**
+<img src="src/main/resources/assets/uplift/textures/items/igniter.png" width="40">
 
 A special tool crafted from a Burning Diamond and Flint & Steel. It has **200 durability** and serves three special purposes:
 
@@ -297,7 +297,7 @@ A special tool crafted from a Burning Diamond and Flint & Steel. It has **200 du
 
 ### Mine Bomb
 
-<img src="src/main/resources/assets/uplift/textures/items/mine_bomb.png" width="32"> **Mine Bomb**
+<img src="src/main/resources/assets/uplift/textures/items/mine_bomb.png" width="40">
 
 A throwable explosive (max stack: 4). On impact, it creates a column of **power-4** explosions from the impact point all the way down to **Y=0 (bedrock)**. Ideal for strip-mining entire columns.
 
@@ -305,7 +305,7 @@ A throwable explosive (max stack: 4). On impact, it creates a column of **power-
 
 ### Uranium Bomb
 
-<img src="src/main/resources/assets/uplift/textures/items/uranium_bomb.png" width="32"> **Uranium Bomb**
+<img src="src/main/resources/assets/uplift/textures/items/uranium_bomb.png" width="40">
 
 A devastating throwable explosive (max stack: 4). On impact, it creates **power-20** explosions in a 5-block deep column. Far more destructive than the Mine Bomb but limited in vertical range.
 
@@ -313,7 +313,7 @@ A devastating throwable explosive (max stack: 4). On impact, it creates **power-
 
 ### Burning Diamond Dust
 
-<img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32"> **Burning Diamond Dust**
+<img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="40">
 
 Obtained by processing a vanilla Diamond in the Smelter. Four Burning Diamond Dust can be crafted into a Burning Diamond.
 
@@ -329,7 +329,7 @@ Obtained by processing a vanilla Diamond in the Smelter. Four Burning Diamond Du
 
 ### Rose Golden Apple
 
-<img src="src/main/resources/assets/uplift/textures/items/rose_golden_apple.png" width="32"> **Rose Golden Apple**
+<img src="src/main/resources/assets/uplift/textures/items/rose_golden_apple.png" width="40">
 
 An incredibly powerful food with the following effects:
 
@@ -440,7 +440,7 @@ Durability = Durability Factor x Base (Boots: 27, Leggings: 30, Chestplate: 35, 
 
 ### Gem Crusher
 
-<img src="wiki/wiki_textures/gem_crusher.png" width="32"> **Gem Crusher**
+<img src="wiki/wiki_textures/gem_crusher.png" width="40">
 
 A functional block that converts gems and materials into **Gem Dust** when right-clicked with a valid item in your main hand. No fuel is required - simply hold the item and interact.
 
@@ -465,7 +465,7 @@ A functional block that converts gems and materials into **Gem Dust** when right
 
 ### Smelter
 
-<img src="src/main/resources/assets/uplift/textures/blocks/smelter_front.png" width="32"> **Smelter**
+<img src="src/main/resources/assets/uplift/textures/blocks/smelter_front.png" width="40"> 
 
 A specialized furnace made from **Obsidian**. The Smelter must be **lit with an Igniter** (costs 50 durability) to function. It processes ores and materials using the custom `uplift:uplift` recipe type - recipes not available in normal furnaces.
 
@@ -477,28 +477,7 @@ A specialized furnace made from **Obsidian**. The Smelter must be **lit with an 
 | Smelt Time   | 150 ticks per item (7.5 sec)                          |
 | Lit Duration | 200 smelts (fuel drains only while actively smelting) |
 
-> See [Smelting](#smelting) for the full Furnace and Smelter recipe list.
-
----
-
-### Cave Portal
-
-A portal block built from a **Gemstone** frame (just like a Nether Portal frame is made of Obsidian). The portal supports variable sizes from 2Ã—3 to 21Ã—21 and is activated with the **Igniter** (costs 100 durability).
-
-**How to build:**
-
-1. Build a portal frame out of **Gemstone** blocks (rectangular, minimum 2Ã—3 interior)
-2. Use the **Igniter** on the inside of the frame
-3. Step into the portal to teleport
-
-**Teleport behavior:**
-
-- Teleports between the **Overworld** and the **Cave Dimension** (1:1 coordinate scale)
-- Applies: Nausea (6 sec), Blindness (2 sec), Slow Falling (3 sec) on teleportation
-- Portal cooldown: 5 seconds (100 ticks)
-- Bi-directional portal linking is persisted across sessions
-
-> **Crafting (Shaped):** The Cave Portal can be crafted from Gemstone blocks (see the recipe in **Crafting**). The portal texture is animated, so the recipe display uses a placeholder icon.
+> See [Smelter Recipes](#smelter-recipes) for the full Furnace and Smelter recipe list.
 
 ---
 
@@ -559,6 +538,27 @@ The Cave Dimension ("The Cave") is a custom underground dimension consisting ent
 | Creeper       | 6            | 1-2        |
 | Spider        | 6            | 1-2        |
 | Bat (ambient) | 10           | 2-4        |
+
+### Cave Portal
+
+A portal block built from a **Gemstone** frame (just like a Nether Portal frame is made of Obsidian). The portal supports variable sizes from 2x3 to 21x21 and is activated with the **Igniter** (costs 100 durability).
+
+<img src="wiki/wiki_textures/cave_portal.png" width="250">
+
+**How to build:**
+
+1. Build a portal frame out of **Gemstone** blocks (rectangular, minimum 2x3 interior)
+2. Use the **Igniter** on the inside of the frame
+3. Step into the portal to teleport
+
+**Teleport behavior:**
+
+- Teleports between the **Overworld** and the **Cave Dimension** (1:1 coordinate scale)
+- Applies: Nausea (6 sec), Blindness (2 sec), Slow Falling (3 sec) on teleportation
+- Portal cooldown: 5 seconds (100 ticks)
+- Bi-directional portal linking is persisted across sessions
+
+> **Crafting (Shaped):** The Cave Portal can be crafted from Gemstone blocks (see the recipe in [Crafting](#crafting)). The portal texture is animated, so the recipe display uses a placeholder icon.
 
 ---
 
@@ -659,7 +659,7 @@ A hostile mob that spawns in the **Cave Dimension**. Resembles a zombie-like cre
 
 ### Flight
 
-<img src="src/main/resources/assets/uplift/textures/mob_effect/flight.png" width="32"> **Flight**
+<img src="src/main/resources/assets/uplift/textures/mob_effect/flight.png" width="40">
 
 Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
