@@ -63,8 +63,8 @@ public class ModOreGen
 				ConfiguredPlacement<CountRangeConfig> customConfigRedstone = Placement.COUNT_RANGE.configure(new CountRangeConfig(12, 0, 0, 70));
 				biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, Blocks.REDSTONE_ORE.getDefaultState(), 10)).withPlacement(customConfigRedstone));
 				
-				ConfiguredPlacement<CountRangeConfig> customConfigObsidian = Placement.COUNT_RANGE.configure(new CountRangeConfig(12, 0, 0, 70));
-				biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, Blocks.OBSIDIAN.getDefaultState(), 10)).withPlacement(customConfigObsidian));
+				ConfiguredPlacement<CountRangeConfig> customConfigObsidian = Placement.COUNT_RANGE.configure(new CountRangeConfig(10, 0, 0, 70));
+				biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, Blocks.OBSIDIAN.getDefaultState(), 8)).withPlacement(customConfigObsidian));
 				
 				ConfiguredPlacement<CountRangeConfig> customConfigTasmanite = Placement.COUNT_RANGE.configure(new CountRangeConfig(20, 0, 0, 70));
 				biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, BlockInit.tasmanite_ore.getDefaultState(), 10)).withPlacement(customConfigTasmanite));
