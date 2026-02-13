@@ -558,7 +558,7 @@ A portal block built from a **Gemstone** frame (just like a Nether Portal frame 
 - Portal cooldown: 5 seconds (100 ticks)
 - Bi-directional portal linking is persisted across sessions
 
-> **Crafting (Shaped):** The Cave Portal can be crafted from Gemstone blocks (see the recipe in [Crafting](#crafting)). The portal texture is animated, so the recipe display uses a placeholder icon.
+> **Crafting (Shaped):** The Cave Portal can be crafted from Gemstone blocks (see the recipe in [Crafting](#gemstone-block)). The portal texture is animated, so the recipe display uses a placeholder icon.
 
 ---
 
