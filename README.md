@@ -496,14 +496,14 @@ A special orange-red fire placed by the Igniter. Deals different damage dependin
 
 Custom colored torches crafted with the resource on top of Coal on top of a Stick. Each torch emits **light level 14**. Available variants:
 
-- <img src="src/main/resources/assets/uplift/textures/items/ruby_torch.png" width="16"> Ruby Torch
-- <img src="src/main/resources/assets/uplift/textures/items/burning_diamond_torch.png" width="16"> Burning Diamond Torch
-- <img src="src/main/resources/assets/uplift/textures/items/sapphire_torch.png" width="16"> Sapphire Torch
-- <img src="src/main/resources/assets/uplift/textures/items/tourmaline_torch.png" width="16"> Tourmaline Torch
-- <img src="src/main/resources/assets/uplift/textures/items/obsidian_torch.png" width="16"> Obsidian Torch
-- <img src="src/main/resources/assets/uplift/textures/items/ender_torch.png" width="16"> Ender Torch
-- <img src="src/main/resources/assets/uplift/textures/items/opal_torch.png" width="16"> Opal Torch
-- <img src="src/main/resources/assets/uplift/textures/items/tasmanite_torch.png" width="16"> Tasmanite Torch (crafted differently - see recipes)
+- <img src="src/main/resources/assets/uplift/textures/items/ruby_torch.png" width="28"> Ruby Torch
+- <img src="src/main/resources/assets/uplift/textures/items/burning_diamond_torch.png" width="28"> Burning Diamond Torch
+- <img src="src/main/resources/assets/uplift/textures/items/sapphire_torch.png" width="28"> Sapphire Torch
+- <img src="src/main/resources/assets/uplift/textures/items/tourmaline_torch.png" width="28"> Tourmaline Torch
+- <img src="src/main/resources/assets/uplift/textures/items/obsidian_torch.png" width="28"> Obsidian Torch
+- <img src="src/main/resources/assets/uplift/textures/items/ender_torch.png" width="28"> Ender Torch
+- <img src="src/main/resources/assets/uplift/textures/items/opal_torch.png" width="28"> Opal Torch
+- <img src="src/main/resources/assets/uplift/textures/items/tasmanite_torch.png" width="28"> Tasmanite Torch (crafted differently - see [Crafting](#tasmanite-torch))
 
 All torches can be placed on walls (wall torch variant included).
 
