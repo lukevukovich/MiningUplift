@@ -713,7 +713,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/obsidian.png" width="32" height="32"></td>
 </tr>
 <tr>
@@ -757,7 +757,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/gemstone.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -772,7 +772,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/flint_and_steel.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/igniter.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/igniter.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -784,9 +784,9 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/mine_bomb.png" width="48" height="48"></td>
 </tr>
@@ -796,9 +796,9 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/gem_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -810,9 +810,9 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_bomb.png" width="48" height="48"></td>
 </tr>
@@ -822,9 +822,9 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -839,7 +839,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/stone_meal.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/bowl.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/stone_soup.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/stone_soup.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -877,21 +877,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -905,21 +905,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -936,14 +936,14 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -955,19 +955,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -977,21 +977,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1003,19 +1003,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1033,13 +1033,13 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1050,7 +1050,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_chestplate.png" width="48" height="48"></td>
@@ -1081,12 +1081,12 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 </tr>
 </table>
@@ -1098,20 +1098,20 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1147,7 +1147,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/ruby_block.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -1157,21 +1157,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ruby_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1185,21 +1185,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1216,14 +1216,14 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1235,19 +1235,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1257,21 +1257,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1283,19 +1283,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1313,13 +1313,13 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1330,7 +1330,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_chestplate.png" width="48" height="48"></td>
@@ -1361,12 +1361,12 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 </tr>
 </table>
@@ -1378,20 +1378,20 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1427,7 +1427,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/sapphire_block.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -1437,21 +1437,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/sapphire_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1465,21 +1465,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1496,14 +1496,14 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1515,19 +1515,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1537,21 +1537,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1563,19 +1563,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1593,13 +1593,13 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1610,7 +1610,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_chestplate.png" width="48" height="48"></td>
@@ -1641,12 +1641,12 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 </tr>
 </table>
@@ -1658,20 +1658,20 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1707,7 +1707,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -1717,21 +1717,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1745,21 +1745,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1776,14 +1776,14 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1795,19 +1795,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1817,21 +1817,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1843,19 +1843,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1873,13 +1873,13 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1890,7 +1890,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_chestplate.png" width="48" height="48"></td>
@@ -1921,12 +1921,12 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 </tr>
 </table>
@@ -1938,20 +1938,20 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -1987,7 +1987,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/chrome_block.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -2023,7 +2023,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -2037,21 +2037,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2068,14 +2068,14 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2087,19 +2087,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2109,21 +2109,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2135,19 +2135,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2165,13 +2165,13 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2182,7 +2182,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_chestplate.png" width="48" height="48"></td>
@@ -2213,12 +2213,12 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 </tr>
 </table>
@@ -2230,20 +2230,20 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2279,7 +2279,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/obsidian_block.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -2289,21 +2289,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/obsidian_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2317,21 +2317,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2348,14 +2348,14 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2367,19 +2367,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2389,21 +2389,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2415,19 +2415,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2445,13 +2445,13 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2462,7 +2462,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_chestplate.png" width="48" height="48"></td>
@@ -2493,12 +2493,12 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 </tr>
 </table>
@@ -2510,20 +2510,20 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2559,7 +2559,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_block.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -2569,21 +2569,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/burning_diamond_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2597,21 +2597,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2628,14 +2628,14 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2647,19 +2647,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2669,21 +2669,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2695,19 +2695,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2725,13 +2725,13 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2742,7 +2742,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_chestplate.png" width="48" height="48"></td>
@@ -2773,12 +2773,12 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 </tr>
 </table>
@@ -2790,20 +2790,20 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2839,7 +2839,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/platinum_block.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -2875,7 +2875,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/platinum_ingot.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -2889,21 +2889,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2920,14 +2920,14 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2939,19 +2939,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2961,21 +2961,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -2987,19 +2987,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3017,13 +3017,13 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3034,7 +3034,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_chestplate.png" width="48" height="48"></td>
@@ -3065,12 +3065,12 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 </tr>
 </table>
@@ -3082,20 +3082,20 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3131,7 +3131,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/uranium_block.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -3167,7 +3167,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/uranium_ingot.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -3189,13 +3189,13 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3206,7 +3206,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_chestplate.png" width="48" height="48"></td>
@@ -3237,12 +3237,12 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 </tr>
 </table>
@@ -3254,20 +3254,20 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3303,7 +3303,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/bloodstone_block.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -3317,21 +3317,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3348,14 +3348,14 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_pickaxe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3367,19 +3367,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3389,21 +3389,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_shovel.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3415,19 +3415,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_hoe.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3445,13 +3445,13 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3462,7 +3462,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_chestplate.png" width="48" height="48"></td>
@@ -3493,12 +3493,12 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 </tr>
 </table>
@@ -3510,20 +3510,20 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_boots.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3559,7 +3559,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/ender_block.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -3569,21 +3569,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/ender_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3623,7 +3623,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_block.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -3633,21 +3633,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tasmanite_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3687,7 +3687,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/opal_block.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -3697,21 +3697,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/opal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/opal_torch.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3725,21 +3725,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_sword.png" width="48" height="48"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3751,19 +3751,19 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
 <td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_axe.png" width="48" height="48"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;">&#160;</td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><span style="display:inline-block; width:32px; height:32px"></span></td>
 </tr>
 </table>
 
@@ -3799,7 +3799,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/rose_gold_block.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="48" height="48"></td>
 </tr>
 </table>
 
@@ -3835,7 +3835,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_ingot.png" width="32" height="32"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="start" width="120" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="48" height="48"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="48" height="48"></td>
 </tr>
 </table>
 
