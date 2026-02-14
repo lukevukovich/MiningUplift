@@ -483,7 +483,7 @@ A specialized furnace made from **Obsidian**. The Smelter must be **lit with an 
 
 ### Igniter Fire
 
-A special orange-red fire placed by the Igniter. Deals different damage depending on weather:
+A special vibrant purple fire placed by the Igniter. Deals different damage depending on weather:
 
 | Condition   | Players               | Mobs                   |
 | ----------- | --------------------- | ---------------------- |
