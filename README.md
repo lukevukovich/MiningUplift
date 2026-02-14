@@ -11,7 +11,7 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
 - [New Ores & Materials](#new-ores--materials)
   - [Ruby](#ruby)
   - [Sapphire](#sapphire)
-  - [Tourmaline](#tourmaline)
+  - [Amethyst](#amethyst)
   - [Chromium](#chromium)
   - [Obsidian (Shards)](#obsidian-shards)
   - [Burning Diamond](#burning-diamond)
@@ -53,7 +53,7 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
   - [Utility & Special Item Recipes](#utility--special-item-recipes)
   - [Ruby Recipes](#ruby-recipes)
   - [Sapphire Recipes](#sapphire-recipes)
-  - [Tourmaline Recipes](#tourmaline-recipes)
+  - [Amethyst Recipes](#amethyst-recipes)
   - [Chromium Recipes](#chromium-recipes)
   - [Obsidian Recipes](#obsidian-recipes)
   - [Burning Diamond Recipes](#burning-diamond-recipes)
@@ -76,7 +76,7 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
 
 ### Ruby
 
-<img src="src/main/resources/assets/uplift/textures/blocks/ruby_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/ruby_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/ruby_torch.png" width="40" style="image-rendering: pixelated;">
+<img src="src/main/resources/assets/uplift/textures/blocks/ruby_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/ruby_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/ruby.png" width="40" style="image-rendering: pixelated;">
 
 A common red gemstone found in the Overworld and Cave Dimension. Ruby is the most accessible new gem and serves as a good early-game material upgrade.
 
@@ -92,7 +92,7 @@ A common red gemstone found in the Overworld and Cave Dimension. Ruby is the mos
 
 ### Sapphire
 
-<img src="src/main/resources/assets/uplift/textures/blocks/sapphire_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/sapphire_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/sapphire_torch.png" width="40" style="image-rendering: pixelated;">
+<img src="src/main/resources/assets/uplift/textures/blocks/sapphire_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/sapphire_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/sapphire.png" width="40" style="image-rendering: pixelated;">
 
 A blue gemstone found deeper underground. Sapphire tools and armor are a step up from Ruby.
 
@@ -106,11 +106,11 @@ A blue gemstone found deeper underground. Sapphire tools and armor are a step up
 
 ---
 
-### Tourmaline
+### Amethyst
 
-<img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_torch.png" width="40" style="image-rendering: pixelated;">
+<img src="src/main/resources/assets/uplift/textures/blocks/amethyst_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/amethyst_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="40" style="image-rendering: pixelated;">
 
-A vibrant gemstone with moderate stats. Tourmaline armor grants a powerful Jump Boost effect.
+A vibrant gemstone with moderate stats. Amethyst armor grants a powerful Jump Boost effect.
 
 | Property            | Value                      |
 | ------------------- | -------------------------- |
@@ -139,7 +139,7 @@ A metallic ore smelted into ingots. Chromium has stats similar to Sapphire and g
 
 ### Obsidian (Shards)
 
-<img src="wiki/wiki_textures/obsidian.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/obsidian_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/obsidian_torch.png" width="40" style="image-rendering: pixelated;">
+<img src="wiki/wiki_textures/obsidian.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/obsidian_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/obsidian_shard.png" width="40" style="image-rendering: pixelated;">
 
 Obsidian Shards are obtained by processing vanilla Obsidian in the **Smelter**. They can be crafted into extremely durable tools and armor. The Block of Obsidian is incredibly blast-resistant (1200).
 
@@ -152,7 +152,7 @@ Obsidian Shards are obtained by processing vanilla Obsidian in the **Smelter**. 
 
 ### Burning Diamond
 
-<img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_torch.png" width="40" style="image-rendering: pixelated;">
+<img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/burning_diamond.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="40" style="image-rendering: pixelated;">
 
 An extremely rare, fiery gem. Burning Diamond ore emits light (level 5), and the block emits even more (level 10). Burning Diamond is also an incredibly powerful **furnace fuel** that smelts **200 items** per unit (25x coal). Burning Diamond Dust is created by processing a vanilla Diamond in the Smelter.
 
@@ -197,7 +197,7 @@ A radioactive metal found high in the world (Y 46-256). Uranium tools and the Ur
 
 ### Tasmanite
 
-<img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_torch.png" width="40" style="image-rendering: pixelated;">
+<img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/tasmanite.png" width="40" style="image-rendering: pixelated;">
 
 A luminous mineral found throughout the Overworld. Tasmanite is primarily a fuel source (smelts **12 items**, 1.5x coal) and a crafting component. The Block of Tasmanite emits maximum light (level 15).
 
@@ -228,7 +228,7 @@ A dark gem found only in the **Nether**. Bloodstone armor provides constant Inst
 
 ### Ender
 
-<img src="src/main/resources/assets/uplift/textures/blocks/ender_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/ender_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/ender_torch.png" width="40" style="image-rendering: pixelated;">
+<img src="src/main/resources/assets/uplift/textures/blocks/ender_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/ender_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/ender_gem.png" width="40" style="image-rendering: pixelated;">
 
 A powerful gem found only in **The End**. Ender tools have the highest durability in the mod (2,450 uses), and the full armor set grants **Flight**.
 Ender gems can be obtained by mining **Ender Ore** in The End or as a rare drop from **Endermen**.
@@ -244,7 +244,7 @@ Ender gems can be obtained by mining **Ender Ore** in The End or as a rare drop 
 
 ### Opal
 
-<img src="src/main/resources/assets/uplift/textures/blocks/opal_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/opal_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/opal.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/opal_torch.png" width="40" style="image-rendering: pixelated;">
+<img src="src/main/resources/assets/uplift/textures/blocks/opal_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/opal_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/opal.png" width="40" style="image-rendering: pixelated;">
 
 A rare gem found only underground and in the Cave Dimension. Opal currently has no tool or armor set but is highly valuable as **Gem Crusher** input (9 Gem Dust per Opal).
 
@@ -363,7 +363,7 @@ All custom tools follow standard Minecraft tool types (Sword, Pickaxe, Axe, Shov
 | Ruby            | 1             | 200        | 5.0        | 20             | Ruby            |
 | Sapphire        | 2             | 750        | 6.0        | 10             | Sapphire        |
 | Chromium        | 2             | 700        | 6.0        | 12             | Chromium Ingot  |
-| Tourmaline      | 2             | 600        | 7.0        | 15             | Tourmaline      |
+| Amethyst      | 2             | 600        | 7.0        | 15             | Amethyst      |
 | Obsidian        | 3             | 1,800      | 7.0        | 10             | Obsidian Shard  |
 | Burning Diamond | 4             | 1,650      | 9.0        | 15             | Burning Diamond |
 | Platinum        | 4             | 2,150      | 10.0       | 10             | Platinum Ingot  |
@@ -378,7 +378,7 @@ All custom tools follow standard Minecraft tool types (Sword, Pickaxe, Axe, Shov
 | Ruby            | 6     | 3       | 9   | 3.5    |
 | Sapphire        | 6     | 4       | 9   | 4.5    |
 | Chromium        | 6     | 4       | 9   | 4.5    |
-| Tourmaline      | 6     | 5       | 9   | 5.5    |
+| Amethyst      | 6     | 5       | 9   | 5.5    |
 | Obsidian        | 7     | 5       | 9   | 4.5    |
 | Burning Diamond | 8     | 5       | 9   | 6.5    |
 | Platinum        | 10    | 6       | 11  | 7.0    |
@@ -407,7 +407,7 @@ Armor values shown as: Boots / Leggings / Chestplate / Helmet
 | Ruby            | 5                 | 2/4/5/2              | 0.0       | 20             | **Resistance**                                                   |
 | Sapphire        | 9                 | 2/5/6/2              | 1.0       | 10             | **Water Breathing**                                              |
 | Chromium        | 8                 | 2/5/6/2              | 1.0       | 12             | **Speed**                                                        |
-| Tourmaline      | 6                 | 3/5/6/3              | 0.0       | 15             | **Jump Boost II**                                                |
+| Amethyst      | 6                 | 3/5/6/3              | 0.0       | 15             | **Jump Boost II**                                                |
 | Obsidian        | 18                | 3/5/5/3              | 2.5       | 10             | **Night Vision**                                                 |
 | Burning Diamond | 17                | 4/7/9/4              | 2.0       | 15             | **Fire Resistance**                                              |
 | Platinum        | 21                | 5/8/9/5              | 3.0       | 10             | **Strength**                                                     |
@@ -426,7 +426,7 @@ Durability = Durability Factor x Base (Boots: 27, Leggings: 30, Chestplate: 35, 
 | Ruby            | 135   | 150      | 175        | 125    |
 | Sapphire        | 243   | 270      | 315        | 225    |
 | Chromium        | 216   | 240      | 280        | 200    |
-| Tourmaline      | 162   | 180      | 210        | 150    |
+| Amethyst      | 162   | 180      | 210        | 150    |
 | Obsidian        | 486   | 540      | 630        | 450    |
 | Burning Diamond | 459   | 510      | 595        | 425    |
 | Platinum        | 567   | 630      | 735        | 525    |
@@ -448,7 +448,7 @@ A functional block that converts gems and materials into **Gem Dust** when right
 | ----------------- | --------------- |
 | Ruby              | 1               |
 | Sapphire          | 3               |
-| Tourmaline        | 3               |
+| Amethyst        | 3               |
 | Diamond (vanilla) | 6               |
 | Emerald (vanilla) | 6               |
 | Obsidian Shard    | 6               |
@@ -499,7 +499,7 @@ Custom colored torches crafted with the resource on top of Coal on top of a Stic
 - <img src="src/main/resources/assets/uplift/textures/items/ruby_torch.png" width="28" style="image-rendering: pixelated;"> Ruby Torch
 - <img src="src/main/resources/assets/uplift/textures/items/burning_diamond_torch.png" width="28" style="image-rendering: pixelated;"> Burning Diamond Torch
 - <img src="src/main/resources/assets/uplift/textures/items/sapphire_torch.png" width="28" style="image-rendering: pixelated;"> Sapphire Torch
-- <img src="src/main/resources/assets/uplift/textures/items/tourmaline_torch.png" width="28" style="image-rendering: pixelated;"> Tourmaline Torch
+- <img src="src/main/resources/assets/uplift/textures/items/amethyst_torch.png" width="28" style="image-rendering: pixelated;"> Amethyst Torch
 - <img src="src/main/resources/assets/uplift/textures/items/obsidian_torch.png" width="28" style="image-rendering: pixelated;"> Obsidian Torch
 - <img src="src/main/resources/assets/uplift/textures/items/ender_torch.png" width="28" style="image-rendering: pixelated;"> Ender Torch
 - <img src="src/main/resources/assets/uplift/textures/items/opal_torch.png" width="28" style="image-rendering: pixelated;"> Opal Torch
@@ -571,7 +571,7 @@ A portal block built from a **Gemstone** frame (just like a Nether Portal frame 
 | <img src="src/main/resources/assets/uplift/textures/blocks/ruby_ore.png" width="28" style="image-rendering: pixelated;">            | Ruby Ore            | 22          | 10        | 0-64    | 1 (Stone)     |
 | <img src="src/main/resources/assets/uplift/textures/blocks/sapphire_ore.png" width="28" style="image-rendering: pixelated;">        | Sapphire Ore        | 6           | 8         | 0-32    | 2 (Iron)      |
 | <img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="28" style="image-rendering: pixelated;">          | Chromium Ore        | 6           | 8         | 0-32    | 2 (Iron)      |
-| <img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_ore.png" width="28" style="image-rendering: pixelated;">      | Tourmaline Ore      | 6           | 8         | 0-32    | 2 (Iron)      |
+| <img src="src/main/resources/assets/uplift/textures/blocks/amethyst_ore.png" width="28" style="image-rendering: pixelated;">      | Amethyst Ore      | 6           | 8         | 0-32    | 2 (Iron)      |
 | <img src="src/main/resources/assets/uplift/textures/blocks/platinum_ore.png" width="28" style="image-rendering: pixelated;">        | Platinum Ore        | 1           | 4         | 0-8     | 4 (Platinum)  |
 | <img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_ore.png" width="28" style="image-rendering: pixelated;"> | Burning Diamond Ore | 1           | 4         | 0-12    | 3 (Diamond)   |
 | <img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_ore.png" width="28" style="image-rendering: pixelated;">       | Tasmanite Ore       | 12          | 8         | 0-128   | 2 (Iron)      |
@@ -599,7 +599,7 @@ The Cave Dimension has dramatically increased ore rates. All ores generate betwe
 | <img src="src/main/resources/assets/uplift/textures/blocks/ruby_ore.png" width="28" style="image-rendering: pixelated;">            | Ruby Ore               | 30          | 10        |
 | <img src="src/main/resources/assets/uplift/textures/blocks/sapphire_ore.png" width="28" style="image-rendering: pixelated;">        | Sapphire Ore           | 14          | 8         |
 | <img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="28" style="image-rendering: pixelated;">          | Chromium Ore           | 14          | 8         |
-| <img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_ore.png" width="28" style="image-rendering: pixelated;">      | Tourmaline Ore         | 14          | 8         |
+| <img src="src/main/resources/assets/uplift/textures/blocks/amethyst_ore.png" width="28" style="image-rendering: pixelated;">      | Amethyst Ore         | 14          | 8         |
 | <img src="src/main/resources/assets/uplift/textures/blocks/platinum_ore.png" width="28" style="image-rendering: pixelated;">        | Platinum Ore           | 3           | 4         |
 | <img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_ore.png" width="28" style="image-rendering: pixelated;"> | Burning Diamond Ore    | 2           | 4         |
 | <img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_ore.png" width="28" style="image-rendering: pixelated;">       | Tasmanite Ore          | 20          | 10        |
@@ -650,7 +650,7 @@ A hostile mob that spawns in the **Cave Dimension**. Resembles a zombie-like cre
 | ---------- | ------ |
 | Ruby       | 0-1    |
 | Sapphire   | 0-1    |
-| Tourmaline | 0-1    |
+| Amethyst | 0-1    |
 | Stone Meal | 0-1    |
 
 ---
@@ -1459,21 +1459,21 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 ---
 
-### Tourmaline Recipes
+### Amethyst Recipes
 
-#### Tourmaline Sword
+#### Amethyst Sword
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_sword.png" width="48" height="48" style="image-rendering: pixelated;"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/amethyst_sword.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
@@ -1483,65 +1483,17 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Tourmaline + 1 Stick ➞ 1 Tourmaline Sword
+> **Crafting (Shaped):** 2 Amethyst + 1 Stick ➞ 1 Amethyst Sword
 
-#### Tourmaline Pickaxe
-
-<table style="border-collapse: collapse;">
-<tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_pickaxe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
-</tr>
-<tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-</tr>
-<tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-</tr>
-</table>
-
-> **Crafting (Shaped):** 3 Tourmaline + 2 Sticks ➞ 1 Tourmaline Pickaxe
-
-#### Tourmaline Axe
+#### Amethyst Pickaxe
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_axe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
-</tr>
-<tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-</tr>
-<tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-</tr>
-</table>
-
-> **Crafting (Shaped):** 3 Tourmaline + 2 Sticks ➞ 1 Tourmaline Axe
-
-#### Tourmaline Shovel
-
-<table style="border-collapse: collapse;">
-<tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_shovel.png" width="48" height="48" style="image-rendering: pixelated;"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/amethyst_pickaxe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
@@ -1555,17 +1507,41 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 1 Tourmaline + 2 Sticks ➞ 1 Tourmaline Shovel
+> **Crafting (Shaped):** 3 Amethyst + 2 Sticks ➞ 1 Amethyst Pickaxe
 
-#### Tourmaline Hoe
+#### Amethyst Axe
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_hoe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/amethyst_axe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
+</tr>
+<tr>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+</tr>
+<tr>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+</tr>
+</table>
+
+> **Crafting (Shaped):** 3 Amethyst + 2 Sticks ➞ 1 Amethyst Axe
+
+#### Amethyst Shovel
+
+<table style="border-collapse: collapse;">
+<tr>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/amethyst_shovel.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
@@ -1579,22 +1555,46 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 2 Tourmaline + 2 Sticks ➞ 1 Tourmaline Hoe
+> **Crafting (Shaped):** 1 Amethyst + 2 Sticks ➞ 1 Amethyst Shovel
 
-#### Tourmaline Helmet
+#### Amethyst Hoe
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_helmet.png" width="48" height="48" style="image-rendering: pixelated;"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/amethyst_hoe.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+</tr>
+<tr>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+</tr>
+</table>
+
+> **Crafting (Shaped):** 2 Amethyst + 2 Sticks ➞ 1 Amethyst Hoe
+
+#### Amethyst Helmet
+
+<table style="border-collapse: collapse;">
+<tr>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/amethyst_helmet.png" width="48" height="48" style="image-rendering: pixelated;"></td>
+</tr>
+<tr>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
@@ -1603,70 +1603,70 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 5 Tourmaline ➞ 1 Tourmaline Helmet
+> **Crafting (Shaped):** 5 Amethyst ➞ 1 Amethyst Helmet
 
-#### Tourmaline Chestplate
+#### Amethyst Chestplate
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_chestplate.png" width="48" height="48" style="image-rendering: pixelated;"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/amethyst_chestplate.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 8 Tourmaline ➞ 1 Tourmaline Chestplate
+> **Crafting (Shaped):** 8 Amethyst ➞ 1 Amethyst Chestplate
 
-#### Tourmaline Leggings
+#### Amethyst Leggings
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_leggings.png" width="48" height="48" style="image-rendering: pixelated;"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/amethyst_leggings.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 7 Tourmaline ➞ 1 Tourmaline Leggings
+> **Crafting (Shaped):** 7 Amethyst ➞ 1 Amethyst Leggings
 
-#### Tourmaline Boots
+#### Amethyst Boots
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_boots.png" width="48" height="48" style="image-rendering: pixelated;"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/amethyst_boots.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
@@ -1675,53 +1675,53 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** 4 Tourmaline ➞ 1 Tourmaline Boots
+> **Crafting (Shaped):** 4 Amethyst ➞ 1 Amethyst Boots
 
-#### Block of Tourmaline
+#### Block of Amethyst
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/blocks/amethyst_block.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
-> **Crafting (Shaped):** 9 Tourmaline ➞ 1 Block of Tourmaline
+> **Crafting (Shaped):** 9 Amethyst ➞ 1 Block of Amethyst
 
-#### Tourmaline from Block
+#### Amethyst from Block
 
 <table style="border-collapse: collapse;">
 <tr>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/tourmaline_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/blocks/amethyst_block.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="48" height="48" style="image-rendering: pixelated;"></td>
+<td align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 </table>
 
-> **Crafting (Shapeless):** 1 Block of Tourmaline ➞ 9 Tourmaline
+> **Crafting (Shapeless):** 1 Block of Amethyst ➞ 9 Amethyst
 
-#### Tourmaline Torch
+#### Amethyst Torch
 
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
-<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="32" height="32" style="image-rendering: pixelated;"></td>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
 <td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
-<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/tourmaline_torch.png" width="48" height="48" style="image-rendering: pixelated;"></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/amethyst_torch.png" width="48" height="48" style="image-rendering: pixelated;"></td>
 </tr>
 <tr>
 <td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
@@ -1735,7 +1735,7 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 </tr>
 </table>
 
-> **Crafting (Shaped):** Tourmaline above Coal above Stick ➞ 8 Tourmaline Torches
+> **Crafting (Shaped):** Amethyst above Coal above Stick ➞ 8 Amethyst Torches
 
 ---
 

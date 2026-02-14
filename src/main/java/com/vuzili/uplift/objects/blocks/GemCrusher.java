@@ -39,7 +39,7 @@ public class GemCrusher extends Block
 			player.getHeldItemMainhand().setCount(count-1);
 			return ActionResultType.SUCCESS;
 		}
-		else if(ItemInit.sapphire == player.getHeldItemMainhand().getItem() || ItemInit.tourmaline == player.getHeldItemMainhand().getItem())
+		else if(ItemInit.sapphire == player.getHeldItemMainhand().getItem() || ItemInit.amethyst == player.getHeldItemMainhand().getItem())
 		{
 			worldIn.playSound(player, pos, SoundEvents.BLOCK_PISTON_EXTEND, SoundCategory.BLOCKS, 1.0f, 0.8f);
 			int count = player.getHeldItemMainhand().getCount();

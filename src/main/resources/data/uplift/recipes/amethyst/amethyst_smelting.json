@@ -1,0 +1,10 @@
+
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "uplift:amethyst_ore"
+  },
+  "result": "uplift:amethyst",
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -12,9 +12,9 @@ import net.minecraft.potion.EffectInstance;
 import net.minecraft.potion.Effects;
 import net.minecraft.world.World;
 
-public class ArmorPotionObsidian extends ArmorItem {
+public class ArmorPotionAmethyst extends ArmorItem {
 
-	public ArmorPotionObsidian(IArmorMaterial materialIn, EquipmentSlotType slot, Properties builder) {
+	public ArmorPotionAmethyst(IArmorMaterial materialIn, EquipmentSlotType slot, Properties builder) {
 		super(materialIn, slot, builder);
 	}
 
@@ -26,19 +26,19 @@ public class ArmorPotionObsidian extends ArmorItem {
 		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
 		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
 
-		if (head.getItem() == ItemInit.obsidian_helmet
-				&& chest.getItem() == ItemInit.obsidian_chestplate
-				&& legs.getItem() == ItemInit.obsidian_leggings
-				&& feet.getItem() == ItemInit.obsidian_boots) 
+		if (head.getItem() == ItemInit.amethyst_helmet
+				&& chest.getItem() == ItemInit.amethyst_chestplate
+				&& legs.getItem() == ItemInit.amethyst_leggings
+				&& feet.getItem() == ItemInit.amethyst_boots) 
 		{
 			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(Effects.NIGHT_VISION, Integer.MAX_VALUE, 0, false, false));
+				player.addPotionEffect(new EffectInstance(Effects.JUMP_BOOST, Integer.MAX_VALUE, 1, false, false));
 			}
-			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.obsidian_boots, 20, 20, 20);
+			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.amethyst_boots, 152, 13, 255);
 		}
 		else {
 			if (!world.isRemote) {
-				player.removePotionEffect(Effects.NIGHT_VISION);
+				player.removePotionEffect(Effects.JUMP_BOOST);
 			}
 		}
 		super.onArmorTick(stack, world, player);

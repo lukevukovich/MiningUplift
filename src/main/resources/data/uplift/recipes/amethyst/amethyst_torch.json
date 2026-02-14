@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [" X ", " I ", " A "],
+
+  "key": {
+    "I": {
+      "item": "minecraft:coal"
+    },
+
+    "A": {
+      "item": "minecraft:stick"
+    },
+
+    "X": {
+      "item": "uplift:amethyst"
+    }
+  },
+
+  "result": {
+    "item": "uplift:amethyst_torch",
+    "count": 8
+  }
+}
