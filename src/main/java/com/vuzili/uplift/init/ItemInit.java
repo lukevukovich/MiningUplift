@@ -13,7 +13,7 @@ import com.vuzili.uplift.objects.items.ArmorPotionObsidian;
 import com.vuzili.uplift.objects.items.ArmorPotionPlatinum;
 import com.vuzili.uplift.objects.items.ArmorPotionRuby;
 import com.vuzili.uplift.objects.items.ArmorPotionSapphire;
-import com.vuzili.uplift.objects.items.ArmorPotionTourmaline;
+import com.vuzili.uplift.objects.items.ArmorPotionAmethyst;
 import com.vuzili.uplift.objects.items.ArmorPotionUranium;
 import com.vuzili.uplift.objects.items.BurningDiamondFuel;
 import com.vuzili.uplift.objects.items.Igniter;
@@ -94,19 +94,19 @@ public class ItemInit
 	public static final Item sapphire_leggings = null;
 	public static final Item sapphire_boots = null;
 	
-	//Tourmaline
-	public static final Item tourmaline = null;
+	//Amethyst
+	public static final Item amethyst = null;
 	
-	public static final Item tourmaline_sword = null;
-	public static final Item tourmaline_pickaxe = null;
-	public static final Item tourmaline_shovel = null;
-	public static final Item tourmaline_axe = null;
-	public static final Item tourmaline_hoe = null;
+	public static final Item amethyst_sword = null;
+	public static final Item amethyst_pickaxe = null;
+	public static final Item amethyst_shovel = null;
+	public static final Item amethyst_axe = null;
+	public static final Item amethyst_hoe = null;
 	
-	public static final Item tourmaline_helmet = null;
-	public static final Item tourmaline_chestplate = null;
-	public static final Item tourmaline_leggings = null;
-	public static final Item tourmaline_boots = null;
+	public static final Item amethyst_helmet = null;
+	public static final Item amethyst_chestplate = null;
+	public static final Item amethyst_leggings = null;
+	public static final Item amethyst_boots = null;
 	
 	//Obsidian
 	public static final Item obsidian_shard = null;
@@ -256,19 +256,19 @@ public class ItemInit
 		event.getRegistry().register(new ArmorPotionSapphire(ModArmorMaterial.SAPPHIRE, EquipmentSlotType.LEGS, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("sapphire_leggings"));
 		event.getRegistry().register(new ArmorPotionSapphire(ModArmorMaterial.SAPPHIRE, EquipmentSlotType.FEET, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("sapphire_boots"));
 		
-		//Tourmaline
-		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline"));
+		//Amethyst
+		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("amethyst"));
 		
-		event.getRegistry().register(new SwordItem(ModItemTier.TOURMALINE, 6, -2.4F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_sword"));
-		event.getRegistry().register(new PickaxeItem(ModItemTier.TOURMALINE, 5, -2.8F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_pickaxe"));
-		event.getRegistry().register(new ShovelItem(ModItemTier.TOURMALINE, 5.5f, -3.0F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_shovel"));
-		event.getRegistry().register(new AxeItem(ModItemTier.TOURMALINE, 9, -3.0F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_axe"));
-		event.getRegistry().register(new HoeItem(ModItemTier.TOURMALINE, 0.0f, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_hoe"));
+		event.getRegistry().register(new SwordItem(ModItemTier.AMETHYST, 6, -2.4F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("amethyst_sword"));
+		event.getRegistry().register(new PickaxeItem(ModItemTier.AMETHYST, 5, -2.8F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("amethyst_pickaxe"));
+		event.getRegistry().register(new ShovelItem(ModItemTier.AMETHYST, 5.5f, -3.0F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("amethyst_shovel"));
+		event.getRegistry().register(new AxeItem(ModItemTier.AMETHYST, 9, -3.0F, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("amethyst_axe"));
+		event.getRegistry().register(new HoeItem(ModItemTier.AMETHYST, 0.0f, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("amethyst_hoe"));
 		
-		event.getRegistry().register(new ArmorPotionTourmaline(ModArmorMaterial.TOURMALINE, EquipmentSlotType.HEAD, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_helmet"));
-		event.getRegistry().register(new ArmorPotionTourmaline(ModArmorMaterial.TOURMALINE, EquipmentSlotType.CHEST, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_chestplate"));
-		event.getRegistry().register(new ArmorPotionTourmaline(ModArmorMaterial.TOURMALINE, EquipmentSlotType.LEGS, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_leggings"));
-		event.getRegistry().register(new ArmorPotionTourmaline(ModArmorMaterial.TOURMALINE, EquipmentSlotType.FEET, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_boots"));
+		event.getRegistry().register(new ArmorPotionAmethyst(ModArmorMaterial.AMETHYST, EquipmentSlotType.HEAD, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("amethyst_helmet"));
+		event.getRegistry().register(new ArmorPotionAmethyst(ModArmorMaterial.AMETHYST, EquipmentSlotType.CHEST, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("amethyst_chestplate"));
+		event.getRegistry().register(new ArmorPotionAmethyst(ModArmorMaterial.AMETHYST, EquipmentSlotType.LEGS, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("amethyst_leggings"));
+		event.getRegistry().register(new ArmorPotionAmethyst(ModArmorMaterial.AMETHYST, EquipmentSlotType.FEET, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("amethyst_boots"));
 		
 		//Obsidian
 		event.getRegistry().register(new Item(new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_shard"));
@@ -392,8 +392,8 @@ public class ItemInit
 		CHROME(2,700,6.0f,-1,12,() -> {
 			return Ingredient.fromItems(ItemInit.chrome_ingot);
 		}),
-		TOURMALINE(2,600,7.0f,-1,15,() -> {
-			return Ingredient.fromItems(ItemInit.tourmaline);
+		AMETHYST(2,600,7.0f,-1,15,() -> {
+			return Ingredient.fromItems(ItemInit.amethyst);
 		}),
 		OBSIDIAN(3,1800,7.0f,-1,10,() -> {
 			return Ingredient.fromItems(ItemInit.obsidian_shard);
@@ -480,8 +480,8 @@ public class ItemInit
 		CHROME(Uplift.MOD_ID + ":chrome", 8, new int[] {2, 5, 6, 2}, 12, "item.armor.equip_iron", 1.0f, () -> {
 			return Ingredient.fromItems(ItemInit.chrome_ingot);
 		}),
-		TOURMALINE(Uplift.MOD_ID + ":tourmaline", 6, new int[] {3, 5, 6, 3}, 15, "item.armor.equip_iron", 0.0f, () -> {
-			return Ingredient.fromItems(ItemInit.tourmaline);
+		AMETHYST(Uplift.MOD_ID + ":amethyst", 6, new int[] {3, 5, 6, 3}, 15, "item.armor.equip_iron", 0.0f, () -> {
+			return Ingredient.fromItems(ItemInit.amethyst);
 		}),
 		OBSIDIAN(Uplift.MOD_ID + ":obsidian", 18, new int[] {3, 5, 5, 3}, 10, "item.armor.equip_iron", 2.5f, () -> {
 			return Ingredient.fromItems(ItemInit.obsidian_shard);

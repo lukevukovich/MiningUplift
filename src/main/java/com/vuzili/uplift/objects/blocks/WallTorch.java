@@ -22,10 +22,10 @@ public class WallTorch extends WallTorchBlock
 	public static final RedstoneParticleData RUBY_TORCH_DUST = new RedstoneParticleData(0.9F, 0.0F, 0.0F, 1.0F);
 	public static final RedstoneParticleData BURNING_DIAMOND_TORCH_DUST = new RedstoneParticleData(1.0F, 0.33F, 0.11F, 1.0F);
 	public static final RedstoneParticleData SAPPHIRE_TORCH_DUST = new RedstoneParticleData(0.0F, 0.0F, 0.9F, 1.0F);
-	public static final RedstoneParticleData TOURMALINE_TORCH_DUST = new RedstoneParticleData(0.82F, 0.0F, 1.0F, 1.0F);
+	public static final RedstoneParticleData AMETHYST_TORCH_DUST = new RedstoneParticleData(0.60F, 0.05F, 1.0F, 1.0F);
 	public static final RedstoneParticleData TASMANITE_TORCH_DUST = new RedstoneParticleData(0.87F, 1.0F, 0.0F, 1.0F);
-	public static final RedstoneParticleData SHADOWGLASS_TORCH_DUST = new RedstoneParticleData(0.415F, 0.157F, 0.792F, 1.0F);
-	public static final RedstoneParticleData OPAL_TORCH_DUST = new RedstoneParticleData(0.6F, 0.6F, 0.6F, 1.0F);
+	public static final RedstoneParticleData OBSIDIAN_TORCH_DUST = new RedstoneParticleData(0.08F, 0.08F, 0.08F, 1.0F);
+	public static final RedstoneParticleData OPAL_TORCH_DUST = new RedstoneParticleData(0.8F, 0.8F, 0.8F, 1.0F);
 	public static final RedstoneParticleData ENDER_TORCH_DUST = new RedstoneParticleData(0.176F, 0.321F, 0.282F, 1.0F);
 	
 	public WallTorch(Properties properties) 
@@ -48,8 +48,8 @@ public class WallTorch extends WallTorchBlock
 		else if (block == BlockInit.sapphire_wall_torch) {
 			return new ItemStack(BlockInit.sapphire_torch);
 		}
-		else if (block == BlockInit.tourmaline_wall_torch) {
-			return new ItemStack(BlockInit.tourmaline_torch);
+		else if (block == BlockInit.amethyst_wall_torch) {
+			return new ItemStack(BlockInit.amethyst_torch);
 		}
 		else if (block == BlockInit.tasmanite_wall_torch) {
 			return new ItemStack(BlockInit.tasmanite_torch);
@@ -87,9 +87,9 @@ public class WallTorch extends WallTorchBlock
 		{
 			worldIn.addParticle(SAPPHIRE_TORCH_DUST, d0 + 0.27D * (double)direction1.getXOffset(), d1 + 0.22D, d2 + 0.27D * (double)direction1.getZOffset(), 0.0D, 0.0D, 0.0D);
 		}
-		else if(this.getBlock() == BlockInit.tourmaline_wall_torch)
+		else if(this.getBlock() == BlockInit.amethyst_wall_torch)
 		{
-			worldIn.addParticle(TOURMALINE_TORCH_DUST, d0 + 0.27D * (double)direction1.getXOffset(), d1 + 0.22D, d2 + 0.27D * (double)direction1.getZOffset(), 0.0D, 0.0D, 0.0D);
+			worldIn.addParticle(AMETHYST_TORCH_DUST, d0 + 0.27D * (double)direction1.getXOffset(), d1 + 0.22D, d2 + 0.27D * (double)direction1.getZOffset(), 0.0D, 0.0D, 0.0D);
 		}
 		else if(this.getBlock() == BlockInit.tasmanite_wall_torch)
 		{
@@ -97,7 +97,7 @@ public class WallTorch extends WallTorchBlock
 		}
 		else if(this.getBlock() == BlockInit.obsidian_wall_torch)
 		{
-			worldIn.addParticle(SHADOWGLASS_TORCH_DUST, d0 + 0.27D * (double)direction1.getXOffset(), d1 + 0.22D, d2 + 0.27D * (double)direction1.getZOffset(), 0.0D, 0.0D, 0.0D);
+			worldIn.addParticle(OBSIDIAN_TORCH_DUST, d0 + 0.27D * (double)direction1.getXOffset(), d1 + 0.22D, d2 + 0.27D * (double)direction1.getZOffset(), 0.0D, 0.0D, 0.0D);
 		}
 		else if(this.getBlock() == BlockInit.opal_wall_torch)
 		{

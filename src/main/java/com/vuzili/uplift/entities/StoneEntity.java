@@ -116,7 +116,7 @@ public class StoneEntity extends ZombieEntity {
 		        // Example of dropping a vanilla item if killed by a player.
 		    	this.entityDropItem(new ItemStack(ItemInit.ruby.asItem(), rand.nextInt(2)));
 		    	this.entityDropItem(new ItemStack(ItemInit.sapphire.asItem(), rand.nextInt(2)));
-		    	this.entityDropItem(new ItemStack(ItemInit.tourmaline.asItem(), rand.nextInt(2)));
+		    	this.entityDropItem(new ItemStack(ItemInit.amethyst.asItem(), rand.nextInt(2)));
 		    	this.entityDropItem(new ItemStack(ItemInit.stone_meal, rand.nextInt(2)));
 	    }
 	}

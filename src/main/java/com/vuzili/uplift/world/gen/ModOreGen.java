@@ -36,8 +36,8 @@ public class ModOreGen
 				ConfiguredPlacement<CountRangeConfig> customConfigChrome = Placement.COUNT_RANGE.configure(new CountRangeConfig(14, 0, 0, 70));
 				biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, BlockInit.chrome_ore.getDefaultState(), 8)).withPlacement(customConfigChrome));
 			
-				ConfiguredPlacement<CountRangeConfig> customConfigTourmaline = Placement.COUNT_RANGE.configure(new CountRangeConfig(14, 0, 0, 70));
-				biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, BlockInit.tourmaline_ore.getDefaultState(), 8)).withPlacement(customConfigTourmaline));
+				ConfiguredPlacement<CountRangeConfig> customConfigAmethyst = Placement.COUNT_RANGE.configure(new CountRangeConfig(14, 0, 0, 70));
+				biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, BlockInit.amethyst_ore.getDefaultState(), 8)).withPlacement(customConfigAmethyst));
 			
 				ConfiguredPlacement<CountRangeConfig> customConfigPlatinum = Placement.COUNT_RANGE.configure(new CountRangeConfig(3, 0, 0, 70));
 				biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, BlockInit.platinum_ore.getDefaultState(), 4)).withPlacement(customConfigPlatinum));
@@ -102,8 +102,8 @@ public class ModOreGen
 				ConfiguredPlacement<CountRangeConfig> customConfigChrome = Placement.COUNT_RANGE.configure(new CountRangeConfig(6, 0, 0, 32));
 				biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, BlockInit.chrome_ore.getDefaultState(), 8)).withPlacement(customConfigChrome));
 
-				ConfiguredPlacement<CountRangeConfig> customConfigTourmaline = Placement.COUNT_RANGE.configure(new CountRangeConfig(6, 0, 0, 32));
-				biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, BlockInit.tourmaline_ore.getDefaultState(), 8)).withPlacement(customConfigTourmaline));
+				ConfiguredPlacement<CountRangeConfig> customConfigAmethyst = Placement.COUNT_RANGE.configure(new CountRangeConfig(6, 0, 0, 32));
+				biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, BlockInit.amethyst_ore.getDefaultState(), 8)).withPlacement(customConfigAmethyst));
 			
 				ConfiguredPlacement<CountRangeConfig> customConfigPlatinum = Placement.COUNT_RANGE.configure(new CountRangeConfig(1, 0, 0, 8));
 				biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, BlockInit.platinum_ore.getDefaultState(), 4)).withPlacement(customConfigPlatinum));

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        " I ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "uplift:amethyst_block"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "uplift:amethyst",
+        "count": 9
+    }
+}

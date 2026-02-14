@@ -51,11 +51,11 @@ public class BlockInit
 	public static final Block sapphire_torch = null;
 	public static final Block sapphire_wall_torch = null;
 	
-	//Tourmaline
-	public static final Block tourmaline_ore = null;
-	public static final Block tourmaline_block = null;
-	public static final Block tourmaline_torch = null;
-	public static final Block tourmaline_wall_torch = null;
+	//Amethyst
+	public static final Block amethyst_ore = null;
+	public static final Block amethyst_block = null;
+	public static final Block amethyst_torch = null;
+	public static final Block amethyst_wall_torch = null;
 	
 	//Obsidian
 	public static final Block obsidian_block = null;
@@ -138,11 +138,11 @@ public class BlockInit
 		event.getRegistry().register(new Torch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("sapphire_torch"));
 		event.getRegistry().register(new WallTorch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("sapphire_wall_torch"));
 		
-		//Tourmaline
-		event.getRegistry().register(new BlockXp(Block.Properties.create(Material.ROCK).hardnessAndResistance(3.0f, 3.0f).sound(SoundType.STONE).harvestLevel(2).harvestTool(ToolType.PICKAXE)).setRegistryName("tourmaline_ore"));
-		event.getRegistry().register(new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(5.0f, 6.0f).sound(SoundType.METAL).harvestLevel(2).harvestTool(ToolType.PICKAXE)).setRegistryName("tourmaline_block"));
-		event.getRegistry().register(new Torch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("tourmaline_torch"));
-		event.getRegistry().register(new WallTorch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("tourmaline_wall_torch"));
+		//Amethyst
+		event.getRegistry().register(new BlockXp(Block.Properties.create(Material.ROCK).hardnessAndResistance(3.0f, 3.0f).sound(SoundType.STONE).harvestLevel(2).harvestTool(ToolType.PICKAXE)).setRegistryName("amethyst_ore"));
+		event.getRegistry().register(new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(5.0f, 6.0f).sound(SoundType.METAL).harvestLevel(2).harvestTool(ToolType.PICKAXE)).setRegistryName("amethyst_block"));
+		event.getRegistry().register(new Torch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("amethyst_torch"));
+		event.getRegistry().register(new WallTorch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("amethyst_wall_torch"));
 		
 		//Obsidian
 		event.getRegistry().register(new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(50f, 1200f).sound(SoundType.METAL).harvestLevel(2).harvestTool(ToolType.PICKAXE)).setRegistryName("obsidian_block"));
@@ -227,10 +227,10 @@ public class BlockInit
 		event.getRegistry().register(new BlockItem(sapphire_block, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("sapphire_block"));
 		event.getRegistry().register(new TorchItem(sapphire_torch, sapphire_wall_torch, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("sapphire_torch"));
 		
-		//Tourmaline
-		event.getRegistry().register(new BlockItem(tourmaline_ore, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_ore"));
-		event.getRegistry().register(new BlockItem(tourmaline_block, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_block"));
-		event.getRegistry().register(new TorchItem(tourmaline_torch, tourmaline_wall_torch, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("tourmaline_torch"));
+		//Amethyst
+		event.getRegistry().register(new BlockItem(amethyst_ore, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("amethyst_ore"));
+		event.getRegistry().register(new BlockItem(amethyst_block, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("amethyst_block"));
+		event.getRegistry().register(new TorchItem(amethyst_torch, amethyst_wall_torch, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("amethyst_torch"));
 		
 		//Obsidian
 		event.getRegistry().register(new BlockItem(obsidian_block, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("obsidian_block"));

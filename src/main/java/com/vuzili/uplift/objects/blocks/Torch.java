@@ -16,10 +16,10 @@ public class Torch extends TorchBlock
 	public static final RedstoneParticleData RUBY_TORCH_DUST = new RedstoneParticleData(0.9F, 0.0F, 0.0F, 1.0F);
 	public static final RedstoneParticleData BURNING_DIAMOND_TORCH_DUST = new RedstoneParticleData(1.0F, 0.33F, 0.11F, 1.0F);
 	public static final RedstoneParticleData SAPPHIRE_TORCH_DUST = new RedstoneParticleData(0.0F, 0.0F, 0.9F, 1.0F);
-	public static final RedstoneParticleData TOURMALINE_TORCH_DUST = new RedstoneParticleData(0.82F, 0.0F, 1.0F, 1.0F);
+	public static final RedstoneParticleData AMETHYST_TORCH_DUST = new RedstoneParticleData(0.60F, 0.05F, 1.0F, 1.0F);
 	public static final RedstoneParticleData TASMANITE_TORCH_DUST = new RedstoneParticleData(0.87F, 1.0F, 0.0F, 1.0F);
-	public static final RedstoneParticleData SHADOWGLASS_TORCH_DUST = new RedstoneParticleData(0.415F, 0.157F, 0.792F, 1.0F); // 106, 40, 202
-	public static final RedstoneParticleData OPAL_TORCH_DUST = new RedstoneParticleData(0.6F, 0.6F, 0.6F, 1.0F);
+	public static final RedstoneParticleData OBSIDIAN_TORCH_DUST = new RedstoneParticleData(0.08F, 0.08F, 0.08F, 1.0F); // 106, 40, 202
+	public static final RedstoneParticleData OPAL_TORCH_DUST = new RedstoneParticleData(0.8F, 0.8F, 0.8F, 1.0F);
 	public static final RedstoneParticleData ENDER_TORCH_DUST = new RedstoneParticleData(0.176F, 0.321F, 0.282F, 1.0F);
 
 	public Torch(Properties properties) 
@@ -45,9 +45,9 @@ public class Torch extends TorchBlock
 		{
 			worldIn.addParticle(SAPPHIRE_TORCH_DUST, d0, d1, d2, 0.0D, 0.0D, 0.0D);
 		}
-		else if(this.getBlock() == BlockInit.tourmaline_torch)
+		else if(this.getBlock() == BlockInit.amethyst_torch)
 		{
-			worldIn.addParticle(TOURMALINE_TORCH_DUST, d0, d1, d2, 0.0D, 0.0D, 0.0D);
+			worldIn.addParticle(AMETHYST_TORCH_DUST, d0, d1, d2, 0.0D, 0.0D, 0.0D);
 		}
 		else if(this.getBlock() == BlockInit.tasmanite_torch)
 		{
@@ -55,7 +55,7 @@ public class Torch extends TorchBlock
 		}
 		else if(this.getBlock() == BlockInit.obsidian_torch)
 		{
-			worldIn.addParticle(SHADOWGLASS_TORCH_DUST, d0, d1, d2, 0.0D, 0.0D, 0.0D);
+			worldIn.addParticle(OBSIDIAN_TORCH_DUST, d0, d1, d2, 0.0D, 0.0D, 0.0D);
 		}
 		else if(this.getBlock() == BlockInit.opal_torch)
 		{
