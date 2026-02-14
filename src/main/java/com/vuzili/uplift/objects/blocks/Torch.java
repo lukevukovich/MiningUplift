@@ -16,7 +16,7 @@ public class Torch extends TorchBlock
 	public static final RedstoneParticleData RUBY_TORCH_DUST = new RedstoneParticleData(0.9F, 0.0F, 0.0F, 1.0F);
 	public static final RedstoneParticleData BURNING_DIAMOND_TORCH_DUST = new RedstoneParticleData(1.0F, 0.33F, 0.11F, 1.0F);
 	public static final RedstoneParticleData SAPPHIRE_TORCH_DUST = new RedstoneParticleData(0.0F, 0.0F, 0.9F, 1.0F);
-	public static final RedstoneParticleData TOURMALINE_TORCH_DUST = new RedstoneParticleData(0.82F, 0.0F, 1.0F, 1.0F);
+	public static final RedstoneParticleData TOURMALINE_TORCH_DUST = new RedstoneParticleData(0.60F, 0.05F, 1.0F, 1.0F);
 	public static final RedstoneParticleData TASMANITE_TORCH_DUST = new RedstoneParticleData(0.87F, 1.0F, 0.0F, 1.0F);
 	public static final RedstoneParticleData SHADOWGLASS_TORCH_DUST = new RedstoneParticleData(0.415F, 0.157F, 0.792F, 1.0F); // 106, 40, 202
 	public static final RedstoneParticleData OPAL_TORCH_DUST = new RedstoneParticleData(0.6F, 0.6F, 0.6F, 1.0F);
