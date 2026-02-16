@@ -8,6 +8,9 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
 
 ## Table of Contents
 
+- [Installation](#installation)
+- [Development Setup](#development-setup)
+- [Backlog](#backlog)
 - [New Ores & Materials](#new-ores--materials)
   - [Ruby](#ruby)
   - [Sapphire](#sapphire)
@@ -70,7 +73,158 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
   - [Furnace Recipes](#furnace-recipes)
   - [Smelter Recipes](#smelter-recipes)
   - [Fuel Values](#fuel-values)
-- [Backlog](#backlog)
+
+---
+
+## Installation
+
+### Prerequisites:
+  - Java JRE 8
+  - Minecraft 1.15.2
+  - Forge Mod Loader for Minecraft 1.15.2
+
+### To install the mod for normal use (not development):
+  1. Ensure Minecraft version 1.15.2 exists for Forge Mod Loader to use.
+  1. Install Forge Mod Loader for Minecraft 1.15.2 and launch Minecraft once with that profile so the `mods/` folder is created.
+  2. Build the mod JAR (or download a release) and place the JAR file into the `mods/` folder of your Forge-enabled Minecraft installation.
+  3. Start Minecraft with the Forge profile - the mod should load automatically.
+
+> Note: This is a regular Forge mod distribution — you do not need the JDK to run the mod in a normal Minecraft client; only the Java runtime + Forge + Minecraft are required for players.
+
+---
+
+## Development Setup
+
+### Dev Prerequisites
+
+- Java JRE 8
+- Java JDK 8
+- Repository cloned locally
+- Global Gradle is optional; the repository includes a Gradle wrapper
+
+### Build & Run Locally
+
+Use the Gradle wrapper from the project root on Windows (PowerShell or CMD):
+
+#### Build JAR
+```
+.\gradlew.bat clean reobfJar
+```
+
+The assembled mod JAR will appear in `build/libs/` after `build`.
+
+#### Run Client
+```
+.\gradlew.bat runClient
+```
+
+The `runClient` task starts a Minecraft client with the mod loaded for development and testing.
+
+---
+
+## Backlog
+
+## `MU-1` Calibrate Mob Spawning in Cave Dimension
+
+**Type:** Improvement  
+**Priority:** High
+
+### Description
+
+Mob spawning in the Cave Dimension appears unbalanced. Excessive spawning of **Stoneman** mobs and gemstone lighting may be affecting spawn logic.
+
+### Tasks
+
+- Review gemstone lighting impact (ore generation)
+- Investigate ignoring light levels for mob spawning
+- Evaluate Stoneman spawn rates (possibly too high)
+
+## `MU-2` Replicate Cave Dimension Teleportation Crash
+
+**Type:** Bug  
+**Priority:** High
+
+### Description
+
+Crash occurs when teleporting from Overworld to Cave Dimension under specific conditions.
+
+### Reproduction Notes
+
+- Low health
+- Teleporter used multiple times
+- Overworld → Cave Dimension transition
+
+### Tasks
+
+- Attempt to reliably reproduce crash
+- Add logging around teleport handler
+- Validate player state before dimension transfer
+
+## `MU-3` Fix Portal Linking
+
+**Type:** Bug  
+**Priority:** Medium
+
+### Description
+
+Portal linking is delayed by one step. New portals created in the Cave Dimension link correctly, but the system appears one portal behind.
+
+### Expected Behavior
+
+Creating a new portal in the Cave Dimension should link immediately and correctly to the Overworld counterpart.
+
+### Tasks
+
+- Trace portal registry mapping
+- Inspect stored portal coordinates
+- Verify dimension pairing logic
+
+## `MU-4` Fix Fire Block Border Rendering
+
+**Type:** Bug  
+**Priority:** Low
+
+### Description
+
+Fire block border rendering appears visually incorrect.
+
+### Tasks
+
+- Review block model JSON
+- Check render layer configuration
+- Test in multiple lighting conditions
+
+## `MU-5` Refill Smelter Fuel Bar with Igniter
+
+**Type:** Feature  
+**Priority:** Medium
+
+### Description
+
+Right-clicking the smelter with an Igniter item should refill the fuel bar.
+
+### Acceptance Criteria
+
+- Fuel refills only up to maximum capacity
+- Fuel does not exceed remaining igniter fuel
+- Proper sync between client and server
+- Visual fuel bar updates correctly
+
+## `MU-6` Playtesting and Balancing
+
+**Type:** Task  
+**Priority:** Medium
+
+### Description
+
+Perform play-testing sessions to evaluate the new features and balance adjustments.
+
+### Tasks
+
+- Stress armor toggle functionality
+- Review armor and tool balance
+- Review ore distribution and rarity
+- Evalulate fuel efficiency and smelter mechanics
 
 ---
 
@@ -413,7 +567,7 @@ Armor values shown as: Boots / Leggings / Chestplate / Helmet
 | Obsidian        | 18                | 3/5/5/3              | 2.5       | 10             | **Night Vision**                                                 |
 | Burning Diamond | 17                | 4/7/9/4              | 2.0       | 15             | **Fire Resistance**                                              |
 | Platinum        | 21                | 5/8/9/5              | 3.0       | 10             | **Strength**                                                     |
-| Uranium         | 12                | 3/6/8/3              | 1.0       | 15             | **Haste II**                                                    |
+| Uranium         | 12                | 3/6/8/3              | 1.0       | 15             | **Haste II**                                                     |
 | Bloodstone      | 3                 | 6/6/6/6              | 4.0       | 5              | **Instant Health** + Blindness + Slowness V + Mining Fatigue III |
 | Ender           | 24                | 3/6/8/3              | 2.0       | 20             | **Flight** (custom)                                              |
 
@@ -448,14 +602,14 @@ All armor set bonus effects can be **toggled on and off** per player. When toggl
 2. **Double-sneak** (press sneak twice quickly, within 0.5 seconds)
 3. An actionbar message confirms the new state: **"Armor Effects: ON"** (green) or **"Armor Effects: OFF"** (red)
 
-| Property    | Value                                                                  |
-| ----------- | ---------------------------------------------------------------------- |
-| Activation  | Double-sneak while wearing a full matching armor set                   |
-| Window      | 10 ticks (0.5 seconds) between sneaks                                  |
-| Scope       | Per-player — each player has their own toggle state                    |
-| Persistence | Saved to the world — survives game restarts and world reloads          |
-| Default     | ON (effects are active)                                                |
-| Applies To  | All armor set bonus effects (Ruby, Sapphire, Amethyst, Chromium, etc.) |
+| Property    | Value                                                                     |
+| ----------- | ------------------------------------------------------------------------- |
+| Activation  | Double-sneak while wearing a full matching armor set                      |
+| Window      | 10 ticks (0.5 seconds) between sneaks                                     |
+| Scope       | Per-player — each player has their own toggle state                       |
+| Persistence | Saved to the world — survives game restarts and world reloads             |
+| Default     | ON (effects are active)                                                   |
+| Applies To  | All armor set bonus effects (Ruby, Sapphire, Amethyst, Chromium, etc.)    |
 | Limitation  | Cannot toggle while flying; will display a red error message if attempted |
 
 > **Note:** Toggling affects all armor sets globally for that player. If you toggle effects off with Amethyst armor, they remain off when you switch to Ruby armor until you toggle them back on.
@@ -3927,92 +4081,6 @@ These recipes use the custom <img src="src/main/resources/assets/uplift/textures
 | Burning Diamond | 40,000            | 200           | 25× Coal   |
 
 > Burning Diamond Block and Tasmanite Block can also be used as fuel (block item variants).
-
----
-
-## Backlog
-
-## `MU-1` Calibrate Mob Spawning in Cave Dimension
-**Type:** Improvement  
-**Priority:** High  
-
-### Description
-Mob spawning in the Cave Dimension appears unbalanced. Excessive spawning of **Stoneman** mobs and gemstone lighting may be affecting spawn logic.
-
-### Tasks
-- Review gemstone lighting impact (ore generation)
-- Investigate ignoring light levels for mob spawning
-- Evaluate Stoneman spawn rates (possibly too high)
-
-## `MU-2` Replicate Cave Dimension Teleportation Crash
-**Type:** Bug  
-**Priority:** High  
-
-### Description
-Crash occurs when teleporting from Overworld to Cave Dimension under specific conditions.
-
-### Reproduction Notes
-- Low health
-- Teleporter used multiple times
-- Overworld → Cave Dimension transition
-
-### Tasks
-- Attempt to reliably reproduce crash
-- Add logging around teleport handler
-- Validate player state before dimension transfer
-
-## `MU-3` Fix Portal Linking
-**Type:** Bug  
-**Priority:** Medium  
-
-### Description
-Portal linking is delayed by one step. New portals created in the Cave Dimension link correctly, but the system appears one portal behind.
-
-### Expected Behavior
-Creating a new portal in the Cave Dimension should link immediately and correctly to the Overworld counterpart.
-
-### Tasks
-- Trace portal registry mapping
-- Inspect stored portal coordinates
-- Verify dimension pairing logic
-
-## `MU-4` Fix Fire Block Border Rendering
-**Type:** Bug  
-**Priority:** Low  
-
-### Description
-Fire block border rendering appears visually incorrect.
-
-### Tasks
-- Review block model JSON
-- Check render layer configuration
-- Test in multiple lighting conditions
-
-## `MU-5` Refill Smelter Fuel Bar with Igniter
-**Type:** Feature  
-**Priority:** Medium  
-
-### Description
-Right-clicking the smelter with an Igniter item should refill the fuel bar.
-
-### Acceptance Criteria
-- Fuel refills only up to maximum capacity
-- Fuel does not exceed remaining igniter fuel
-- Proper sync between client and server
-- Visual fuel bar updates correctly
-
-## `MU-6` Playtesting and Balancing
-**Type:** Task  
-**Priority:** Medium  
-
-### Description
-Perform play-testing sessions to evaluate the new features and balance adjustments.
-
-### Tasks
-- Stress armor toggle functionality
-- Review armor and tool balance
-- Review ore distribution and rarity
-- Evalulate fuel efficiency and smelter mechanics
 
 ---
 
