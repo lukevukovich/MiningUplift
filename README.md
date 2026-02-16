@@ -8,6 +8,9 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
 
 ## Table of Contents
 
+- [Installation](#installation)
+- [Development Setup](#development-setup)
+- [Backlog](#backlog)
 - [New Ores & Materials](#new-ores--materials)
   - [Ruby](#ruby)
   - [Sapphire](#sapphire)
@@ -33,6 +36,7 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
   - [Stoneman Spawn Egg](#stoneman-spawn-egg)
 - [Tool & Weapon Stats](#tool--weapon-stats)
 - [Armor Stats & Set Bonuses](#armor-stats--set-bonuses)
+- [Armor Effect Toggle](#armor-effect-toggle)
 - [Special Blocks](#special-blocks)
   - [Gem Crusher](#gem-crusher)
   - [Smelter](#smelter)
@@ -49,6 +53,7 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
   - [Stoneman](#stoneman)
 - [Effects](#effects)
   - [Flight](#flight)
+  - [Luminous](#luminous)
 - [Crafting](#crafting)
   - [Utility & Special Item Recipes](#utility--special-item-recipes)
   - [Ruby Recipes](#ruby-recipes)
@@ -68,7 +73,158 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
   - [Furnace Recipes](#furnace-recipes)
   - [Smelter Recipes](#smelter-recipes)
   - [Fuel Values](#fuel-values)
-- [Backlog](#backlog)
+
+---
+
+## Installation
+
+### Prerequisites:
+  - Java JRE 8
+  - Minecraft 1.15.2
+  - Forge Mod Loader for Minecraft 1.15.2
+
+### To install the mod for normal use (not development):
+  1. Ensure Minecraft version 1.15.2 exists for Forge Mod Loader to use.
+  1. Install Forge Mod Loader for Minecraft 1.15.2 and launch Minecraft once with that profile so the `mods/` folder is created.
+  2. Build the mod JAR (or download a release) and place the JAR file into the `mods/` folder of your Forge-enabled Minecraft installation.
+  3. Start Minecraft with the Forge profile - the mod should load automatically.
+
+> Note: This is a regular Forge mod distribution — you do not need the JDK to run the mod in a normal Minecraft client; only the Java runtime + Forge + Minecraft are required for players.
+
+---
+
+## Development Setup
+
+### Dev Prerequisites
+
+- Java JRE 8
+- Java JDK 8
+- Repository cloned locally
+- Global Gradle is optional; the repository includes a Gradle wrapper
+
+### Build & Run Locally
+
+Use the Gradle wrapper from the project root on Windows (PowerShell or CMD):
+
+#### Build JAR
+```
+.\gradlew.bat clean reobfJar
+```
+
+The assembled mod JAR will appear in `build/libs/` after `build`.
+
+#### Run Client
+```
+.\gradlew.bat runClient
+```
+
+The `runClient` task starts a Minecraft client with the mod loaded for development and testing.
+
+---
+
+## Backlog
+
+## `MU-1` Calibrate Mob Spawning in Cave Dimension
+
+**Type:** Improvement  
+**Priority:** High
+
+### Description
+
+Mob spawning in the Cave Dimension appears unbalanced. Excessive spawning of **Stoneman** mobs and gemstone lighting may be affecting spawn logic.
+
+### Tasks
+
+- Review gemstone lighting impact (ore generation)
+- Investigate ignoring light levels for mob spawning
+- Evaluate Stoneman spawn rates (possibly too high)
+
+## `MU-2` Replicate Cave Dimension Teleportation Crash
+
+**Type:** Bug  
+**Priority:** High
+
+### Description
+
+Crash occurs when teleporting from Overworld to Cave Dimension under specific conditions.
+
+### Reproduction Notes
+
+- Low health
+- Teleporter used multiple times
+- Overworld → Cave Dimension transition
+
+### Tasks
+
+- Attempt to reliably reproduce crash
+- Add logging around teleport handler
+- Validate player state before dimension transfer
+
+## `MU-3` Fix Portal Linking
+
+**Type:** Bug  
+**Priority:** Medium
+
+### Description
+
+Portal linking is delayed by one step. New portals created in the Cave Dimension link correctly, but the system appears one portal behind.
+
+### Expected Behavior
+
+Creating a new portal in the Cave Dimension should link immediately and correctly to the Overworld counterpart.
+
+### Tasks
+
+- Trace portal registry mapping
+- Inspect stored portal coordinates
+- Verify dimension pairing logic
+
+## `MU-4` Fix Fire Block Border Rendering
+
+**Type:** Bug  
+**Priority:** Low
+
+### Description
+
+Fire block border rendering appears visually incorrect.
+
+### Tasks
+
+- Review block model JSON
+- Check render layer configuration
+- Test in multiple lighting conditions
+
+## `MU-5` Refill Smelter Fuel Bar with Igniter
+
+**Type:** Feature  
+**Priority:** Medium
+
+### Description
+
+Right-clicking the smelter with an Igniter item should refill the fuel bar.
+
+### Acceptance Criteria
+
+- Fuel refills only up to maximum capacity
+- Fuel does not exceed remaining igniter fuel
+- Proper sync between client and server
+- Visual fuel bar updates correctly
+
+## `MU-6` Playtesting and Balancing
+
+**Type:** Task  
+**Priority:** Medium
+
+### Description
+
+Perform play-testing sessions to evaluate the new features and balance adjustments.
+
+### Tasks
+
+- Stress armor toggle functionality
+- Review armor and tool balance
+- Review ore distribution and rarity
+- Evalulate fuel efficiency and smelter mechanics
 
 ---
 
@@ -110,7 +266,7 @@ A blue gemstone found deeper underground. Sapphire tools and armor are a step up
 
 <img src="src/main/resources/assets/uplift/textures/blocks/amethyst_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/amethyst_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/amethyst.png" width="40" style="image-rendering: pixelated;">
 
-A vibrant gemstone with moderate stats. Amethyst armor grants a powerful Jump Boost effect.
+A vibrant gemstone with moderate stats. Amethyst armor grants a Speed effect when worn as a full set.
 
 | Property            | Value                      |
 | ------------------- | -------------------------- |
@@ -126,7 +282,7 @@ A vibrant gemstone with moderate stats. Amethyst armor grants a powerful Jump Bo
 
 <img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/blocks/chrome_block.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="40" style="image-rendering: pixelated;"> <img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="40" style="image-rendering: pixelated;">
 
-A metallic ore smelted into ingots. Chromium has stats similar to Sapphire and grants Speed when worn as a full armor set.
+A metallic ore smelted into ingots. Chromium has stats similar to Sapphire and grants **Luminous** (a custom light-emitting effect) when worn as a full armor set.
 
 | Property          | Value                      |
 | ----------------- | -------------------------- |
@@ -363,7 +519,7 @@ All custom tools follow standard Minecraft tool types (Sword, Pickaxe, Axe, Shov
 | Ruby            | 1             | 200        | 5.0        | 20             | Ruby            |
 | Sapphire        | 2             | 750        | 6.0        | 10             | Sapphire        |
 | Chromium        | 2             | 700        | 6.0        | 12             | Chromium Ingot  |
-| Amethyst      | 2             | 600        | 7.0        | 15             | Amethyst      |
+| Amethyst        | 2             | 600        | 7.0        | 15             | Amethyst        |
 | Obsidian        | 3             | 1,800      | 7.0        | 10             | Obsidian Shard  |
 | Burning Diamond | 4             | 1,650      | 9.0        | 15             | Burning Diamond |
 | Platinum        | 4             | 2,150      | 10.0       | 10             | Platinum Ingot  |
@@ -378,7 +534,7 @@ All custom tools follow standard Minecraft tool types (Sword, Pickaxe, Axe, Shov
 | Ruby            | 6     | 3       | 9   | 3.5    |
 | Sapphire        | 6     | 4       | 9   | 4.5    |
 | Chromium        | 6     | 4       | 9   | 4.5    |
-| Amethyst      | 6     | 5       | 9   | 5.5    |
+| Amethyst        | 6     | 5       | 9   | 5.5    |
 | Obsidian        | 7     | 5       | 9   | 4.5    |
 | Burning Diamond | 8     | 5       | 9   | 6.5    |
 | Platinum        | 10    | 6       | 11  | 7.0    |
@@ -406,16 +562,16 @@ Armor values shown as: Boots / Leggings / Chestplate / Helmet
 | --------------- | ----------------- | -------------------- | --------- | -------------- | ---------------------------------------------------------------- |
 | Ruby            | 5                 | 2/4/5/2              | 0.0       | 20             | **Resistance**                                                   |
 | Sapphire        | 9                 | 2/5/6/2              | 1.0       | 10             | **Water Breathing**                                              |
-| Chromium        | 8                 | 2/5/6/2              | 1.0       | 12             | **Speed**                                                        |
-| Amethyst      | 6                 | 3/5/6/3              | 0.0       | 15             | **Jump Boost II**                                                |
+| Chromium        | 8                 | 2/5/6/2              | 1.0       | 12             | **Luminous** (custom)                                            |
+| Amethyst        | 6                 | 3/5/6/3              | 0.0       | 15             | **Speed**                                                        |
 | Obsidian        | 18                | 3/5/5/3              | 2.5       | 10             | **Night Vision**                                                 |
 | Burning Diamond | 17                | 4/7/9/4              | 2.0       | 15             | **Fire Resistance**                                              |
 | Platinum        | 21                | 5/8/9/5              | 3.0       | 10             | **Strength**                                                     |
-| Uranium         | 12                | 3/6/8/3              | 1.0       | 15             | **Haste III**                                                    |
+| Uranium         | 12                | 3/6/8/3              | 1.0       | 15             | **Haste II**                                                     |
 | Bloodstone      | 3                 | 6/6/6/6              | 4.0       | 5              | **Instant Health** + Blindness + Slowness V + Mining Fatigue III |
 | Ender           | 24                | 3/6/8/3              | 2.0       | 20             | **Flight** (custom)                                              |
 
-> **Note:** Set bonuses activate only when all 4 armor pieces are worn. The effect persists with infinite duration and is instantly removed when any piece is unequipped. Each set displays colored particles when active.
+> **Note:** Set bonuses activate only when all 4 armor pieces are worn. The effect persists with infinite duration and is instantly removed when any piece is unequipped. Each set displays colored particles when active. Effects can be toggled on and off — see [Armor Effect Toggle](#armor-effect-toggle).
 
 ### Armor Durability Reference
 
@@ -426,13 +582,37 @@ Durability = Durability Factor x Base (Boots: 27, Leggings: 30, Chestplate: 35, 
 | Ruby            | 135   | 150      | 175        | 125    |
 | Sapphire        | 243   | 270      | 315        | 225    |
 | Chromium        | 216   | 240      | 280        | 200    |
-| Amethyst      | 162   | 180      | 210        | 150    |
+| Amethyst        | 162   | 180      | 210        | 150    |
 | Obsidian        | 486   | 540      | 630        | 450    |
 | Burning Diamond | 459   | 510      | 595        | 425    |
 | Platinum        | 567   | 630      | 735        | 525    |
 | Uranium         | 324   | 360      | 420        | 300    |
 | Bloodstone      | 81    | 90       | 105        | 75     |
 | Ender           | 648   | 720      | 840        | 600    |
+
+---
+
+## Armor Effect Toggle
+
+All armor set bonus effects can be **toggled on and off** per player. When toggled off, the armor still provides its normal protection and durability but grants no potion effects or particles. This is useful when you want the armor's defense without the effect (for example, disabling Speed to build precisely, or disabling Luminous while exploring).
+
+**How to toggle:**
+
+1. Equip a full matching armor set (all 4 pieces of the same material)
+2. **Double-sneak** (press sneak twice quickly, within 0.5 seconds)
+3. An actionbar message confirms the new state: **"Armor Effects: ON"** (green) or **"Armor Effects: OFF"** (red)
+
+| Property    | Value                                                                     |
+| ----------- | ------------------------------------------------------------------------- |
+| Activation  | Double-sneak while wearing a full matching armor set                      |
+| Window      | 10 ticks (0.5 seconds) between sneaks                                     |
+| Scope       | Per-player — each player has their own toggle state                       |
+| Persistence | Saved to the world — survives game restarts and world reloads             |
+| Default     | ON (effects are active)                                                   |
+| Applies To  | All armor set bonus effects (Ruby, Sapphire, Amethyst, Chromium, etc.)    |
+| Limitation  | Cannot toggle while flying; will display a red error message if attempted |
+
+> **Note:** Toggling affects all armor sets globally for that player. If you toggle effects off with Amethyst armor, they remain off when you switch to Ruby armor until you toggle them back on.
 
 ---
 
@@ -448,7 +628,7 @@ A functional block that converts gems and materials into **Gem Dust** when right
 | ----------------- | --------------- |
 | Ruby              | 1               |
 | Sapphire          | 3               |
-| Amethyst        | 3               |
+| Amethyst          | 3               |
 | Diamond (vanilla) | 6               |
 | Emerald (vanilla) | 6               |
 | Obsidian Shard    | 6               |
@@ -483,7 +663,7 @@ A specialized furnace made from **Obsidian**. The Smelter must be **lit with an 
 
 ### Igniter Fire
 
-A special orange-red fire placed by the Igniter. Deals different damage depending on weather:
+A special vibrant purple fire placed by the Igniter. Deals different damage depending on weather:
 
 | Condition   | Players               | Mobs                   |
 | ----------- | --------------------- | ---------------------- |
@@ -571,7 +751,7 @@ A portal block built from a **Gemstone** frame (just like a Nether Portal frame 
 | <img src="src/main/resources/assets/uplift/textures/blocks/ruby_ore.png" width="28" style="image-rendering: pixelated;">            | Ruby Ore            | 22          | 10        | 0-64    | 1 (Stone)     |
 | <img src="src/main/resources/assets/uplift/textures/blocks/sapphire_ore.png" width="28" style="image-rendering: pixelated;">        | Sapphire Ore        | 6           | 8         | 0-32    | 2 (Iron)      |
 | <img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="28" style="image-rendering: pixelated;">          | Chromium Ore        | 6           | 8         | 0-32    | 2 (Iron)      |
-| <img src="src/main/resources/assets/uplift/textures/blocks/amethyst_ore.png" width="28" style="image-rendering: pixelated;">      | Amethyst Ore      | 6           | 8         | 0-32    | 2 (Iron)      |
+| <img src="src/main/resources/assets/uplift/textures/blocks/amethyst_ore.png" width="28" style="image-rendering: pixelated;">        | Amethyst Ore        | 6           | 8         | 0-32    | 2 (Iron)      |
 | <img src="src/main/resources/assets/uplift/textures/blocks/platinum_ore.png" width="28" style="image-rendering: pixelated;">        | Platinum Ore        | 1           | 4         | 0-8     | 4 (Platinum)  |
 | <img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_ore.png" width="28" style="image-rendering: pixelated;"> | Burning Diamond Ore | 1           | 4         | 0-12    | 3 (Diamond)   |
 | <img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_ore.png" width="28" style="image-rendering: pixelated;">       | Tasmanite Ore       | 12          | 8         | 0-128   | 2 (Iron)      |
@@ -599,7 +779,7 @@ The Cave Dimension has dramatically increased ore rates. All ores generate betwe
 | <img src="src/main/resources/assets/uplift/textures/blocks/ruby_ore.png" width="28" style="image-rendering: pixelated;">            | Ruby Ore               | 30          | 10        |
 | <img src="src/main/resources/assets/uplift/textures/blocks/sapphire_ore.png" width="28" style="image-rendering: pixelated;">        | Sapphire Ore           | 14          | 8         |
 | <img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="28" style="image-rendering: pixelated;">          | Chromium Ore           | 14          | 8         |
-| <img src="src/main/resources/assets/uplift/textures/blocks/amethyst_ore.png" width="28" style="image-rendering: pixelated;">      | Amethyst Ore         | 14          | 8         |
+| <img src="src/main/resources/assets/uplift/textures/blocks/amethyst_ore.png" width="28" style="image-rendering: pixelated;">        | Amethyst Ore           | 14          | 8         |
 | <img src="src/main/resources/assets/uplift/textures/blocks/platinum_ore.png" width="28" style="image-rendering: pixelated;">        | Platinum Ore           | 3           | 4         |
 | <img src="src/main/resources/assets/uplift/textures/blocks/burning_diamond_ore.png" width="28" style="image-rendering: pixelated;"> | Burning Diamond Ore    | 2           | 4         |
 | <img src="src/main/resources/assets/uplift/textures/blocks/tasmanite_ore.png" width="28" style="image-rendering: pixelated;">       | Tasmanite Ore          | 20          | 10        |
@@ -650,7 +830,7 @@ A hostile mob that spawns in the **Cave Dimension**. Resembles a zombie-like cre
 | ---------- | ------ |
 | Ruby       | 0-1    |
 | Sapphire   | 0-1    |
-| Amethyst | 0-1    |
+| Amethyst   | 0-1    |
 | Stone Meal | 0-1    |
 
 ---
@@ -668,6 +848,22 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 | Type     | Beneficial                                                     |
 | Source   | Full Ender armor set bonus                                     |
 | Notes    | Effect is removed immediately if any armor piece is unequipped |
+
+---
+
+### Luminous
+
+<img src="src/main/resources/assets/uplift/textures/mob_effect/luminous.png" width="40" style="image-rendering: pixelated;">
+
+Granted by wearing a full set of **Chromium armor**. Places an invisible light source block at the player's feet that follows them as they move, illuminating the area around them. The light repositions every second and old light blocks are cleaned up automatically. The light source is visible to other players.
+
+| Property        | Value                                                          |
+| --------------- | -------------------------------------------------------------- |
+| Type            | Beneficial                                                     |
+| Source          | Full Chromium armor set bonus                                  |
+| Light Level     | Equivalent to a placed light source at the player's position   |
+| Update Interval | Every 20 ticks (1 second)                                      |
+| Notes           | Effect is removed immediately if any armor piece is unequipped |
 
 ---
 
@@ -3849,13 +4045,13 @@ Granted by wearing a full set of **Ender armor**. Allows creative-mode flight.
 
 These recipes use a standard **Furnace** (vanilla mechanics — use coal/charcoal/etc. as fuel):
 
-| Input                                                                                               | Output                                                                                                       | XP  | Cook Time |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --- | --------- |
+| Input                                                                                                                                   | Output                                                                                                                                           | XP  | Cook Time |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --------- |
 | <img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="28" style="image-rendering: pixelated;"> Chromium Ore | <img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="28" style="image-rendering: pixelated;"> Chromium Ingot       | 0.7 | 200 ticks |
-| Platinum Tools/Armor                                                                                | <img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="28" style="image-rendering: pixelated;"> Platinum Nugget   | 1.0 | 400 ticks |
-| Chromium Tools/Armor                                                                                | <img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="28" style="image-rendering: pixelated;"> Chromium Nugget     | 0.7 | 200 ticks |
-| Rose Gold Tools/Armor                                                                               | <img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="28" style="image-rendering: pixelated;"> Rose Gold Nugget | 0.8 | 200 ticks |
-| Uranium Tools/Armor                                                                                 | <img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="28" style="image-rendering: pixelated;"> Uranium Nugget     | 0.7 | 200 ticks |
+| Platinum Tools/Armor                                                                                                                    | <img src="src/main/resources/assets/uplift/textures/items/platinum_nugget.png" width="28" style="image-rendering: pixelated;"> Platinum Nugget   | 1.0 | 400 ticks |
+| Chromium Tools/Armor                                                                                                                    | <img src="src/main/resources/assets/uplift/textures/items/chrome_nugget.png" width="28" style="image-rendering: pixelated;"> Chromium Nugget     | 0.7 | 200 ticks |
+| Rose Gold Tools/Armor                                                                                                                   | <img src="src/main/resources/assets/uplift/textures/items/rose_gold_nugget.png" width="28" style="image-rendering: pixelated;"> Rose Gold Nugget | 0.8 | 200 ticks |
+| Uranium Tools/Armor                                                                                                                     | <img src="src/main/resources/assets/uplift/textures/items/uranium_nugget.png" width="28" style="image-rendering: pixelated;"> Uranium Nugget     | 0.7 | 200 ticks |
 
 ---
 
@@ -3863,8 +4059,8 @@ These recipes use a standard **Furnace** (vanilla mechanics — use coal/charcoa
 
 These recipes use the custom <img src="src/main/resources/assets/uplift/textures/blocks/smelter_front.png" width="28" style="image-rendering: pixelated;"> **Smelter** block (must be lit with an Igniter). The Smelter stays lit for **200 smelts**.
 
-| Input                                                                                                   | Output                                                                                                       | XP  | Cook Time |
-| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --- | --------- |
+| Input                                                                                                                                       | Output                                                                                                                                           | XP  | Cook Time |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --------- |
 | <img src="wiki/wiki_textures/diamond.png" width="28" style="image-rendering: pixelated;"> Diamond                                           | <img src="src/main/resources/assets/uplift/textures/items/burning_dust.png" width="28" style="image-rendering: pixelated;"> Burning Diamond Dust | 3   | 150 ticks |
 | <img src="src/main/resources/assets/uplift/textures/blocks/chrome_ore.png" width="28" style="image-rendering: pixelated;"> Chromium Ore     | <img src="src/main/resources/assets/uplift/textures/items/chrome_ingot.png" width="28" style="image-rendering: pixelated;"> Chromium Ingot       | 1   | 150 ticks |
 | <img src="wiki/wiki_textures/gold_ore.png" width="28" style="image-rendering: pixelated;"> Gold Ore                                         | <img src="wiki/wiki_textures/gold_ingot.png" width="28" style="image-rendering: pixelated;"> Gold Ingot                                          | 1   | 150 ticks |
@@ -3885,27 +4081,6 @@ These recipes use the custom <img src="src/main/resources/assets/uplift/textures
 | Burning Diamond | 40,000            | 200           | 25× Coal   |
 
 > Burning Diamond Block and Tasmanite Block can also be used as fuel (block item variants).
-
----
-
-## Backlog
-
-- Calibrate mob spawning in cave dimension
-  - Review gemstone lighting (ore generation)
-  - Attempt to ignore light levels when spawning mobs?
-  - A **_lot_** of stoneman (maybe too many?)
-- Replicate cave dimension teleportation crash
-  - Low health
-  - Used teleporter a few times
-  - Overworld -> Cave Dimension
-- Fix portal linking
-  - Linking seems to be one step behind
-  - Creating new portal in cave dimension should link correctly to the overworld
-    - it _does_ but the linking is one step behind
-- Fix fire block border rendering
-- Handle `/clear` command with armor/item effects
-- Refill smelter fuel bar when right-clicking with igniter item
-  - Ensure only refills to maximum fuel capacity or remaining igniter fuel amount
 
 ---
 

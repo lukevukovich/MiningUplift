@@ -10,6 +10,7 @@ import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.potion.Effect;
+import net.minecraft.potion.EffectInstance;
 import net.minecraftforge.event.TickEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
@@ -38,10 +39,15 @@ public class RoseGoldWeaponEffects {
             }
         }
 
-        // Remove any RoseGold effect not currently provided by a held weapon
+        // Remove any RoseGold effect not currently provided by a held weapon.
+        // Only remove if the amplifier matches weapon-level (2) so we don't
+        // strip armor-granted effects that happen to share the same Effect type.
         for (Effect eff : allRoseGoldEffects) {
             if (!effectsHeld.contains(eff) && player.isPotionActive(eff)) {
-                player.removePotionEffect(eff);
+                EffectInstance instance = player.getActivePotionEffect(eff);
+                if (instance != null && instance.getAmplifier() == 2) {
+                    player.removePotionEffect(eff);
+                }
             }
         }
     }

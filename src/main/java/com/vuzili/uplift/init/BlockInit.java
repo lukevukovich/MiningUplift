@@ -8,6 +8,7 @@ import com.vuzili.uplift.objects.blocks.BurningDiamondFlammable;
 import com.vuzili.uplift.objects.blocks.CavePortal;
 import com.vuzili.uplift.objects.blocks.GemCrusher;
 import com.vuzili.uplift.objects.blocks.IgniterFire;
+import com.vuzili.uplift.objects.blocks.LightSourceBlock;
 import com.vuzili.uplift.objects.blocks.SmelterFurnaceBlock;
 import com.vuzili.uplift.objects.blocks.TasmaniteBlockFuel;
 import com.vuzili.uplift.objects.blocks.Torch;
@@ -116,6 +117,9 @@ public class BlockInit
 	//Portal
 	public static final Block cave_portal = null;
 
+	//Light Source (dynamic, invisible)
+	public static final Block light_source = null;
+
 
 	@SubscribeEvent
 	public static void registerBlocks(final RegistryEvent.Register<Block> event)
@@ -206,6 +210,14 @@ public class BlockInit
 			.hardnessAndResistance(-1.0F)
 			.noDrops())
 			.setRegistryName("cave_portal"));
+
+		//Light Source (invisible block for dynamic player lighting)
+		event.getRegistry().register(new LightSourceBlock(Block.Properties.create(Material.AIR)
+			.doesNotBlockMovement()
+			.hardnessAndResistance(0.0f)
+			.lightValue(15)
+			.noDrops())
+			.setRegistryName("light_source"));
 
 	}
 	
