@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorEffectToggle;
 import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
@@ -31,10 +32,16 @@ public class ArmorPotionObsidian extends ArmorItem {
 				&& legs.getItem() == ItemInit.obsidian_leggings
 				&& feet.getItem() == ItemInit.obsidian_boots) 
 		{
-			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(Effects.NIGHT_VISION, Integer.MAX_VALUE, 0, false, false));
+			if (ArmorEffectToggle.areEffectsEnabled(player)) {
+				if (!world.isRemote) {
+					player.addPotionEffect(new EffectInstance(Effects.NIGHT_VISION, Integer.MAX_VALUE, 0, false, false));
+				}
+				ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.obsidian_boots, 20, 20, 20);
+			} else {
+				if (!world.isRemote) {
+					player.removePotionEffect(Effects.NIGHT_VISION);
+				}
 			}
-			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.obsidian_boots, 20, 20, 20);
 		}
 		else {
 			if (!world.isRemote) {

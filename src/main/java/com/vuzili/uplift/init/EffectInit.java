@@ -2,6 +2,7 @@ package com.vuzili.uplift.init;
 
 import com.vuzili.uplift.Uplift;
 import com.vuzili.uplift.effects.FlyingEffect;
+import com.vuzili.uplift.effects.LightEffect;
 
 import net.minecraft.potion.Effect;
 import net.minecraftforge.event.RegistryEvent;
@@ -20,5 +21,6 @@ public class EffectInit {
     @SubscribeEvent
     public static void registerEffects(RegistryEvent.Register<Effect> event) {
     	event.getRegistry().register(new FlyingEffect().setRegistryName("flight"));
+    	event.getRegistry().register(new LightEffect().setRegistryName("luminous"));
     }
 }

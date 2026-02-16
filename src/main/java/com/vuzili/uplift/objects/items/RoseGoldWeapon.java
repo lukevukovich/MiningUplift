@@ -45,7 +45,12 @@ public class RoseGoldWeapon extends SwordItem
 	            }
 	        } else {
 				if (!worldIn.isRemote) {
-					livingEntity.removePotionEffect(effect);
+					// Only remove if the active effect was weapon-granted (amplifier 2)
+					// to avoid stripping armor-granted effects (e.g. Amethyst Speed I)
+					EffectInstance existing = livingEntity.getActivePotionEffect(effect);
+					if (existing != null && existing.getAmplifier() == 2) {
+						livingEntity.removePotionEffect(effect);
+					}
 				}
 			}
 	    }

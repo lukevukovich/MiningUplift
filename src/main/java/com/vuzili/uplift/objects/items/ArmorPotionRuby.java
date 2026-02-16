@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorEffectToggle;
 import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
@@ -31,10 +32,16 @@ public class ArmorPotionRuby extends ArmorItem {
 				&& legs.getItem() == ItemInit.ruby_leggings
 				&& feet.getItem() == ItemInit.ruby_boots) 
 		{
-			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(Effects.RESISTANCE, Integer.MAX_VALUE, 0, false, false));
+			if (ArmorEffectToggle.areEffectsEnabled(player)) {
+				if (!world.isRemote) {
+					player.addPotionEffect(new EffectInstance(Effects.RESISTANCE, Integer.MAX_VALUE, 0, false, false));
+				}
+				ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.ruby_boots, 255, 44, 44);
+			} else {
+				if (!world.isRemote) {
+					player.removePotionEffect(Effects.RESISTANCE);
+				}
 			}
-			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.ruby_boots, 255, 44, 44);
 		}
 		else {
 			if (!world.isRemote) {

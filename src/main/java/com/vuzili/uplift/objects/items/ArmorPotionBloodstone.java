@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorEffectToggle;
 import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
@@ -31,13 +32,22 @@ public class ArmorPotionBloodstone extends ArmorItem {
 				&& legs.getItem() == ItemInit.bloodstone_leggings
 				&& feet.getItem() == ItemInit.bloodstone_boots) 
 		{
-			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(Effects.INSTANT_HEALTH, Integer.MAX_VALUE, 0, false, false));
-				player.addPotionEffect(new EffectInstance(Effects.BLINDNESS, Integer.MAX_VALUE, 0, false, false));
-				player.addPotionEffect(new EffectInstance(Effects.SLOWNESS, Integer.MAX_VALUE, 4, false, false));
-				player.addPotionEffect(new EffectInstance(Effects.MINING_FATIGUE, Integer.MAX_VALUE, 2, false, false));
+			if (ArmorEffectToggle.areEffectsEnabled(player)) {
+				if (!world.isRemote) {
+					player.addPotionEffect(new EffectInstance(Effects.INSTANT_HEALTH, Integer.MAX_VALUE, 0, false, false));
+					player.addPotionEffect(new EffectInstance(Effects.BLINDNESS, Integer.MAX_VALUE, 0, false, false));
+					player.addPotionEffect(new EffectInstance(Effects.SLOWNESS, Integer.MAX_VALUE, 4, false, false));
+					player.addPotionEffect(new EffectInstance(Effects.MINING_FATIGUE, Integer.MAX_VALUE, 2, false, false));
+				}
+				ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.bloodstone_boots, 116, 10, 10);
+			} else {
+				if (!world.isRemote) {
+					player.removePotionEffect(Effects.INSTANT_HEALTH);
+					player.removePotionEffect(Effects.BLINDNESS);
+					player.removePotionEffect(Effects.SLOWNESS);
+					player.removePotionEffect(Effects.MINING_FATIGUE);
+				}
 			}
-			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.bloodstone_boots, 116, 10, 10);
 		} else {
 			if (!world.isRemote) {
 				player.removePotionEffect(Effects.INSTANT_HEALTH);

@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorEffectToggle;
 import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
@@ -31,10 +32,16 @@ public class ArmorPotionSapphire extends ArmorItem {
 				&& legs.getItem() == ItemInit.sapphire_leggings
 				&& feet.getItem() == ItemInit.sapphire_boots) 
 		{
-			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(Effects.WATER_BREATHING, Integer.MAX_VALUE, 0, false, false));
+			if (ArmorEffectToggle.areEffectsEnabled(player)) {
+				if (!world.isRemote) {
+					player.addPotionEffect(new EffectInstance(Effects.WATER_BREATHING, Integer.MAX_VALUE, 0, false, false));
+				}
+				ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.sapphire_boots, 49, 49, 250);
+			} else {
+				if (!world.isRemote) {
+					player.removePotionEffect(Effects.WATER_BREATHING);
+				}
 			}
-			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.sapphire_boots, 49, 49, 250);
 		}
 		else {
 			if (!world.isRemote) {

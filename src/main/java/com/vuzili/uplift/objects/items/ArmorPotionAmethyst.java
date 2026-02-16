@@ -1,6 +1,7 @@
 package com.vuzili.uplift.objects.items;
 
 import com.vuzili.uplift.init.ItemInit;
+import com.vuzili.uplift.util.ArmorEffectToggle;
 import com.vuzili.uplift.util.ArmorPotionEffectParticles;
 
 import net.minecraft.entity.player.PlayerEntity;
@@ -31,14 +32,20 @@ public class ArmorPotionAmethyst extends ArmorItem {
 				&& legs.getItem() == ItemInit.amethyst_leggings
 				&& feet.getItem() == ItemInit.amethyst_boots) 
 		{
-			if (!world.isRemote) {
-				player.addPotionEffect(new EffectInstance(Effects.JUMP_BOOST, Integer.MAX_VALUE, 1, false, false));
+			if (ArmorEffectToggle.areEffectsEnabled(player)) {
+				if (!world.isRemote) {
+					player.addPotionEffect(new EffectInstance(Effects.SPEED, Integer.MAX_VALUE, 0, false, false));
+				}
+				ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.amethyst_boots, 152, 13, 255);
+			} else {
+				if (!world.isRemote) {
+					player.removePotionEffect(Effects.SPEED);
+				}
 			}
-			ArmorPotionEffectParticles.spawnParticles(world, player, stack, ItemInit.amethyst_boots, 152, 13, 255);
 		}
 		else {
 			if (!world.isRemote) {
-				player.removePotionEffect(Effects.JUMP_BOOST);
+				player.removePotionEffect(Effects.SPEED);
 			}
 		}
 		super.onArmorTick(stack, world, player);
