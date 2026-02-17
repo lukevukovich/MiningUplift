@@ -92,6 +92,7 @@ public class Uplift
     	RenderTypeLookup.setRenderLayer(BlockInit.igniter_fire.getBlock(), RenderType.getCutout());
     	RenderTypeLookup.setRenderLayer(BlockInit.tasmanite_torch.getBlock(), RenderType.getCutout());
     	RenderTypeLookup.setRenderLayer(BlockInit.ender_torch.getBlock(), RenderType.getCutout());
+        RenderTypeLookup.setRenderLayer(BlockInit.bloodstone_torch.getBlock(), RenderType.getCutout());
     	
 		RenderTypeLookup.setRenderLayer(BlockInit.ruby_wall_torch.getBlock(), RenderType.getCutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.burning_diamond_wall_torch.getBlock(), RenderType.getCutout());
@@ -101,6 +102,7 @@ public class Uplift
 		RenderTypeLookup.setRenderLayer(BlockInit.tasmanite_wall_torch.getBlock(), RenderType.getCutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.opal_wall_torch.getBlock(), RenderType.getCutout());
 		RenderTypeLookup.setRenderLayer(BlockInit.ender_wall_torch.getBlock(), RenderType.getCutout());
+        RenderTypeLookup.setRenderLayer(BlockInit.bloodstone_wall_torch.getBlock(), RenderType.getCutout());
 		
         // Portal should render with translucent layer for animated texture
         RenderTypeLookup.setRenderLayer(BlockInit.cave_portal.getBlock(), RenderType.getTranslucent());

@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
+import com.vuzili.uplift.init.ItemInit;
 import com.vuzili.uplift.util.ArmorEffectToggle;
 
 import net.minecraft.entity.player.PlayerEntity;
@@ -59,7 +60,12 @@ public class ArmorEffectToggleListener {
 			if (lastStart != null && (currentTick - lastStart) <= DOUBLE_SNEAK_WINDOW) {
 				// Double-sneak detected — check for full matching armor set
 				if (isWearingFullMatchingSet(player)) {
-					if (player.abilities.isFlying) {
+					if (isWearingBloodstoneSet(player)) {
+						player.sendStatusMessage(
+								new StringTextComponent("Bloodstone armor effects cannot be toggled!")
+										.applyTextStyle(TextFormatting.RED),
+								true);
+					} else if (player.abilities.isFlying) {
 						// Prevent toggling while flying to avoid accidentally
 						// disabling flight effect mid-air and falling to death
 						player.sendStatusMessage(
@@ -74,6 +80,18 @@ public class ArmorEffectToggleListener {
 				LAST_SNEAK_START.put(uuid, currentTick);
 			}
 		}
+	}
+
+	private static boolean isWearingBloodstoneSet(PlayerEntity player) {
+		ItemStack head = player.getItemStackFromSlot(EquipmentSlotType.HEAD);
+		ItemStack chest = player.getItemStackFromSlot(EquipmentSlotType.CHEST);
+		ItemStack legs = player.getItemStackFromSlot(EquipmentSlotType.LEGS);
+		ItemStack feet = player.getItemStackFromSlot(EquipmentSlotType.FEET);
+
+		return head.getItem() == ItemInit.bloodstone_helmet
+				&& chest.getItem() == ItemInit.bloodstone_chestplate
+				&& legs.getItem() == ItemInit.bloodstone_leggings
+				&& feet.getItem() == ItemInit.bloodstone_boots;
 	}
 
 	/**

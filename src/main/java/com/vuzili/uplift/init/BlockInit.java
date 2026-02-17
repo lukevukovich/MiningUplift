@@ -87,6 +87,8 @@ public class BlockInit
 	//Bloodstone
 	public static final Block bloodstone_ore = null;
 	public static final Block bloodstone_block = null;
+	public static final Block bloodstone_torch = null;
+	public static final Block bloodstone_wall_torch = null;
 	
 	//Ender
 	public static final Block ender_ore = null;
@@ -177,6 +179,8 @@ public class BlockInit
 		//Bloodstone
 		event.getRegistry().register(new BlockXp(Block.Properties.create(Material.ROCK).hardnessAndResistance(3.0f, 3.0f).sound(SoundType.STONE).harvestLevel(2).harvestTool(ToolType.PICKAXE)).setRegistryName("bloodstone_ore"));
 		event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(5.0f, 6.0f).sound(SoundType.STONE).harvestLevel(2).harvestTool(ToolType.PICKAXE)).setRegistryName("bloodstone_block"));
+		event.getRegistry().register(new Torch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("bloodstone_torch"));
+		event.getRegistry().register(new WallTorch(Block.Properties.create(Material.MISCELLANEOUS).doesNotBlockMovement().hardnessAndResistance(0.0f).lightValue(14).sound(SoundType.WOOD)).setRegistryName("bloodstone_wall_torch"));
 		
 		//Ender
 		event.getRegistry().register(new BlockXp(Block.Properties.create(Material.ROCK).hardnessAndResistance(3.0f, 3.0f).sound(SoundType.STONE).harvestLevel(3).harvestTool(ToolType.PICKAXE)).setRegistryName("ender_ore"));
@@ -271,6 +275,7 @@ public class BlockInit
 		//Bloodstone
 		event.getRegistry().register(new BlockItem(bloodstone_ore, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("bloodstone_ore"));
 		event.getRegistry().register(new TasmaniteBlockFuel(bloodstone_block, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("bloodstone_block"));
+		event.getRegistry().register(new TorchItem(bloodstone_torch, bloodstone_wall_torch, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("bloodstone_torch"));
 		
 		//Ender
 		event.getRegistry().register(new BlockItem(ender_ore, new Item.Properties().group(UpliftItemGroup.instance)).setRegistryName("ender_ore"));
