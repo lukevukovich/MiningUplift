@@ -8,9 +8,10 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Development Setup](#development-setup)
-- [Backlog](#backlog)
+- [Project](#project)
+  - [Installation](#installation)
+  - [Development Setup](#development-setup)
+  - [Backlog](#backlog)
 - [New Ores & Materials](#new-ores--materials)
   - [Ruby](#ruby)
   - [Sapphire](#sapphire)
@@ -73,6 +74,11 @@ Mining Uplift is a Minecraft mod that adds **13 new ores and minerals**, full to
   - [Furnace Recipes](#furnace-recipes)
   - [Smelter Recipes](#smelter-recipes)
   - [Fuel Values](#fuel-values)
+
+---
+
+## Project
+The following section covers project setup, planning, installation, and development.
 
 ---
 
