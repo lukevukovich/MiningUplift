@@ -21,6 +21,7 @@ public class Torch extends TorchBlock
 	public static final RedstoneParticleData OBSIDIAN_TORCH_DUST = new RedstoneParticleData(0.08F, 0.08F, 0.08F, 1.0F); // 106, 40, 202
 	public static final RedstoneParticleData OPAL_TORCH_DUST = new RedstoneParticleData(0.8F, 0.8F, 0.8F, 1.0F);
 	public static final RedstoneParticleData ENDER_TORCH_DUST = new RedstoneParticleData(0.176F, 0.321F, 0.282F, 1.0F);
+	public static final RedstoneParticleData BLOODSTONE_TORCH_DUST = new RedstoneParticleData(0.427F, 0.063F, 0.063F, 1.0F);
 
 	public Torch(Properties properties) 
 	{
@@ -64,6 +65,10 @@ public class Torch extends TorchBlock
 		else if(this.getBlock() == BlockInit.ender_torch)
 		{
 			worldIn.addParticle(ENDER_TORCH_DUST, d0, d1, d2, 0.0D, 0.0D, 0.0D);
+		}
+		else if(this.getBlock() == BlockInit.bloodstone_torch)
+		{
+			worldIn.addParticle(BLOODSTONE_TORCH_DUST, d0, d1, d2, 0.0D, 0.0D, 0.0D);
 		}
 	}
 	

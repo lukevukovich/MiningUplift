@@ -689,6 +689,7 @@ Custom colored torches crafted with the resource on top of Coal on top of a Stic
 - <img src="src/main/resources/assets/uplift/textures/items/obsidian_torch.png" width="28" style="image-rendering: pixelated;"> Obsidian Torch
 - <img src="src/main/resources/assets/uplift/textures/items/ender_torch.png" width="28" style="image-rendering: pixelated;"> Ender Torch
 - <img src="src/main/resources/assets/uplift/textures/items/opal_torch.png" width="28" style="image-rendering: pixelated;"> Opal Torch
+- <img src="src/main/resources/assets/uplift/textures/items/bloodstone_torch.png" width="28" style="image-rendering: pixelated;"> Bloodstone Torch
 - <img src="src/main/resources/assets/uplift/textures/items/tasmanite_torch.png" width="28" style="image-rendering: pixelated;"> Tasmanite Torch (crafted differently - see [Crafting](#tasmanite-torch))
 
 All torches can be placed on walls (wall torch variant included).
@@ -3510,6 +3511,30 @@ Granted by wearing a full set of **Chromium armor**. Places an invisible light s
 </table>
 
 > **Crafting (Shapeless):** 1 Block of Bloodstone ➞ 9 Bloodstone
+
+#### Bloodstone Torch
+
+<table style="border-collapse: collapse;">
+<tr>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td rowspan="3" align="center" width="44" style="vertical-align: middle;"><span style="font-size: 32px;">➞</span></td>
+<td rowspan="3" align="center" style="vertical-align: middle; white-space: normal;"><img src="src/main/resources/assets/uplift/textures/items/bloodstone_torch.png" width="48" height="48" style="image-rendering: pixelated;"></td>
+</tr>
+<tr>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/coal.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+</tr>
+<tr>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/stick.png" width="32" height="32" style="image-rendering: pixelated;"></td>
+<td align="center" style="border: 1px solid #555; width: 40px; height: 40px; padding: 4px;"><img src="wiki/wiki_textures/blank.png" width="32" height="32" alt="" style="image-rendering: pixelated;"></td>
+</tr>
+</table>
+
+> **Crafting (Shaped):** Bloodstone above Coal above Stick ➞ 8 Bloodstone Torches
 
 ---
 
