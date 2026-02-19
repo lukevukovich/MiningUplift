@@ -126,6 +126,13 @@ The assembled mod JAR will appear in `build/libs/` after `build`.
 
 The `runClient` task starts a Minecraft client with the mod loaded for development and testing.
 
+#### Run Client (Debug)
+```
+.\gradlew.bat runClient --debug --stacktrace
+```
+
+The `--debug --stacktrace` flags enable more detailed logging for troubleshooting.
+
 ---
 
 ## Backlog
@@ -231,6 +238,26 @@ Perform play-testing sessions to evaluate the new features and balance adjustmen
 - Review armor and tool balance
 - Review ore distribution and rarity
 - Evalulate fuel efficiency and smelter mechanics
+
+## `MU-7` Replicate Igniter Fire Crash
+
+**Type:** Bug  
+**Priority:** High
+
+### Description
+
+Crash occurs when using the Igniter item to light fires under specific conditions.
+
+### Reproduction Notes
+
+- Using Igniter large forest
+- Placed igniter in third inventory slot
+
+### Tasks
+
+- Attempt to reliably reproduce crash
+- Add logging around Igniter use
+- Validate player and world state before applying fire
 
 ---
 
