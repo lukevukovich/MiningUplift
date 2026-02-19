@@ -56,9 +56,15 @@ public class TorchItem extends BlockItem {
     private boolean placeBlock(ItemUseContext context, BlockState state) {
         World world = context.getWorld();
         BlockPos pos = context.getPos().offset(context.getFace());
+        // Never replace/overwrite an existing block (including other torches, grass, snow layers, etc.)
+        if (!world.getBlockState(pos).isAir(world, pos)) {
+            return false;
+        }
         if (state.isValidPosition(world, pos)) {
             world.setBlockState(pos, state, 11);
-            context.getItem().shrink(1);
+            if (context.getPlayer() == null || !context.getPlayer().abilities.isCreativeMode) {
+                context.getItem().shrink(1);
+            }
             
             // Play the wood placement sound
             world.playSound(
